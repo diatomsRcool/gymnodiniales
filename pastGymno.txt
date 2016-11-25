@@ -1,0 +1,247 @@
+Gymnodinium name	Correct Name or Reason for Rejecting	Reference
+Gymnodinium accuminatum	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium acidotum Nygaard	Nusuttodinium acidotum (Nygaard) Takano & Horiguchi	Takano et al. 2014
+Gymnodinium acrotrochum	Gyrodinium acrotrochum Larsen 1996	[72]
+Gymnodinium acuminatum Christen	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium acutissimum Okolodkov 1997	Not code compliant	
+Gymnodinium aeruginosum Stein	Nusuttodinium aeruginosum (Stein) Takano & Horiguchi	Takano et al. 2014
+Gymnodinium agile Herdman 1922	Herdmania litoralis Dodge 1981	[307]
+Gymnodinium agilis	Herdmania litoralis Dodge 1981	[307]
+Gymnodinium alatum Litvienko 1963	Peridiniopsis berolinense (Lemmermann) Bourrelly 1968	[12]
+Gymnodinium alba	Not code compliant	
+Gymnodinium albida Lackey & Lackey 1970	Not code compliant	
+Gymnodinium albidum Lackey & Lackey 1970	Not code compliant	
+Gymnodinium amphibinioides Geitler 1924	Amphidinium amphidinioides (Geitler) Schiller 1932	[308]
+Gymnodinium amphidinioides Geitler 1924	Nusuttodinium amphidinioides (Geitler) Takano & Horiguchi 2014	Takano et al. 2014
+Gymnodinium archimedes Pouchet 1883	Cochlodinium archimedes (Pouchet) Lemmermann 1899	[309]
+Gymnodinium archimedis Pouchet 1883	Cochlodinium archimedes (Pouchet) Lemmermann 1899	[309]
+Gymnodinium astigmatica Christen 1959	Not code compliant	
+Gymnodinium asymmetricum Massart 1900	Katodinium asymmetricum (Massart) Loeblich	[310]
+Gymnodinium bei	Pelagodinium béii (Spero) Siano et al. 2010	[311]
+Gymnodinium béii H.J. Spero 1987	Pelagodinium béii (Spero) Siano et al. 2010	[311]
+Gymnodinium bicaudatum Pavillard 1905	Heterodinium bicaudatum (Pavillard) Kofoid & Swezy 1921	[19]
+Gymnodinium bisetosum Lindemann	Cystodinium bisetosum (Lindemann) Huber-Pestalozzi 1950	[184]
+Gymnodinium blax Harris 1939	Katodinium fungiforme (Anissimova) Loeblich 1965	[12]
+Gymnodinium bohemicum Fott 1938	Katodinium bohemicum (Fott) Litvinenko 1977	[12]
+Gymnodinium boreale Gaarder	Not code compliant	[312]
+Gymnodinium brene	Karenia brevis (Davis) Hansen and Moestrup 2000	[7]
+Gymnodinium breve Davis 1948	Karenia brevis (Davis) Hansen and Moestrup 2000	[7]
+Gymnodinium brevis	Karenia brevis (Davis) Hansen and Moestrup 2000	[7]
+Gymnodinium brevisulcatum F.H. Chang	Karenia brevisulcata (Chang) Hansen and Moestrup 2000	[7]
+Gymnodinium carinatum var. hiemalis Wołoszynska 1917	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium carinatum Schilling 1891	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium cestocoetes Thompson 1947	Woloszynskia cestocoedes (Thompson) Thompson 1950	[12]
+Gymnodinium chiasmonetrium Norris 1961	Erroneously formed name, Gyrodinium chiasmonetrium Norris 1961	
+Gymnodinium chloroforum	Lepidodinium chlorophorum (Elbrächter and Schnepf) Hansen et al. 2007	[313]
+Gymnodinium chlorophorum Elbrächter & Schnepf 1996	Lepidodinium chlorophorum (Elbrächter and Schnepf) Hansen et al. 2007	[313]
+Gymnodinium cladochroma	Takayama cladochroma (Larsen) de Salas et al. 2003	[314]
+Gymnodinium cladochromum	Takayama cladochroma (Larsen) de Salas et al. 2003	[314]
+Gymnodinium coerulea	Balechina coerulea (Dogiel) Taylor 1976	[315]
+Gymnodinium coeruleum Dogiel 1906	Balechina coerulea (Dogiel) Taylor 1976	[315]
+Gymnodinium conicum Kofoid & Swezy 1921	Spatulodinium pseudonoctiluca (Pouchet) Cachon and Cachon 1969	[316]
+Gymnodinium constrictum Schütt 1895	Cochlodinium constrictum (Schütt) Lemmermann 1899	[309]
+Gymnodinium contortum Schütt 1895	Gyrodinium contortum (Schütt) Kofoid and Swezy 1921	[19]
+Gymnodinium cornutum Pouchet	Gyrodinium cornutum (Pouchet) Kofoid and Swezy 1921	[19]
+Gymnodinium cornutum Schütt 1895	Gyrodinium schuetti (Schütt) Kofoid and Swezy 1921	[19]
+Gymnodinium coronatum var. glabrum Wołoszynska	Tovellia glabra (Wołoszynska) Moestrup et al. 2005	[317]
+Gymnodinium coronatum Wołoszynska 1917	Tovellia coronata (Wołoszynska) Moestrup et al. 2005	[317]
+Gymnodinium corsicum	Erroneously formed name, Gyrodinium corsicum Paulmier	
+Gymnodinium costatum  var. glabrum Wołoszynska	Gyrodinium coronatum var. glabrum Wołoszynska	
+Gymnodinium crassum Pouchet 1885	Gyrodinium crassum (Pouchet) Kofoid and Swezy 1921	[19]
+Gymnodinium cruciatum (Massart) Schiller	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium cruciatum J. Massart	Chilodinium cruciatum Massart 1920	[318]
+Gymnodinium cuneatum	Erroneously fomed name, Gyrodinium cuneatum Kofoid & Swezy 1921	
+Gymnodinium cuspidatum Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium decussata	Not code compliant	
+Gymnodinium dextrorsum	Not code compliant	
+Gymnodinium dimorphe Baumeister 1938	Cystodinium phaseolus Pascher 1928	[12]
+Gymnodinium diplococcus Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium dorsum	Erroneosuly formed name, Gyrodinium dorsum Kofoid & Swezy 1921	
+Gymnodinium dubium Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium edax Schilling	Erroneously formed name, Glenodinium edax Schilling	
+Gymnodinium elonga	Lessardia elongata Saldarriaga & Taylor	[319]
+Gymnodinium elongatum Hope 1954	Lessardia elongata Saldarriaga & Taylor	[319]
+Gymnodinium estuariale	Erroneously formed name, Gyrodinium estuariale Hulbert 1957	
+Gymnodinium eucyaneum Hu, Yu & Zhang	Nusuttodinium acidotum (Nygaard) Takano & Horiguchi	Takano et al. 2014
+Gymnodinium exavatum	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium excavatum  var. dextrorsum	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium excavatum Nygaard	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium excavatum var. dextrosum Nygaard 1954	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium faba Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium falcatum	Erroneously formed name, Ceratoperidinium falcatum (Kofoid and Swezy) Reñé & de Salas 2013	[19, Reñe et al. 2013 Protist]
+Gymnodinium fissoides	Erroneously formed name, Gyrodinium fissoides Elbrachter 1979	
+Gymnodinium fissum Levander 1894	Levanderina fissa (Leavander) Moestrup, Hakanen, Hansen, Daugbjerg & Ellegaard 2014	[19, Moestrup et al. 2014]
+Gymnodinium foliaceum Stein 1919	Erroneously formed name, Glenodinium foliaceum Stein 1919	
+Gymnodinium formica	Karlodinium veneficum (Ballantine) Larsen 2000	[7]
+Gymnodinium fucorum Kuster 1908	Crypthecodinium cohnii (Seligo) Chatton 1952	[320]
+Gymnodinium fungiforme Schiller 1933	Katodinium fungiforme (Anissimova) Loeblich 1965	[310]
+Gymnodinium fungiforme Anisimova 1925	Katodinium fungiforme (Anissimova) Loeblich 1965	[310]
+Gymnodinium fusiforme Kofoid & Swezy	Erroneously formed name, Gyrodinium fusiforme Kofoid & Swezy 1921	
+Gymnodinium fusum	Gyrodinium falcatum Kofoid and Swezy 1921	[19]
+Gymnodinium fusus Schütt 1895	Gyrodinium falcatum Kofoid and Swezy 1921	[19]
+Gymnodinium galatheanum Braarud 1957	Karlodinium veneficum (Ballantine) Larsen 2000	[7]
+Gymnodinium geminatum Schütt 1895	Cochlodinium geminatum (Schütt) Lemmermann 1899	[309]
+Gymnodinium glabra Wołoszynska 1918	Tovellia glabra (Wołoszynska) Moestrup et al. 2005	[317]
+Gymnodinium glaciale Danysz 1886	Not code compliant	[321]
+Gymnodinium glandula Herdman 1924	Katodinium glandulum (Herdman) Loeblich 1965	[310]
+Gymnodinium glaucum Conrad 1926	Amphidinium conradii (Conrad) Schiller 1933	[21]
+Gymnodinium gracile  var. exiguum Pouchet 1883	Rejected by Kofoid and Swezy as nomen nudum	[19]
+Gymnodinium gracilis Lackey	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium grave	Erroneously formed name, Gyrodinium grave (Meunier) Kofoid and Swezy 1921	
+Gymnodinium halophila	Biecheleria baltica (Biecheler) Moestrup, Lindberg & Daugbjerg 2009	[306]
+Gymnodinium halophilum Biecheler 1952	Biecheleria baltica (Biecheler) Moestrup, Lindberg & Daugbjerg 2009	[306]
+Gymnodinium helicoides	Not code compliant	
+Gymnodinium helix Schütt 1895	Cochlodinium helix (Pouchet) Lemmermann 1899	[309]
+Gymnodinium helix Pouchet 1887	Cochlodinium helix (Pouchet) Lemmermann 1899	[309]
+Gymnodinium helveticum  f. achroum Skuja 1948	Gyrodinium helveticum (Penard) Takano & Horiguchi 2004	[322]
+Gymnodinium helveticum  var. apiculatum	Gyrodinium helveticum (Penard) Takano & Horiguchi 2004	[322]
+Gymnodinium helveticum Penard 1891	Gyrodinium helveticum (Penard) Takano & Horiguchi 2004	[322]
+Gymnodinium helveticum var. apiculata (Zacharias) Utermöhl	Gyrodinium helveticum (Penard) Takano & Horiguchi 2004	[322]
+Gymnodinium hiemale Skvortzov 1927	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium hiemale Wołoszynska 1917	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium hyalinum Schilling 1891	Gyrodinium hyalinum (Schilling) Kofoid and Swezy 1921	[19]
+Gymnodinium instriatum (Freudenthal & Lee) Coats 2002	Levanderina fissa (Levander) Moestrup, Hakanen, Hansen, Daugbjerg & Ellegaard 2014	Moestrup et al. 2014 Phycologia
+Gymnodinium inversum Nygaard 1949	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium inversum var. elongatum Nygaard 1949	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium lachryma (Meunier) Kofoid & Swezy 1921	Erroneously formed name, Gyrodinium lachryma (Meunier) Kofoid & Swezy 1921	
+Gymnodinium latum Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium lebourae Pavillard	Spatulodinium pseudonoctiluca (Pouchet) Cachon and Cachon 1969	[316]
+Gymnodinium lebouriae Pavillard 1924	Spatulodinium pseudonoctiluca (Pouchet) Cachon and Cachon 1969	[316]
+Gymnodinium lebourii Pavillard	Spatulodinium pseudonoctiluca (Pouchet) Cachon and Cachon 1969	[316]
+Gymnodinium lens Fott 1957	Borghiella tenuissima (Lauterborn) Moestrup et al. 2008	[323]
+Gymnodinium lenticula	Erroneously formed name, Glenodinium lenticula Pouchet	
+Gymnodinium leopoliense Wołoszynska 1917	Tovellia leopoliensis (Wołoszynska) Moestrup et al. 2005	[317]
+Gymnodinium leopoliensis Wołoszynska 1917	Borghiella tenuissima (Lauterborn) Moestrup et al. 2008	[323]
+Gymnodinium limneticum Lackey 1936	Not code compliant	
+Gymnodinium limneticum Wołoszynska 1935	Spiniferodinium limneticum (Wo?oszynska) Kretschmann & Gottschling 2015	Kretschmann et al. 2015 Protist
+Gymnodinium linguliferum Lebour	Erroneously formed name, Gyrodinium lingulifera Lebour 1925	
+Gymnodinium linucheae Trench & Thinh 1995	Symbiodinium linucheae (Trench & Thinh) Lajeunesse 2001	[324]
+Gymnodinium loburare Campbell 1973	Not code compliant	
+Gymnodinium marianae	Balechina marianae Taylor	[315]
+Gymnodinium medium Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium metum Hulburt 1957	Not code compliant	
+Gymnodinium microadriaticum (Freudenthal) Taylor 1971	Symbiodinium microadriaticum Freudenthal 1962	[325]
+Gymnodinium micrum (Leadbeater and Dodge) Loeblich 1970	Karlodinium veneficum (Ballantine) Larsen 2000	[7]
+Gymnodinium mikimotoi Miyake & Kominami 1935	Karenia mikimotoi (Miyake and Kominami) Hansen and Moestrup 2000	[7]
+Gymnodinium mikimotoii	Karenia mikimotoi (Miyake and Kominami) Hansen and Moestrup 2000	[7]
+Gymnodinium mikinotoi	Karenia mikimotoi (Miyake and Kominami) Hansen and Moestrup 2000	[7]
+Gymnodinium minutissimum Massart 1901	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium minutum Lebour 1925	Heterocapsa rotundata (Lohmann) Hansen 1995	[326]
+Gymnodinium mirum Utermöhl 1923	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium monadicum (Perty) Saville-Kent 1880	Katodinium monadicum (Perty) Javornicky	[12]
+Gymnodinium musaei Danysz 1887	Katodinium Wołoszynskae (Schiller) Loeblich 1965	[310]
+Gymnodinium musei Danysz 1887	Katodinium Wołoszynskae (Schiller) Loeblich 1965	[12]
+Gymnodinium myriopyrenoides Yamaguchi, Nakayama, Kai & Inouye 2011	Nusuttodinium myriopyrenoides (Yamaguchi, Nakayama, Kai & Inouye) Takano & Yamaguchi	Takano et al. 2014
+Gymnodinium nagasakiense Takayama and Adachi 1985	Karenia mikimotoi (Miyake and Kominami) Hansen and Moestrup 2000	[7]
+Gymnodinium nagasakiensis	Karenia mikimotoi (Miyake and Kominami) Hansen and Moestrup 2000	[7]
+Gymnodinium nagasakii	Karenia mikimotoi (Miyake and Kominami) Hansen and Moestrup 2000	[7]
+Gymnodinium nasutum (Stein) Levander 1900	Hemidinium nasutum Kofoid & Swezy 1921	[19]
+Gymnodinium natalense Horiguchi & Pienaar 1994	Biecheleria natalensis (Horiguchi and Pienaar) Moestrup 2009	[306]
+Gymnodinium neglectum (Schilling) Lindemann 1929	Woloszynskia neglecta (Schilling) Thompson 1950	[12]
+Gymnodinium neglectum var. astigmata Christen 1959	Woloszynskia neglecta (Schilling) Thompson 1950	[12]
+Gymnodinium neglectum var. astigmatica Christen 1959	Woloszynskia neglecta (Schilling) Thompson 1950	[12]
+Gymnodinium nelsoni Martin 1929	Akashiwo sanguinea (Hirasaka) Hansen and Moestrup 2000	[7]
+Gymnodinium nelsonii Martin 1929	Akashiwo sanguinea (Hirasaka) Hansen and Moestrup 2000	[7]
+Gymnodinium noctiluca Pouchet 1885	Noctiluca miliaris Kofoid & Swezy	[19]
+Gymnodinium novaculosum Baumeister 1939	Cystodinium novaculosum (Baumeister) Huber-Pestalozzi	[12]
+Gymnodinium nygaardi Christen 1958	Tovellia nygaardii (Christen) Moestrup et al. 2005	[317]
+Gymnodinium nygaardii Christen 1958	Tovellia nygaardii (Christen) Moestrup et al. 2005	[317]
+Gymnodinium oblongum	Erroneously formed name, Gyrodinium oblongum Larsen & Patterson 1990	
+Gymnodinium oligoplacatum Skuja 1956	Perdinium umbonatum Stein 1883	[12]
+Gymnodinium opimum Schütt 1895	Gyrodinium opimum (Schütt) Lebour 1925	[20]
+Gymnodinium ordinatum Skuja 1939	Woloszynskia ordinata (Skuja) Thompson 1950	[12]
+Gymnodinium ordinatum var. sparsum Popovsky 1971	Woloszynskia ordinata (Skuja) Thompson 1950	[12]
+Gymnodinium ovatum Gourret 1883	Gyrodinium ovatum (Gourret) Kofoid and Swezy 1921	[19]
+Gymnodinium ovum Schütt 1895	Gyrodinium ovum (Schütt) Kofoid and Swezy 1921	[19]
+Gymnodinium palustre (Schilling) Wołoszynska 1917	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306, Wołoszynska 1917]
+Gymnodinium palustre Schilling 1891	Spiniferodinium palustre (Schilling) Kretschmann & Gottschling 2015	[12, Kretschmann et al. 2015]
+Gymnodinium parasitica	Oodinium parasiticum (Dogiel) Kofoid and Swezy 1921	[19]
+Gymnodinium parasiticum Dogiel 1906	Oodinium parasiticum (Dogiel) Kofoid and Swezy 1921	[19]
+Gymnodinium parvulum Schutt 1895	Gyrodinium parvulum (Schütt) Kofoid and Swezy 1921	[19]
+Gymnodinium pascheri (Suchlandt) Schiller 1954	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium pellucidum Wulff 1919	Gyrodinium pellucidum (Wulff) Schiller 1933	[21]
+Gymnodinium pepo	Erroneously formed name, Gyrodinium pepo (Schütt) Kofoid and Swezy 1921	
+Gymnodinium peridinium	Not code compliant	[327]
+Gymnodinium pigmentosum (Dodge) Loeblich 1970	Aureodinium pigmentosum Dodge 1967	[328]
+Gymnodinium pirum Schütt 1895	Cochlodinium pirum (Schütt) Lemmermann 1921	[309]
+Gymnodinium polonicum (Wołoszynska) Wołoszynska 1917	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium polyphemus  var. nigrum Pouchet 1887	Protospis nigra (Pouchet) Kofoid and Swezy 1921	[19]
+Gymnodinium polyphemus  var. roseum Pouchet Pouchet 1897	Pouchetia roseum (Pouchet) Kofoid and Swezy 1921	[19]
+Gymnodinium polyphemus Pouchet 1885	Warnowia polyphemus (Pouchet) Schiller 1933	[21]
+Gymnodinium polyphemus var. magna Dogiel 1906	Rejected by Kofoid and Swezy as nomen nudum	[19]
+Gymnodinium poucheti Lemmermann 1899	Oodinium pouchetii (Lemmermann) Chatton 1912	[19]
+Gymnodinium pouchetii Lemmermann 1899	Oodinium pouchetii (Lemmermann) Chatton 1912	[19]
+Gymnodinium pouchettii	Oodinium pouchetii (Lemmermann) Chatton 1912	[19]
+Gymnodinium prunus	Erroneously formed name, Gyrodinium prunus (Wulff) Lebour 1925	
+Gymnodinium pseudonoctiluca Pouchet 1885	Spatulodinium pseudonoctiluca (Pouchet) Cachon and Cachon 1969	[316]
+Gymnodinium pseudopalustre	Biecheleria pseudopalustris (Schiller) Moestrup et al. 2009	[306]
+Gymnodinium pseudopalustre Wołoszynska	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium pseudopalustris Schiller 1932	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[306]
+Gymnodinium pulchellum Larsen 1994	Takayama pulchella (Larsen) de Salas et al. 2003	[314]
+Gymnodinium pulvisculus (Ehrenberg) Stein 1878	Erroneously formed name, Glenodinium pulvisculus (Ehrenberg) Stein	[31]
+Gymnodinium pulvisculus Pouchet 1885	Oodinium pouchetii (Lemmermann) Chatton 1912	[329]
+Gymnodinium pulvisculus  var. oculatum Largajolli 1907	Glenodinium pulvisculus (Ehrenberg) Stein	[330]
+Gymnodinium pusillum Schilling 1891	Gyrodinium pusillum (Schilling) Kofoid and Swezy 1921	[19]
+Gymnodinium pyrenoidosum Horiguchi & Chihara 1988	Needs to be placed in new genus	[331]
+Gymnodinium quadridens	Peridiniopsis quadridens (Thompson) Bourrelly	[12]
+Gymnodinium quadrilobatum Horguchi & Pienaar 1994	Needs to be placed in new genus	[332]
+Gymnodinium rarum Litvinenko 1963	Amphidinium elenkinii Skvortsov 1925	[308]
+Gymnodinium resplendens Hulburt 1975	Erroneously formed name, Gyrodinium resplendens Hulburt 1957	
+Gymnodinium robusta	Misspelling of nomen nudum Gymnodinium robustum Cleve-Euler	
+Gymnodinium robustum Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium roseum Dogiel 1906	Chytriodinium roseum (Dogiel) Chatton 1912	[19]
+Gymnodinium rubrum Kofoid & Swezy 1921	Gyrodinium rubrum (Kofoid & Swezy) Takano & Horiguchi 2004	[322]
+Gymnodinium sangineum	Akashiwo sanguinea (Hirasaka) Hansen and Moestrup 2000	[7]
+Gymnodinium sanguineum Hirasaka 1922	Akashiwo sanguinea (Hirasaka) Hansen and Moestrup 2000	[7]
+Gymnodinium simplex (Lohmann) Kofoid & Swezy 1921	Needs to be placed in new genus	[306]
+Gymnodinium simplicissimum Stein 1878	Not code compliant	
+Gymnodinium skvortzovii Schiller 1933	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium skvortzowii	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium spinifera ClaparËde & Lachmann	Erroneously formed name, Gonyaulax spinifera (ClaparËde & Lachmann) Diesing	
+Gymnodinium spirale  var. acuta Schütt 1895	Gyrodinium acutum (Schütt) Kofoid and Swezy 1921	[19]
+Gymnodinium spirale  var. cornutum Pouchet 1885	Gyrodinium cornutum (Pouchet) Kofoid and Swezy 1921	[19]
+Gymnodinium spirale var. mitra Schütt, 1895	Gyrodinium mitrum Kofoid and Swezy 1921	[19]
+Gymnodinium spirale var. obtusa Schütt 1895	Gyrodinium obtusum (Schütt) Kofoid and Swezy 1921	[7]
+Gymnodinium spirale var. pepo Schütt 1895	Gyrodinium pepo (Schütt) Kofoid and Swezy 1921	[7]
+Gymnodinium spirale var. pinguis Schütt 1895	Gyrodinium pingue (Schütt) Kofoid and Swezy 1921	[7]
+Gymnodinium spirale var. striatum Pouchet 1883	Gyrodinium striatum Kofoid & Swezy 1921	[19]
+Gymnodinium spirale Bergh 1881	Gyrodinium spirale (Bergh) Kofoid and Swezy 1921	[19]
+Gymnodinium splendens Lebour 1925	Akashiwo sanguinea (Hirasaka) Hansen and Moestrup 2000	[7]
+Gymnodinium stagnale J. Schiller 1955	Prosoaulax lacustris (Stein) Calado and Moestrup 2005	[308]
+Gymnodinium stagnate	Prosoaulax lacustris (Stein) Calado and Moestrup 2005	[308]
+Gymnodinium stigmaticum Lindemann	Katodinium stigmaticum (Lindemann) Loeblich 1965	[310]
+Gymnodinium strangulatum Schütt 1895	Cochlodinium strangulatum (Schütt) Schütt 1896	[309]
+Gymnodinium striassimum	Erroneously formed name, Gyrodinium striatissimum (Hulburt) Hansen and Moestrup 2000	[7]
+Gymnodinium striata	Gyrodinium striatissimum (Hulburt) Hansen and Moestrup 2000	[7]
+Gymnodinium striatissimum  Hulburt 1957	Gyrodinium striatissimum (Hulburt) Hansen and Moestrup 2000	[7]
+Gymnodinium striatum	Gyrodinium striatissimum (Hulburt) Hansen and Moestrup 2000	[7]
+Gymnodinium sugashimanii Cachon et al. 1989	Gyrodinium falcatum Kofoid and Swezy 1921	[333]
+Gymnodinium tamarensis	Erroneously formed name, Gonyaulax tamarensis Lebour	
+Gymnodinium tatricum Wołoszynska 1919	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium tenuissimum Lauterborn 1894	Borghiella tenuissima (Lauterborn) Moestrup et al. 2008	[323]
+Gymnodinium teredo Pouchet	Torodinium teredo (Pouchet) Kofoid and Swezy 1921	[19]
+Gymnodinium trigonocephalum Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium tintinnicola Lohmann 1908	Dubosquella tintinnicola 	Coats et al. 2012
+Gymnodinium tripos	Erroneously formed name, Ceratium tripos (Müller) Ehrenberg	
+Gymnodinium tripos var. ponctic	Erroneously formed name, Ceratium tripos var. ponticum Jorgensen	
+Gymnodinium trochoideum Stein	Erroneously formed name, Glenodinium trochoideum Stein	
+Gymnodinium tylota	Woloszynskia tylota (Mapletoft et al.) Bibby and Dodge 1972	[12]
+Gymnodinium tylotum Mapletoft et al. 1966	Woloszynskia tylota (Mapletoft et al.) Bibby and Dodge 1972	[317]
+Gymnodinium uncatenum (Hulburt) Hallegraeff 2002	Levanderina fissa (Levander) Moestrup, Hakanen, Hansen, Daugbjerg & Ellegaard 2014	Moestrup et al. 2014
+Gymnodinium undulans	Erroneously formed name, Gyrodinium undulans Hulburt	
+Gymnodinium undulatum Wołoszynska 1925	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium vation	Not code compliant	
+Gymnodinium veneficum Stein 1878	Karlodinium veneficum (Ballantine) Larsen 2000	[7]
+Gymnodinium veneficum Ballantine 1956	Karlodinium veneficum (Ballantine) Larsen 2000	[7]
+Gymnodinium veris E. Lindemann 1925	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodinium vertebralis	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium vinugo	Karlodinium vitiligo (Ballantine) Larsen 2000	[7]
+Gymnodinium virescens Wood 1963	Not code compliant	
+Gymnodinium viride Schütt 1895	Gyrodinium viride Kofoid & Swezy 1921	[19]
+Gymnodinium viridis Lebour 1917	Spatulodinium pseudonoctiluca (Pouchet) Cachon and Cachon 1969	[316]
+Gymnodinium vitiligo Ballantine 1956	Karlodinium vitiligo (Ballantine) Larsen 2000	[7]
+Gymnodinium vorax Massart	Rejected by Silva as nomen nudum	[334]
+Gymnodinium vorticella Stein	Katodinium vorticellum (Stein) Loeblich 1965	[310]
+Gymnodinium wigrense Wołoszynska 1925	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
+Gymnodinium Wołoszynskae Pascher	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
+Gymnodium pigmentosum	Aureodinium pigmentosum Dodge 1967	[328]

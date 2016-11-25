@@ -1,0 +1,37 @@
+Name	Current Name	Reference
+Gymnodinium albertii Vozzhennikova		
+Gymnodinium attedalense Cookson & Eisenack	Endoscrinium attadalense (Cookson & Eisenack) Riding & Fensome	[301]
+Gymnodinium australiense Deflandre & Cookson	Apteodinium australiense (Deflandre & Cookson) Williams	[302]
+Gymnodinium avellana Lejeune-Carpentier	Dinogymnium avellana (Lejeune-Carpentier) Evitt, Clarke & Verdier	[303]
+Gymnodinium cretaceum Deflandre	Dinogymnium cretaceum (Deflandre) Evitt, Clarke & Verdier	[303]
+Gymnodinium cretaceum var. undulacostata Boltenhagen	Dinogymnium cretaceum var. undulacostata	[303]
+Gymnodinium curvatum Vozzhennikova		
+Gymnodinium dabendorfense Alberti	Luxadinium dabendorfense (Alberti) Bujak & Davies	[304]
+Gymnodinium decorum Deflandre	Dinogymnium decorum (Deflandre) Evitt, Clarke & Verdier	[303]
+Gymnodinium denticulatum Alberti	Dinogymnium denticulatum (Alberti) Evitt, Clarke & Verdier	[303]
+Gymnodinium digitus Deflandre	Dinogymnium digitus (Deflandre) Evitt, Clarke & Verdier	[305]
+Gymnodinium digitus var. crassus Vozzhennikova		
+Gymnodinium fehmarnense Morgenroth		
+Gymnodinium gabonense Deflandre		
+Gymnodinium galeritum Delfandre	Endoscrinium galeritum (Deflandre) Vozzhennikova	[301]
+Gymnodinium heterocostatum Deflandre	Dinogymnium heterocostatum (Deflandre) Evitt, Clarke & Verdier	[303]
+Gymnodinium heterocostatum var. kolpaschevi Vozzhennikova		
+Gymnodinium hexagonum Deflandre-Rigaud	Dinogymnium hexagonum (Deflandre-Rigaud) Evitt, Clarke & Verdier	[303]
+Gymnodinium hyalinum Vozzhennikova 1967		
+Gymnodinium kasachstanicum Vozzhennikova		
+Gymnodinium laticinctum Deflandre	Dinogymnium laticinctum (Deflandre) Evitt, Clarke & Verdier	[303]
+Gymnodinium longicorne Vozzhennikova		
+Gymnodinium longicornis Vozzhennikova 		
+Gymnodinium marthae Deflandre	Dinogymnium marthae (Deflandre) Evitt, Clarke & Verdier	[303]
+Gymnodinium muticum Vozzhennikova 1967		
+Gymnodinium nelsonense Cookson	Dinogymnium nelsonense (Cookson) Evitt, Clarke & Verdier	[303]
+Gymnodinium parvimarginatum Cookson & Eisenack	Scriniodinium parvimarginatum (Cookson & Eisenack) Eisenack	[301]
+Gymnodinium pontismariae Deflandre		
+Gymnodinium pontis-mariae Deflandre		
+Gymnodinium sibiricum Vozzhennikova		
+Gymnodinium sphaerocephalum var. laevis Vozzhennikova		
+Gymnodinium sphaerocephalum Vozzhennikova		
+Gymnodinium strombomorphum Deflandre	Dinogymnium strombomorphum (Deflandre) Evitt, Clarke & Verdier	[303]
+Gymnodinium torulosum Deflandre		
+Gymnodinium ventriosum Alberti		
+Gymnodinium westralium Cookson & Eisenack	Dinogymnium westralium (Cookson & Eisenack) Evitt, Clarke & Verdier	[305]
