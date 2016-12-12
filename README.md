@@ -7,5 +7,5 @@ This repository contains taxonomic and nomenclatural data about Gymnodiniales. I
 A human readable narrative describing the history of a taxon. The references cited within this file are in the references.txt file.
 
 **currentNames**
-A list of the current, accepted names of Gymnodinium.
+A list of the current, accepted names of Gymnodinium with authority and year.
 
