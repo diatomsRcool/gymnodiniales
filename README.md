@@ -15,3 +15,10 @@ A tab-delimited file with three columns and a column header. This file contains 
 
 **extinct**
 A tab-delimited file with three columns and a column header. This file contains a list of extinct Gymnodinium. All references cited in this file are in the references.txt file.
+
+**references**
+A numbered list of all the bibliographic references that are cited in the other files.
+
+**rejectNames** 
+A list of Gymnodinium names rejected based on Thessen et al. 2012 http://dx.doi.org/10.1371/journal.pone.0044015
+
