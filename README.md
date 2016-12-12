@@ -9,3 +9,6 @@ A human readable narrative describing the history of a taxon. The references cit
 **currentNames**
 A list of the current, accepted names of Gymnodinium with authority and year.
 
+**pastGymno**
+A tab-delimited file with three columns and a column header. This file contains a list of all Gymnodinium names that are no longer accepted as Gymnodinium. All references cited in this file are in the references.txt file.
+
