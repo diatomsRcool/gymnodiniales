@@ -91,17 +91,47 @@ Ruster Kanal des Neusiedlersees, Feber, März, auch unter Eis, untergeordnet bis
   <meta>
     <source>
       <author>F Schütt</author>
->Gymnodinium gleba n. sp.
-Fig. 86.1: Zelle rechts ventral, mit grossen, braunen Inhaltsklumpen (Chromatophorenklumpen?). An der Oberfläche zeigen sich zahlreiche kleine Plasmabläschen Pst (Pustela).
->Gymnodinium gracile Fig. 68 und 69.
-Im Gegensatz zu sämmtlichen oben beschriebenen Organismen besitzt diese Form gar keine Membran. Hierdurch wird aber die genauere Untersuchung sehr erschwert, weil sie keine Reagentien zu vertragen scheint. Ich habe Osmiumsäure, die Kleinenberg'sche Pikrinschwefelsäure, koncentrirtes und verdünntes Glycerin, absoluten und verdünnten Alkohol so wie Jodjodkalium und Chlorzinkjod versucht: keines dieser Reagentien vermag die Form zu bewahren, am besten jedoch die zwei letzteren, aber auch in diesen werden die Furchen und ihre Begrenzungswülste undeutlich (wir können hier nur von [Protoplasma-] Wülsten, nicht von Leisten sprechen). 
+      <date>1895</date>
+      <title>Die Peridineen der Planktonexpedition. I. Theil. Studien über die Zellen der Peridineen</title>
+    </source>
+  </meta>
+  <taxon_identification>
+    <taxon_name date="1895" authority="Schütt" rank="species">Gymnodinium gleba</taxon_name>
+  </taxon_identification>
+  <text>Zelle rechts ventral, mit grossen, braunen Inhaltsklumpen (Chromatophorenklumpen?). An der Oberfläche zeigen sich zahlreiche kleine Plasmabläschen Pst (Pustela).</text>
+</bio:treatment>
+<bio:treatment>
+  <meta>
+    <source>
+      <author>RS Bergh</author>
+      <date>1881</date>
+      <title>Bidrag til Cilioflaglatermes Naturhistorie</title>
+    </source>
+  </meta>
+  <taxon_identification>
+    <taxon_name date="1881" authority="Bergh" rank="species">Gymnodinium gracile</taxon_name>
+  </taxon_identifiation>
+  <text>Im Gegensatz zu sämmtlichen oben beschriebenen Organismen besitzt diese Form gar keine Membran. Hierdurch wird aber die genauere Untersuchung sehr erschwert, weil sie keine Reagentien zu vertragen scheint. Ich habe Osmiumsäure, die Kleinenberg'sche Pikrinschwefelsäure, koncentrirtes und verdünntes Glycerin, absoluten und verdünnten Alkohol so wie Jodjodkalium und Chlorzinkjod versucht: keines dieser Reagentien vermag die Form zu bewahren, am besten jedoch die zwei letzteren, aber auch in diesen werden die Furchen und ihre Begrenzungswülste undeutlich (wir können hier nur von [Protoplasma-] Wülsten, nicht von Leisten sprechen). 
 Die Körperform ist schlank, 2.5-3.5 mal so lang als breit; der Körper besteht aus einem vorderen, kürzeren, mehr konischen (nach vorn zugespitzten) und einem hinteren, längeren, mehr cylindrischen (nach hinten abgerundeten) Stück, welche durch die Querfurche geschieden sind. Diese ist an der Ventralfläche links etwas nach vorn, rechts dagegen nach hinten gebogen (vgl. Fig. 68) und eben so wie bei den sämmtlichen übrigen Formen hier unterbrochen. Sowohl von der rechten wie von der linken Seite des hinteren Querfurchenwulstes entspringt ein Längswulst, welcher nach hinten verläuft; zwischen ihnen findet sich die ziemlich tiefe und schmale Längsfurche, welche doch nach hinten viel breiter und weniger tief wird, indem die Wülste hier aus einander weichen (Fig. 68). so wird ein Bild hervorgebracht, welches flüchtig an den hinteren theil der Primitivfurche und der Rückenwülste eines Wirbelthierembryo erinnert (jedoch vereinigen sich die Wülste ganz nach hinten wieder und schließen über der Furche dicht zusammen). -Auch nach vorn setzt sich die Längsfurche fort, hier von Fortsetzungen des vorderen Querfurchenwulstes begrenzt, welcher auch unter einem etwa rechten Winkel (nach, vorn) umbiegt, sie ist hier außerordentlich schmal.
 Ein Individuum, das gemessen wurde, zeigte folgende Dimensionen: Totallänge=0,090 mm, Briete (an der Querfurche) = 0,024 mm, Länge des Vorderkörpers=0,034mm, Länge des Hinterkörpers=0,056 mm.
 Das protoplasma zeigt die Differenzirung in Exoplasma und Endoplasma sehr deutlich. Das Exoplasma ist völlig farblos und hyalin, ziemlich gerunzelt und gefaltet, wodurch der ganze Körperkontur ein etwas unregelmäßiges Aussehen erhält, während es bei Betrachtung von oben her eine scheinbare Längsstreifung hervorruft (Fig. 68 u. 69). durch den Zusatz von Chlorzinkjob gerinnt es und wird körnig; hierdurch wird also bewiesen, dass sich eine Membran nicht findet; die albuminoide Natur des Exoplasma giebt sich außerdem dadurch kund, dass es sich in Jod hellgelb färbt. eine differenzirte Myophanschicht (wie bei G. spirale, siehe unten) findet sich hier nicht. -Das Endoplasma ist konstant schwach röthlich gefärbt (wie bei Diplopsalis lenticula); es enthält niemals weder Diatomin, noch Chlorphyll oder Stärke. Dagegen trifft man in ihm sehr häufig gefressene Organismen (den Nahrungsballen der Ciliaten ganz ähnlich); ein differenzirtes Cytostom oder Cytopyge findet sich jedoch nicht. Die Ernährung scheint also nach diesen Beobachtungen in animalischer Weise stattzufinden. -Sehr häufig (doch nicht konstant) finden sich am Vorderende eine oder mehrere Blasen, die doch nicht kontraktil zu sein schienen. Ein Kanälchen, das sie mit dem Meerwasser in Verbingung setzen könnte, wurde nicht beobachtet. -Der Kern ist von rundlicher Form, Diam. = ca. 0,013 mm; gewöhnlich ist er ohne Reagentienzusatz icht sichtbar. er liegt etwa in der Mitte des Körpers (dicht hinter der Querfurche); seinem Baue nach ähnelt er ganz denen der übrigen Formen.
 Der Bewegungsapparat besteht aus dem Flagellum, das ganz nach hinten in dem erweiterten Theil der Längsfurche entspringt, und aus nur einem kontraktilen Saum, der sich zwischen den beiden Querfurchenwülsten findet. Auch hier findet die Bewegung dieses letzteren immer in derselben Richtung statt: links an der Bauchfläche beginnend (vgl. oben besonders Protoperidinium pellucidum). Das Thierchen bewegt sich durchaus nicht so regelmäßig wie die folgende Art, sondern mehr plötzlich-ruckweise. Das Vorderende ist hierbei gewöhnlich nach vorn gerichtet.
-Über Fortpflanzung und Entwicklung dieser Form habe ich leider gar keine Beobachtungen.
->Gymnodinium gracile Bgh. n. sp.
-Legemet ve Tverfuren skarpt adskilt i en kortere (conisk) Forkrop og en længere (cylindrisk) Bagkrop. Længdefuren meget bred bagtil. -Exoplasmet rynket og foldet; intet Myophanlag. Endoplasmet sædvanlig rødligt farvet. – Marin
+Über Fortpflanzung und Entwicklung dieser Form habe ich leider gar keine Beobachtungen.</text>
+</bio:treatment>
+<bio:treatment>
+  <meta>
+    <source>
+      <author>RS Bergh</author
+      <date>1881</date>
+      <title>Bidrag til Cilioflaglatermes Naturhistorie</title>
+    </source>
+  </meta>
+  <taxon_identification>
+    <taxon_name date="1881" authority="Bergh" rank="species">Gymnodinium gracile</taxon_name>
+  </taxon_identification>
+  <text>Legemet ve Tverfuren skarpt adskilt i en kortere (conisk) Forkrop og en længere (cylindrisk) Bagkrop. Længdefuren meget bred bagtil. -Exoplasmet rynket og foldet; intet Myophanlag. Endoplasmet sædvanlig rødligt farvet. – Marin</text>
+</bio:treatment>
+<bio:treatment>
 >Gymnodinium gracile Bergh
 Vorderkörper konisch, Hinterkörper lang, hinten abgerundet. Querfurche links drehend, Längsfurche nach unten verbreitert. Endoplasma schwach rötlich gefärbt, oft Nahrungsballen (gefressene Organismen) enthaltend.
 Länge: 0,09-0,1 mm, Breite: ca. 0,024 mm.
