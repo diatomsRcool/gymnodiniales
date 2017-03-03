@@ -29,18 +29,68 @@ Die Zellen des neuen Gymnodiniums sind rundlich, zirka 5:3, dorsiventral abgefla
   </taxon_identification>
   <text>Diagnosis. Cellulae dorsiventraliter paulum applanatae, a fronte visae late pyriformes. Epivalva coniformis est atque apice rotundato instructua; hypovalva magnitudine simili, subbulbiformis, extremo abrupte acuminata est. Sulcus longitudinalis augustus, rectus, a polo antapicali hypovalvae partim in epivalvam attinens, ubi angulum acutum versus apicem cellulae directum format. Ab epivalva corpus acutum rectum vel leviter curvatum declive sulcum longitudinalem transgreditur. Membrana delicata, hyalina, sine structura visibili, Nucleus medius, ellipsoideus vel subcylindricus, apicibus rotundatis. Chromatophori satis magni (4-7 μ), discoidei, subangulati, valde aeruginei sunt. Stigma destitutum, sed corpuscula rubida 1-2 saepe prope sulcum transversalem occurrunt. Longitudo cellularum 33-37 μ, latitudo 24-30 μ. Hab. In stagno parvo prope Søgaard, Jutlandia meridiana, Dania, libere natans.</text>
 </bio:treatment>
->Gymnodinium galeaeforme n. sp. Fig. 2. Vorderkörper helmartig, konvex, Konturen schwach konkav geschwungen, apikal etwas abgeflacht, Hinterkörper konkav; zwei abgerundete Antapikalfortsätze. Querfurche linksdrehend (eine Querfurchenbreite), Längsfurche schmal, beide tief. In Seitenansicht tritt die geschwungene Körperform noch besser hervor. Vorderkörper dicker als der Hinterkörper. Chromatophoren langgestreckt, spindelförmig, radiär gegen das Zentrum gerichtet. Geißeln waren nicht mehr sichtbar.
-Die Zelle ist dem Gymnodinium splendens Lebour etwas ähnlich, unterscheidet sich aber von ihm durch seine schön geschwungene Gestalt, die apikale Abflachung und die schwach wulstartige Anschwellung in der Gürtelregion. L = 62 μ, B = 58 μ. Fang 4, 6.
->Gymnodinium gibbera spec. nov. Taf. 5, Fig. 21. (Textfig. 26.)
-Körper langoval, dorsoventral nicht zusammengedrückt, Vorderkörper stumpf konisch, Hinterkörper ebenso, ersterer gestreift, mit glatter Platte am Apex, letzterer mit erhabener Felderung, deren Grenzen tiefer liegen. Querfurche fast kreisförmig mit parallelen Streifen, Längsfurche auf dem Oberkörper wenig, am Hinterkörper bis zur Mitte entwickelt, schmal.
+<bio:treatment>
+  <meta>
+    <source>
+      <author>L Matzenauer</author>
+      <date>1933</date>
+      <title>Die Dinoflagellaten des Indischen Ozeans</title>
+    </source>
+  </meta>
+  <taxon_identification>
+    <taxon_name date="1933" authority="Matzenauer" rank="species">Gymnodinium galeaeforme</taxon_name>
+  </taxon_identification>
+  <text>Vorderkörper helmartig, konvex, Konturen schwach konkav geschwungen, apikal etwas abgeflacht, Hinterkörper konkav; zwei abgerundete Antapikalfortsätze. Querfurche linksdrehend (eine Querfurchenbreite), Längsfurche schmal, beide tief. In Seitenansicht tritt die geschwungene Körperform noch besser hervor. Vorderkörper dicker als der Hinterkörper. Chromatophoren langgestreckt, spindelförmig, radiär gegen das Zentrum gerichtet. Geißeln waren nicht mehr sichtbar.
+Die Zelle ist dem Gymnodinium splendens Lebour etwas ähnlich, unterscheidet sich aber von ihm durch seine schön geschwungene Gestalt, die apikale Abflachung und die schwach wulstartige Anschwellung in der Gürtelregion. L = 62 μ, B = 58 μ. Fang 4, 6.</text>
+</bio:treatment>
+<bio:treatment>
+  <meta>
+    <source>
+      <author>J Schiller</author>
+      <date>1928</date>
+      <title>Die planktischen Vegetationen des Adriatischen Meeres. C. Dinoflagellata. Systematischer Teil. 2. Teil Gymnodiniales</title>
+    </source>
+  </meta>
+  <taxon_identification>
+    <taxon_name date="1928" authority="Schiller" rank="species">Gymnodinium gibbera</taxon_name>
+  </taxon_identification>
+  <text>Körper langoval, dorsoventral nicht zusammengedrückt, Vorderkörper stumpf konisch, Hinterkörper ebenso, ersterer gestreift, mit glatter Platte am Apex, letzterer mit erhabener Felderung, deren Grenzen tiefer liegen. Querfurche fast kreisförmig mit parallelen Streifen, Längsfurche auf dem Oberkörper wenig, am Hinterkörper bis zur Mitte entwickelt, schmal.
 Plasma ungefärbt, Chromatophoren gelblich grün groß.
-Länge 48-50 μ, Breite 22-24 μ.
->Gymnodinium glandiforme nov. sp. (Pl. IX, fig. 3.) Minuscule Dinoflagellate incolore de forme générale de gland de chêne cylindrique avec cône apical triangulaire, dont la hauteur est égale au tiers de la longueur. Le sommet de l'apex, triangulaire, est arrondi, les angles sont un peu arrondis et dépassent les flancs de l'hypocone. Celui-ci est arrondi régulièrement et présente une vague indication de sillon à l'extrémité libre, plutôt un léger enfoncement d'aspect triangulaire. Le sillon transversal n'est indiqué que par un trait fin et parallèle à la base de l'epicone. Le noyau sphérique se trouve juste en dessous de sillon transversal. Absence de chromatophores, contenu hyalin. Seul l'aspect ventral est connu. Flagelle ayant deux fois la longueur du corps. Hauteur: 10 μ; largeur de l'epicone: 6 μ; largeur de l'hypocone: 4.5 μ.
+Länge 48-50 μ, Breite 22-24 μ.</text>
+</bio:treatment>
+<bio:treatment>
+  <meta>
+    <source>
+      <author>W Conrad and H Kufferath</author>
+      <date>1954</date>
+      <title>Recherches sur les eaux saumatres des environs de Lilloo. 2. Partie descriptive. Alges et protistes. Consdérations écologiques</title>
+    </source>
+  </meta>
+  <taxon_identification>
+    <taxon_name date="1954" authority="Conrad & Kufferath" rank="species">Gymnodinium glandiforme</taxon_name>
+  </taxon_identification>
+  <text>Minuscule Dinoflagellate incolore de forme générale de gland de chêne cylindrique avec cône apical triangulaire, dont la hauteur est égale au tiers de la longueur. Le sommet de l'apex, triangulaire, est arrondi, les angles sont un peu arrondis et dépassent les flancs de l'hypocone. Celui-ci est arrondi régulièrement et présente une vague indication de sillon à l'extrémité libre, plutôt un léger enfoncement d'aspect triangulaire. Le sillon transversal n'est indiqué que par un trait fin et parallèle à la base de l'epicone. Le noyau sphérique se trouve juste en dessous de sillon transversal. Absence de chromatophores, contenu hyalin. Seul l'aspect ventral est connu. Flagelle ayant deux fois la longueur du corps. Hauteur: 10 μ; largeur de l'epicone: 6 μ; largeur de l'hypocone: 4.5 μ.
 Trouvé en P (29 juin 1938, NaCl 4.7 ‰).
-Espèce mésohaline.
->Gymnodinium glaucum n. sp. Abb. 30 a-c, 850X
-Zellform rundlich-eiförmig, dorsoventral wenig abgeflacht, im Präparat lebhaft schwimmend und wenig veränderlich, 21-22 μ lang, 18-19 μ breit; Epivalva fast so breit wie die Hypovalva und nur wenig kürzer, 7.5 μ hoch, mützenförmig; Hypovalva 10-11 μ hoch, breit fast halbkugelig, nur wenig breiter als die Epivalva, antapikal nur wenig ausgerandet; Querfurche 4 μ breit, tief, kreisförmig; Längsfurche gut entwickelt, oben breiter, nach unten verschmälert, den Antapex wenig ausrandend. Chromatophoren zerstreut, ellipsoidisch, blaugrau. Kern in der Zellmitte, meist gut sichtbar.
-Ruster Kanal des Neusiedlersees, Feber, März, auch unter Eis, untergeordnet bis mitbestimmend. Temperature 1-7°C.
+Espèce mésohaline.</text>
+</bio:treatment>
+<bio:treatment>
+  <meta>
+    <source>
+      <author>J Schiller</author>
+      <date>1957</date>
+      <title>Untersuchungen an den planktischen Protophyten des Neusiedlersees 1950-1954</title>
+    </source>
+  </meta>
+  <taxon_identification>
+    <taxon_name date="1957" authority="Schiller" rank="species"> Gymnodinium glaucum</taxon_name>
+  </taxon_identification>
+  <text>Zellform rundlich-eiförmig, dorsoventral wenig abgeflacht, im Präparat lebhaft schwimmend und wenig veränderlich, 21-22 μ lang, 18-19 μ breit; Epivalva fast so breit wie die Hypovalva und nur wenig kürzer, 7.5 μ hoch, mützenförmig; Hypovalva 10-11 μ hoch, breit fast halbkugelig, nur wenig breiter als die Epivalva, antapikal nur wenig ausgerandet; Querfurche 4 μ breit, tief, kreisförmig; Längsfurche gut entwickelt, oben breiter, nach unten verschmälert, den Antapex wenig ausrandend. Chromatophoren zerstreut, ellipsoidisch, blaugrau. Kern in der Zellmitte, meist gut sichtbar.
+Ruster Kanal des Neusiedlersees, Feber, März, auch unter Eis, untergeordnet bis mitbestimmend. Temperature 1-7°C.</text>
+</bio:treatment>
+<bio:treatment>
+  <meta>
+    <source>
+      <author>F Schütt</author>
 >Gymnodinium gleba n. sp.
 Fig. 86.1: Zelle rechts ventral, mit grossen, braunen Inhaltsklumpen (Chromatophorenklumpen?). An der Oberfläche zeigen sich zahlreiche kleine Plasmabläschen Pst (Pustela).
 >Gymnodinium gracile Fig. 68 und 69.
