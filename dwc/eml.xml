@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:md="eml://ecoinformatics.org/methods-2.1.1" xmlns:proj="eml://ecoinformatics.org/project-2.1.1" xmlns:d="eml://ecoinformatics.org/dataset-2.1.1" xmlns:res="eml://ecoinformatics.org/resource-2.1.1" xmlns:dc="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packageId="42b9e9f9-d9c8-4f3f-88ef-a3223e2fae6c/2017-03-14::13:15:16" system="http://globalnames.org" xml:lang="en" xsi:schemaLocation="eml_uri">
+  <dataset id="42b9e9f9-d9c8-4f3f-88ef-a3223e2fae6c">
+    <title>Gymno</title>
+    <license/>
+    <creator id="1" scope="document">
+      <individualName>
+        <givenName>Anne</givenName>
+        <surName>Thessen</surName>
+      </individualName>
+      <electronicMailAddress>annethessen@gmail.com</electronicMailAddress>
+    </creator>
+    <metadataProvider>
+      <individualName>
+        <givenName>Anne</givenName>
+        <surName>Thessen</surName>
+      </individualName>
+      <electronicMailAddress>annethessen@gmail.com</electronicMailAddress>
+    </metadataProvider>
+    <pubDate>2017-03-14 13:15:16 -0500</pubDate>
+    <abstract>
+      <para></para>
+    </abstract>
+    <contact>
+      <references>http://dx.doi.org/10.1371/journal.pone.0044015</references>
+    </contact>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <citation/>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
