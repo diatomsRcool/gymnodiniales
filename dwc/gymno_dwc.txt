@@ -321,16 +321,16 @@ T360	Gymnodinium albulum	T241	species	heterotypic synonym	Lindemann		Schiller 19
 T242	Gymnodinium subroseum	T161	species	accepted	Campbell	1973			
 T243	Gymnodinium subrufescens	T161	species	accepted	Martin	1929			
 T244	Gymnodinium sulcatum	T161	species	accepted	Kofoid & Swezy	1921			
-T245	Gymnodinium terrum	T161	species		Baumeister	1943			
-T246	Gymnodinium thomasi	T161	species		Christen	1949			
+T245	Gymnodinium terrum	T161	species	accepted	Baumeister	1943			
+T246	Gymnodinium thomasi	T161	species	accepted	Christen	1949			
 T361	Gymnodinium thomasii	T246	species	lexical variant					
 T247	Gymnodinium tintinnicola	T277	species	synonym	Lohmann	1908			
-T248	Gymnodinium translucens	T161	species		Kofoid & Swezy	1921			
-T249	Gymnodinium trapeziforme	T161	species		Attaran-Fariman & Bolch	2007			
-T250	Gymnodinium triceratium	T161	species		Skuja	1939			
+T248	Gymnodinium translucens	T161	species	accepted	Kofoid & Swezy	1921			
+T249	Gymnodinium trapeziforme	T161	species	accepted	Attaran-Fariman & Bolch	2007			
+T250	Gymnodinium triceratium	T161	species	accepted	Skuja	1939			
 T251	Gymnodinium impar	T250	species	heterotypic synonym	Harris	1939			
 T362	Gymnodinium asymmetricum	T250	species	heterotypic synonym	Woloszynska	1936			
-T252	Gymnodinium uberrimum	T161	species		(Allman) Kofoid & Swezy	1921			
+T252	Gymnodinium uberrimum	T161	species	accepted	(Allman) Kofoid & Swezy	1921			
 T253	Peridinium uberrima	T252	species	homotypic synonym	Allman	1855			
 T254	Gymnodinium mirabile var. rufescens	T252	variety	heterotypic synonym	Penard	1891			
 T363	Glenodinium uberrimum	T252	species	homotypic synonym	Schilling	1913			
@@ -346,134 +346,133 @@ T372	Melodinium uberrimum	T252	species	heterotypic synonym	Saville-Kent	1880/81
 T373	Gymnodinium ubberimum	T252	species	lexical variant					
 T255	Gymnodinium uncatenum	T287	species	synonym	(Hulburt) Hallegraeff	2002	Hallegraeff GM (2002) Aquaculturists Guide to Hamful Australian Microalgae. 2nd ed. Hobart: University of Tasmania. 136 p.		
 T256	Gyrodinium uncatenum	T255	species	synonym					
-T257	Gymnodinium valdecompressum	T161	species		Campbell	1973			
-T258	Gymnodinium variabile	T161	species		Herdman	1924			
-T259	Gymnodinium varians	T161	species		Maskell	1877			
+T257	Gymnodinium valdecompressum	T161	species	accepted	Campbell	1973			
+T258	Gymnodinium variabile	T161	species	accepted	Herdman	1924			
+T259	Gymnodinium varians	T161	species	accepted	Maskell	1877			
 T260	Gymnodinium minimum	T259	species	heterotypic synonym	Klebs	1912			
-T261	Gymnodinium venator	T161	species		Flø Jørgensen & Murray	2004			
+T261	Gymnodinium venator	T161	species	accepted	Flø Jørgensen & Murray	2004			
 T262	Amphidinium pellucidum	T261	species	homotypic synonym	Herdman	1922			
 T374	Gymnodinium pellucidum	T261	species	homotypic synonym	(Herdman) Flø Jørgensen & Murray	2004			
 T375	Amphidinium subsalsum	T261	species	heterotypic synonym	Biecheler	1952			
-T263	Gymnodinium verruculosum	T161	species		Campbell	1973			
-T264	Gymnodinium vestifici	T161	species		Schütt	1895			
+T263	Gymnodinium verruculosum	T161	species	accepted	Campbell	1973			
+T264	Gymnodinium vestifici	T161	species	accepted	Schütt	1895			
 T376	Gymnodinium vestificii	T264	species	lexical variant					
-T265	Gymnodinium violescens	T161	species		Kofoid & Swezy	1921			
-T266	Gymnodinium viridaliut	T161	species		Schiller	1957			
-T267	Gymnodinium viridans	T161	species		van Meel	1969			
-T268	Gymnodinium viridescens	T161	species		Kofoid	1931			
-T269	Gymnodinium voukii	T161	species		Schiller	1928			
-T270	Gymnodinium wawrikae	T161	species		Schiller	1957			
-T271	Gymnodinium wilczeki	T161	species		Pouchet	1894			
-T272	Gymnodinium wulffii	T161	species		Schiller	1933			
+T265	Gymnodinium violescens	T161	species	accepted	Kofoid & Swezy	1921			
+T266	Gymnodinium viridaliut	T161	species	accepted	Schiller	1957			
+T267	Gymnodinium viridans	T161	species	accepted	van Meel	1969			
+T268	Gymnodinium viridescens	T161	species	accepted	Kofoid	1931			
+T269	Gymnodinium voukii	T161	species	accepted	Schiller	1928			
+T270	Gymnodinium wawrikae	T161	species	accepted	Schiller	1957			
+T271	Gymnodinium wilczeki	T161	species	accepted	Pouchet	1894			
+T272	Gymnodinium wulffii	T161	species	accepted	Schiller	1933			
 T377	Gymnodinium wulffi	T272	species	lexical variant					
 T378	Gymnodinium wulfii	T272	species	lexical variant					
-T273	Gymnodinium zachariasi	T161	species		Lemmermann	1900			
+T273	Gymnodinium zachariasi	T161	species	accepted	Lemmermann	1900			
 T274	Gymnodinium palustre	T273	species	heterotypic synonym	Zacharias	1899	Zacharias O (1899) Ueber Pseudopodienbildung bei einem Dinoflagellaten. Biologischen Centralblatt 19:141-144		
 T379	Gymnodinium zachariasii	T273	species	lexical variant					
-T275	Gymnodinium smaydae	T161	species						
+T275	Gymnodinium smaydae	T161	species	accepted	Kang, Jeong & Moestrup	2015			
 T276	Dubosquella 	T256	genus						
-T277	Dubosquella tintinnicola	T276	species						
+T277	Dubosquella tintinnicola	T276	species	accepted					
 T278	Nusuttodinium	T285	genus						
-T280	Nusuttodinium acidotum	T278	species		(Nygaard) Takano & Horiguchi	2014			
+T280	Nusuttodinium acidotum	T278	species	accepted	(Nygaard) Takano & Horiguchi	2014			
 T281	Gymnodinium acidotum	T280	species	synonym	Nygaard				
-T282	Nusuttodinium aeruginosum	T278	species		(Stein) Takano & Horiguchi	2014			
-T283	Nusuttodinium myriopyrenoides	T278	species		(Yamaguchi, Nakayama, Kai & Inouye) Takano & Yamaguchi	2014			
-T284	Gymnodinium p.dorhni	T161	species						
+T282	Nusuttodinium aeruginosum	T278	species	accepted	(Stein) Takano & Horiguchi	2014			
+T283	Nusuttodinium myriopyrenoides	T278	species	accepted	(Yamaguchi, Nakayama, Kai & Inouye) Takano & Yamaguchi	2014			
+T284	Gymnodinium p.dorhni	T161	species	accepted	Wawrik	1956			
 T285	Gymnodiniaceae		family						
 T286	Dubosquellidae		family						
-T287	Levanderina fissa	T288	species		(Levander) Moestrup, Hakanen, Hansen, Daugbjerg & Ellegaard	2014	Moestrup Ø, Hakanen P, Hansen G, Daugbjerg N, Ellegaard M (2014) On Levanderina fissa gen. & comb. nov. (Dinophyceae) (syn. Gymnodinium fissum, Gyrodinium instriatum, Gyr. uncatenum), a dinoflagellate with a very unusual sulcus. Phycologia 53(3): 265-292.		
+T287	Levanderina fissa	T288	species	accepted	(Levander) Moestrup, Hakanen, Hansen, Daugbjerg & Ellegaard	2014	Moestrup Ø, Hakanen P, Hansen G, Daugbjerg N, Ellegaard M (2014) On Levanderina fissa gen. & comb. nov. (Dinophyceae) (syn. Gymnodinium fissum, Gyrodinium instriatum, Gyr. uncatenum), a dinoflagellate with a very unusual sulcus. Phycologia 53(3): 265-292.		
 T288	Levanderina	T285	genus						
-T289	Gymnodinium inusitatum	T161	species						
+T289	Gymnodinium inusitatum	T161	species	accepted	Gu	2013			
 T290	Gymnodinium palustre	T291	species	synonym	(Schilling) Woloszynska	1917	Wo?oszy?ska J (1917) Neue Peridineen-Arten, nebst Bemerkungen über den Bau der Hülle bei Gymno- und Glenodinium. Bull. Int. Acad. Sci. Cracovie, Cl. Sci., Math. Nat., Sér. B: Sc. Nat. 11422.		
-T291	Biecheleria pseudopalustris	T292	species		(Schiller) Moestrup, Lindberg & Daugbjerg	2009			
+T291	Biecheleria pseudopalustris	T292	species	accepted	(Schiller) Moestrup, Lindberg & Daugbjerg	2009			
 T223	Gymnodinium accuminatum	T291	species	lexical variant					
 T292	Biecheleria	T285	genus						
 T293	Spiniferodinium	T285	genus						
-T294	Spiniferodinium palustre	T293	species		(Schilling) Kretschmann & Gottschling	2015			
+T294	Spiniferodinium palustre	T293	species	accepted	(Schilling) Kretschmann & Gottschling	2015			
 T295	Gymnodinium palustre	T294	species	synonym	Schilling	1891	Schilling, AJ (1891) Die Sü?wasserperideneen. Flora oder allgemeine botanische Zeitung 74:220-299.		
-T380	Gymnodinium albertii	T161	species		Vozzhennikova			extinct taxon	
-T381	Gymnodinium attedalense	T161	species		Cookson & Eisenack			extinct taxon	
+T380	Gymnodinium albertii	T161	species	accepted	Vozzhennikova			extinct taxon	
+T381	Gymnodinium attedalense	T161	species	accepted	Cookson & Eisenack			extinct taxon	
 T382	Endoscrinium attadalense	T381	species	synonym	(Cookson & Eisenack) Riding & Fensome			extinct taxon	
-T383	Gymnodinium australiense	T161	species		Deflandre & Cookson			extinct taxon	
+T383	Gymnodinium australiense	T161	species	accepted	Deflandre & Cookson			extinct taxon	
 T384	Apteodinium australiense	T383	species	synonym	(Deflandre & Cookson) Williams			extinct taxon	
-T385	Gymnodinium avellana	T161	species		Lejeune-Carpentier			extinct taxon	
+T385	Gymnodinium avellana	T161	species	accepted	Lejeune-Carpentier			extinct taxon	
 T386	Dinogymnium avellana	T385	species	synonym	(Lejeune-Carpentier) Evitt, Clarke & Verdier			extinct taxon	
-T387	Gymnodinium cretaceum	T161	species		Deflandre			extinct taxon	
+T387	Gymnodinium cretaceum	T161	species	accepted	Deflandre			extinct taxon	
 T388	Dinogymnium cretaceum	T387	species	synonym	(Deflandre) Evitt, Clarke & Verdier			extinct taxon	
 T389	Gymnodinium cretaceum var. undulacostata	T161	variety		Boltenhagen			extinct taxon	
 T390	Dinogymnium cretaceum var. undulacostata	T389	variety	synonym				extinct taxon	
-T391	Gymnodinium curvatum	T161	species		Vozzhennikova			extinct taxon	
-T392	Gymnodinium dabendorfense	T161	species		Alberti			extinct taxon	
+T391	Gymnodinium curvatum	T161	species	accepted	Vozzhennikova			extinct taxon	
+T392	Gymnodinium dabendorfense	T161	species	accepted	Alberti			extinct taxon	
 T393	Luxadinium dabendorfense	T392	species	synonym	(Alberti) Bujak & Davies			extinct taxon	
-T394	Gymnodinium decorum	T161	species		Deflandre			extinct taxon	
+T394	Gymnodinium decorum	T161	species	accepted	Deflandre			extinct taxon	
 T395	Dinogymnium decorum	T394	species	synonym	(Deflandre) Evitt, Clarke & Verdier			extinct taxon	
-T396	Gymnodinium denticulatum	T161	species		Alberti			extinct taxon	
+T396	Gymnodinium denticulatum	T161	species	accepted	Alberti			extinct taxon	
 T397	Dinogymnium denticulatum	T396	species	synonym	(Alberti) Evitt, Clarke & Verdier			extinct taxon	
-T398	Gymnodinium digitus 	T161	species		Deflandre			extinct taxon	
+T398	Gymnodinium digitus 	T161	species	accepted	Deflandre			extinct taxon	
 T399	Dinogymnium digitus	T398	species	synonym	(Deflandre) Evitt, Clarke & Verdier			extinct taxon	
 T400	Gymnodinium digitus var. crassus 	T398	variety		Vozzhennikova			extinct taxon	
-T401	Gymnodinium fehmarnense	T161	species		Morgenroth			extinct taxon	
-T402	Gymnodinium gabonense 	T161	species		Deflandre			extinct taxon	
-T403	Gymnodinium galeritum	T161	species		Deflandre			extinct taxon	
+T401	Gymnodinium fehmarnense	T161	species	accepted	Morgenroth			extinct taxon	
+T402	Gymnodinium gabonense 	T161	species	accepted	Deflandre			extinct taxon	
+T403	Gymnodinium galeritum	T161	species	accepted	Deflandre			extinct taxon	
 T404	Endoscrinium galeritum	T403	species	synonym	(Deflandre) Vozzhennikova			extinct taxon	
-T405	Gymnodinium heterocostatum	T161	species		Deflandre			extinct taxon	
+T405	Gymnodinium heterocostatum	T161	species	accepted	Deflandre			extinct taxon	
 T406	Dinogymnium heterocostatum	T405	species	synonym	(Deflandre) Evitt, Clarke & Verdier			extinct taxon	
 T407	Gymnodinium heterocostatum var. kolpaschevi	T405	variety		Vozzhennikova			extinct taxon	
-T408	Gymnodinium hexagonum	T161	species		Deflandre-Rigaud			extinct taxon	
+T408	Gymnodinium hexagonum	T161	species	accepted	Deflandre-Rigaud			extinct taxon	
 T409	Dinogymnium hexagonum	T408	species	synonym	(Deflandre-Rigaud) Evitt, Clarke & Verdier			extinct taxon	
-T410	Gymnodinium hyalinum	T161	species		Vozzhennikova	1967		extinct taxon	
-T411	Gymnodinium kasachstanicum	T161	species		Vozzhennikova			extinct taxon	
-T412	Gymnodinium laticinctum	T161	species		Deflandre			extinct taxon	
+T410	Gymnodinium hyalinum	T161	species	accepted	Vozzhennikova	1967		extinct taxon	
+T411	Gymnodinium kasachstanicum	T161	species	accepted	Vozzhennikova			extinct taxon	
+T412	Gymnodinium laticinctum	T161	species	accepted	Deflandre			extinct taxon	
 T413	Dinogymnium laticinctum	T412	species	synonym	(Deflandre) Evitt, Clarke & Verdier			extinct taxon	
 T414	Gymnodinium longicorne	T161	species		Vozzhennikova			extinct taxon	
 T415	Gymnodinium longicornis	T161	species		Vozzhennikova			extinct taxon	
-T416	Gymnodinium marthae	T161	species		Deflandre			extinct taxon	
+T416	Gymnodinium marthae	T161	species	accepted	Deflandre			extinct taxon	
 T417	Dinogymnium marthae	T416	species	synonym	(Deflandre) Evitt, Clarke & Verdier			extinct taxon	
-T418	Gymnodinium muticum	T161	species		Vozzhennikova	1967		extinct taxon	
-T419	Gymnodinium nelsonense	T161	species		Cookson			extinct taxon	
+T418	Gymnodinium muticum	T161	species	accepted	Vozzhennikova	1967		extinct taxon	
+T419	Gymnodinium nelsonense	T161	species	accepted	Cookson			extinct taxon	
 T420	Dinogymnium nelsonense	T419	species	synonym	(Cookson) Evitt, Clarke & Verdier			extinct taxon	
-T421	Gymnodinium parvimarginatum	T161	species		Cookson & Eisenack			extinct taxon	
+T421	Gymnodinium parvimarginatum	T161	species	accepted	Cookson & Eisenack			extinct taxon	
 T422	Scriniodinium parvimarginatum	T421	species	synonym	(Cookson & Eisenack) Eisenack			extinct taxon	
-T423	Gymnodinium pontismariae	T161	species		Deflandre			extinct taxon	
+T423	Gymnodinium pontismariae	T161	species	accepted	Deflandre			extinct taxon	
 T424	Gymnodinium pontis-mariae	T423	species	lexical variant	Deflandre			extinct taxon	
-T425	Gymnodinium sibiricum	T161	species		Vozzhennikova			extinct taxon	
+T425	Gymnodinium sibiricum	T161	species	accepted	Vozzhennikova			extinct taxon	
 T426	Gymnodinium sphaerocephalum var. laevis	T427	variety		Vozzhennikova			extinct taxon	
-T427	Gymnodinium sphaerocephalum	T161	species		Vozzhennikova			extinct taxon	
-T428	Gymnodinium strombomorphum	T161	species		Deflandre			extinct taxon	
+T427	Gymnodinium sphaerocephalum	T161	species	accepted	Vozzhennikova			extinct taxon	
+T428	Gymnodinium strombomorphum	T161	species	accepted	Deflandre			extinct taxon	
 T429	Dinogymnium strombomorphum	T428	species	synonym	(Deflandre) Evitt, Clarke & Verdier			extinct taxon	
-T430	Gymnodinium torulosum	T161	species		Deflandre			extinct taxon	
-T431	Gymnodinium ventriosum	T161	species		Alberti			extinct taxon	
-T432	Gymnodinium westralium	T161	species		Cookson & Eisenack			extinct taxon	
+T430	Gymnodinium torulosum	T161	species	accepted	Deflandre			extinct taxon	
+T431	Gymnodinium ventriosum	T161	species	accepted	Alberti			extinct taxon	
+T432	Gymnodinium westralium	T161	species	accepted	Cookson & Eisenack			extinct taxon	
 T433	Dinogymnium westralium	T432	species	synonym	(Cookson & Eisenack) Evitt, Clarke & Verdier			extinct taxon	
-T434	Gyrodinium acrotrochum	T436	species		Larsen	1996			
+T434	Gyrodinium acrotrochum	T870	species	synonym	Larsen	1996			
 T435	Gymnodinium acrotrochum	T434	species	synonym					
 T436	Gyrodinium	T285	genus						
 T437	Gymnodinium acuminatum	T291	species	synonym	Christen				
-T438	Gymnodinium acutissimum				Okolodkov	1997			nom. illeg.
-T439	Herdmania litoralis	T441	species		Dodge	1981			
+T438	Gymnodinium acutissimum		species	invalid	Okolodkov	1997			nom. illeg.
+T439	Herdmania litoralis	T441	species	accepted	Dodge	1981			
 T440	Gymnodinium agile	T439	species	synonym	Herdman	1922			
 T441	Herdmania	T813	genus						
 T442	Gymnodinium agilis	T440		lexical variant					
-T443	Peridiniopsis berolinense	T445	species		(Lemmermann) Bourrelly	1968			
+T443	Peridiniopsis berolinense	T871	species	synonym	(Lemmermann) Bourrelly	1968			
 T444	Gymnodinium alatum	T443	species	synonym	Litvienko	1963			
 T445	Peridiniopsis	T814	genus						
-T446	Gymnodinium alba		species						nom. illeg.
-T447	Gymnodinium albida		species		Lackey & Lackey	1970			nom. illeg.
-T448	Gymnodinium albidum		species		Lackey & Lackey	1970			nom. illeg.
+T446	Gymnodinium alba		species	invalid					nom. illeg.
+T447	Gymnodinium albida		species	invalid	Lackey & Lackey	1970			nom. illeg.
+T448	Gymnodinium albidum		species	invalid	Lackey & Lackey	1970			nom. illeg.
 T449	Amphidinium amphidinioides	T451	species	synonym	(Geitler) Schiller	1932			
 T450	Gymnodinium amphidinioides	T451	species	synonym	Geitler	1924			
-T451	Nusuttodinium amphidinioides	T278	species		(Geitler) Takano & Horiguchi	2014			
-T452	Cochlodinium archimedes	T815	species		(Pouchet) Lemmermann	1899			
+T451	Nusuttodinium amphidinioides	T278	species	accepted	(Geitler) Takano & Horiguchi	2014			
+T452	Cochlodinium archimedes	T815	species	accepted	(Pouchet) Lemmermann	1899			
 T453	Gymnodinium archimedes	T452	species	synonym	Pouchet	1883			
 T454	Gymnodinium archimedis	T452	species	lexical variant					
-T455	Gymnodinium astigmatica				Christen	1959			nom. illeg.
+T455	Gymnodinium astigmatica		species	invalid	Christen	1959			nom. illeg.
 T456	Gymnodinium asymmetricum	T457	species	synonym	Massart	1900			
-T457	Katodinium asymmetricum	T816	species		(Massart) Loeblich				
-T458	Pelagodinium béii	T818	species		(Spero) Siano et al.	2010			
+T457	Katodinium asymmetricum	T816	species	accepted	(Massart) Loeblich				
+T458	Pelagodinium béii	T818	species	accepted	(Spero) Siano et al.	2010			
 T459	Gymnodinium bei	T460	species	lexical variant					
 T460	Gymnodinium béii	T458	species	synonym	Spero	1987			
-T461	Heterodinium bicaudatum	T820	species		(Pavillard) Kofoid & Swezy	1921			
-T462	Gymnodinium bicaudatum	T461	species	synonym	Pavillard	1905			
+T462	Gymnodinium bicaudatum	T161	species	accepted	Pavillard	1905		This taxon needs to be moved to a new genus, possibly Heterodinium as stated in Kofoid & Swezy 1921	
 T463	Cystodinium bisetosum	T822	species		(Lindemann) Huber-Pestalozzi	1950			
 T464	Gymnodinium bisetosum	T463	species	synonym	Lindemann				
 T465	Katodinium fungiforme	T816	species		(Anissimova) Loeblich	1965			
@@ -880,3 +879,7 @@ T866	Torodinium	T867	genus
 T867	Torodiniaceae		family						
 T868	Ceratium	T869	genus						
 T869	Ceratiaceae		family						
+T870	Takayama acrotrocha	T829	species	accepted	(Larsen) de Salas, Bolch & Hallegraeff	2003			
+T871	Tyrannodinium edax	T872	species	accepted	(Schilling) Calado	2011			
+T872	Tyrannodinium	T873	genus	accepted	Calado, Craveiro, Daugbjerg & Moestrup	2009			
+T873	Thoracosphaeraceae		family						
