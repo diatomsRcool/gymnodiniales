@@ -19,7 +19,6 @@ Gymnodinium astigmatica Christen 1959	Not code compliant
 Gymnodinium asymmetricum Massart 1900	Katodinium asymmetricum (Massart) Loeblich	[310]
 Gymnodinium bei	Pelagodinium béii (Spero) Siano et al. 2010	[311]
 Gymnodinium béii H.J. Spero 1987	Pelagodinium béii (Spero) Siano et al. 2010	[311]
-Gymnodinium bicaudatum Pavillard 1905	Heterodinium bicaudatum (Pavillard) Kofoid & Swezy 1921	[19]
 Gymnodinium bisetosum Lindemann	Cystodinium bisetosum (Lindemann) Huber-Pestalozzi 1950	[184]
 Gymnodinium blax Harris 1939	Katodinium fungiforme (Anissimova) Loeblich 1965	[12]
 Gymnodinium bohemicum Fott 1938	Katodinium bohemicum (Fott) Litvinenko 1977	[12]
