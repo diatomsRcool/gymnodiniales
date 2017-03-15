@@ -473,58 +473,58 @@ T458	Pelagodinium béii	T818	species	accepted	(Spero) Siano et al.	2010
 T459	Gymnodinium bei	T460	species	lexical variant					
 T460	Gymnodinium béii	T458	species	synonym	Spero	1987			
 T462	Gymnodinium bicaudatum	T161	species	accepted	Pavillard	1905		This taxon needs to be moved to a new genus, possibly Heterodinium as stated in Kofoid & Swezy 1921	
-T463	Cystodinium bisetosum	T822	species		(Lindemann) Huber-Pestalozzi	1950			
+T463	Cystodinium bisetosum	T822	species	accepted	(Lindemann) Huber-Pestalozzi	1950			
 T464	Gymnodinium bisetosum	T463	species	synonym	Lindemann				
-T465	Katodinium fungiforme	T816	species		(Anissimova) Loeblich	1965			
+T465	Katodinium fungiforme	T816	species	accepted	(Anissimova) Loeblich	1965			
 T466	Gymnodinium blax	T465	species	synonym	Harris	1939			
-T467	Katodinium bohemicum	T816	species		(Fott) Litvinenko	1977			
+T467	Katodinium bohemicum	T816	species	accepted	(Fott) Litvinenko	1977			
 T468	Gymnodinium bohemicum	T467	species	synonym	Fott	1938			
-T469	Gymnodinium boreale		species		Gaarder				nom. illeg.
-T470	Karenia brevis	T824	species		(Davis) Hansen & Moestrup	2000			
+T469	Gymnodinium boreale		species	invalid	Gaarder				nom. illeg.
+T470	Karenia brevis	T824	species	accepted	(Davis) Hansen & Moestrup	2000			
 T471	Gymnodinium brene	T472	species	lexical variant					
 T472	Gymnodinium breve	T470	species	synonym	Davis	1948			
 T473	Gymnodinium brevis	T472	species	lexical variant					
-T474	Karenia brevisulcata	T824	species		(Chang) Hansen & Moestrup	2000			
+T474	Karenia brevisulcata	T824	species	accepted	(Chang) Hansen & Moestrup	2000			
 T475	Gymnodinium brevisulcatum	T474	species	synonym	Chang				
-T476	Woloszynskia pascheri	T826	species		(Suchlandt) von Stosch	1973			
+T476	Woloszynskia pascheri	T826	species	accepted	(Suchlandt) von Stosch	1973			
 T477	Gymnodinium carinatum var. hiemalis	T476	variety		Woloszynska	1917			
 T478	Gymnodinium carinatum	T291	species	synonym	Schilling	1891			
-T479	Woloszynskia cestocoedes	T826	species		(Thompson) Thompson	1950			
+T479	Woloszynskia cestocoedes	T826	species	accepted	(Thompson) Thompson	1950			
 T480	Gymnodinium cestocoetes	T479	species	synonym	Thompson	1947			
-T481	Gymnodinium chiasmonetrum	T482	species		Norris	1961			nom. illeg.
-T482	Gyrodinium chiasmonetrium	T436	species		Norris	1961			
-T483	Lepidodinium chlorophorum	T828	species		(Elbrächter & Schnepf) Hansen et al.	2007			
+T481	Gymnodinium chiasmonetrum	T482	species	invalid	Norris	1961			nom. illeg.
+T482	Gyrodinium chiasmonetrium	T436	species	accepted	Norris	1961			
+T483	Lepidodinium chlorophorum	T828	species	accepted	(Elbrächter & Schnepf) Hansen et al.	2007			
 T484	Gymnodinium chloroforum	T485	species	lexical variant					
 T485	Gymnodinium chlorophorum	T483	species	synonym	Elbrächter & Schnepf	1996			
-T486	Takayama cladochroma	T829	species		(Larsen) de Salas et al.	2003			
-T487	Gymnodinium cladochroma	T486							
-T488	Gymnodinium cladochromum	T486							
-T489	Balechina coerulea	T830	species		(Dogiel) Taylor	1976			
+T486	Takayama cladochroma	T829	species	accepted	(Larsen) de Salas et al.	2003			
+T487	Gymnodinium cladochroma	T486	species						
+T488	Gymnodinium cladochromum	T486	species						
+T489	Balechina coerulea	T874	species	synonym	(Dogiel) Taylor	1976			
 T490	Gymnodinium coerulea	T491	species	lexical variant					
 T491	Gymnodinium coeruleum	T489	species	synonym	Dogiel	1906			
-T492	Spatulodinium pseudonoctiluca	T831	species		(Pouchet) Cachon & Cachon	1969			
+T492	Spatulodinium pseudonoctiluca	T831	species	accepted	(Pouchet) Cachon & Cachon	1969			
 T493	Gymnodinium conicum	T492	species	synonym	Kofoid & Swezy	1921			
-T494	Cochlodinium constrictum	T815	species		(Schütt) Lemmermann	1899			
+T494	Cochlodinium constrictum	T815	species	accepted	(Schütt) Lemmermann	1899			
 T495	Gymnodinium constrictum	T494	species	synonym	Schütt				
-T496	Gyrodinium contortum	T436	species		(Schütt) Kofoid & Swezy	1921			
+T496	Gyrodinium contortum	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
 T497	Gymnodinium contortum	T496	species	synonym	Schütt				
-T498	Gyrodinium cornutum	T436	species		(Pouchet) Kofoid & Swezy	1921			
+T498	Gyrodinium cornutum	T436	species	accepted	(Pouchet) Kofoid & Swezy	1921			
 T499	Gymnodinium cornutum	T498	species	synonym	Pouchet				
-T500	Gyrodinium schuetti	T436	species		(Schütt) Kofoid & Swezy	1921			
+T500	Gyrodinium schuetti	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
 T501	Gymnodinium cornutum	T500	species	synonym	Schütt	1895			
-T502	Tovellia glabra	T833	species		(Woloszynska) Moestrup et al.	2005			
+T502	Tovellia glabra	T833	species	accepted	(Woloszynska) Moestrup et al.	2005			
 T503	Gymnodinium coronatum var. glabrum	T502	variety	synonym	Woloszynska				
-T504	Tovellia coronata	T833	species		(Woloszynska) Moestrup et al.	2005			
+T504	Tovellia coronata	T833	species	accepted	(Woloszynska) Moestrup et al.	2005			
 T505	Gymnodinium coronatum	T504	species	synonym	Woloszynska	1917			
-T506	Gyrodinium corsicum	T436	species		Paulmier				
-T507	Gymnodinium corsicum	T506	species						nom. illeg.
+T506	Gyrodinium corsicum	T876	species	synonym	Paulmier, Berland, Billard & Nezan	1995			
+T507	Gymnodinium corsicum	T506	species	invalid					nom. illeg.
 T508	Gyrodinium coronatum var. glabrum	T436	variety		Woloszynska				
 T509	Gymnodinium costatum var. glabrum	T508	variety	synonym	Woloszynska				
-T510	Gyrodinium crassum	T436	species		(Pouchet) Kofoid & Swezy	1921			
+T510	Gyrodinium crassum	T436	species	accepted	(Pouchet) Kofoid & Swezy	1921			
 T511	Gymnodinium crassum	T510	species	synonym	Pouchet	1885			
-T512	Gymnodinium cruciatum		species		(Massart) Schiller				nomen nudum
-T513	Chilodinium cruciatum	T834	species		Massart	1920			
-T514	Gymnodinium cruciatum	T513	species	synonym	Massart				
+T512	Gymnodinium cruciatum	T161	species	accepted	(Massart) Schiller				
+T513	Chilodinium cruciatum	T512	species	synonym	Massart	1920			
+T514	Gymnodinium cruciatum	T513	species	invalid	Massart	1901			nomen nudum
 T515	Gyrodinium cuneatum	T436	species		Kofoid & Swezy	1921			
 T516	Gymnodinium cuneatum	T515	species						nom. illeg.
 T517	Gymnodinium cuspidatum		species		Cleve-Euler				nomen nudum
@@ -883,3 +883,6 @@ T870	Takayama acrotrocha	T829	species	accepted	(Larsen) de Salas, Bolch & Halleg
 T871	Tyrannodinium edax	T872	species	accepted	(Schilling) Calado	2011			
 T872	Tyrannodinium	T873	genus	accepted	Calado, Craveiro, Daugbjerg & Moestrup	2009			
 T873	Thoracosphaeraceae		family						
+T874	Cucumeridinium coeruleum	T875	species	accepted	(Dogiel) Gomez, Lopez-Garcia, Takayama & Moreira	2015			
+T875	Cucumeridinium	T812	genus						
+T876	Karlodinium corsicum	T840	species	accepted	(Paulmier et al.) Siano & Zingone	2009			
