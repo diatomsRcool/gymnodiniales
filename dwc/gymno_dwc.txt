@@ -550,7 +550,7 @@ T536	Gymnodinium excavatum var. dextrosum	T291	species	synonym	Nygaard	1954
 T537	Gymnodinium faba		species	invalid	Cleve-Euler				nomen nudum
 T538	Gymnodinium falcatum	T539	species	invalid					nom. illeg.
 T539	Ceratoperidinium falcatum	T838	species	accepted	(Kofoid & Swezy) Reñé & de Salas	2013			
-T540	Gyrodinium fissoides	T436	species	accepted	Elbrachter	1979			
+T540	Gyrodinium fissoides	T436	species	accepted	Elbrächter	1979			
 T541	Gymnodinium fissoides	T540	species	invalid					nom. illeg.
 T543	Gymnodinium fissum	T287	species	synonym	Levander	1897			
 T544	Glenodinium foliaceum	T877	species	synonym	Stein	1919			
@@ -668,159 +668,159 @@ T655	Gyrodinium ovatum	T436	species	accepted	(Gourret) Kofoid & Swezy	1921
 T656	Gymnodinium ovatum	T655	species	synonym	Gourret	1883			
 T657	Gyrodinium ovum	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
 T658	Gymnodinium ovum	T657	species	synonym	Schütt	1895			
-T659	Oodinium parasiticum	T854	species		(Dogiel) Kofoid & Swezy	1921			
+T659	Oodinium parasiticum	T854	species	invalid	(Dogiel) Kofoid & Swezy	1921			nomen nudum
 T660	Gymnodinium parasitica	T661	species	lexical variant					
-T661	Gymnodinium parasiticum	T659	species	synonym	Dogiel	1906			
-T662	Gyrodinium parvulum	T436	species		(Schütt) Kofoid & Swezy	1921			
+T661	Gymnodinium parasiticum	T889	species	synonym	Dogiel	1906			
+T662	Gyrodinium parvulum	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
 T663	Gymnodinium parvulum	T662	species	synonym	Schütt	1895			
 T664	Gymnodinium pascheri	T476	species	synonym	(Suchlandt) Schiller	1954			
-T665	Gyrodinium pellucidum	T436	species		(Wulff) Schiller	1933			
+T665	Gyrodinium pellucidum	T436	species	accepted	(Wulff) Schiller	1933			
 T666	Gymnodinium pellucidum	T665	species	synonym	Wulff	1919			
-T667	Gyrodinium pepo	T436	species		(Schütt) Kofoid & Swezy	1921			
-T668	Gymnodinium pepo	T667	species						nom. illeg.
-T669	Gymnodinium peridinium		species						nom. illeg.
-T670	Aureodinium pigmentosum	T856	species		Dodge	1967			
+T667	Gyrodinium pepo	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
+T668	Gymnodinium pepo	T667	species	invalid					nom. illeg.
+T669	Gymnodinium peridinium		species	invalid					nom. illeg.
+T670	Aureodinium pigmentosum	T856	species	accepted	Dodge	1967			
 T671	Gymnodinium pigmentosum	T670	species	synonym	(Dodge) Loeblich	1970			
-T672	Cochlodinium pirum	T815	species		(Schütt) Lemmermann	1921			
+T672	Cochlodinium pirum	T815	species	accepted	(Schütt) Lemmermann	1921			
 T673	Gymnodinium pirum	T672	species	synonym	Schütt	1895			
 T674	Gymnodinium polonicum	T476	species	synonym	(Woloszynska) Woloszynska	1917			
-T675	Protospis nigra	T857	species		(Pouchet) Kofoid & Swezy	1921			
+T675	Protopsis nigra	T857	species	accepted	(Pouchet) Kofoid & Swezy	1921			
 T676	Gymnodinium polyphemus var. nigrum	T675	variety	synonym	Pouchet	1887			
 T677	Gymnodinium polyphemus var. roseum	T675	variety	synonym	Pouchet	1897			
-T678	Warnowia polyphemus	T857	species		(Pouchet) Schiller	1933			
+T678	Warnowia polyphemus	T857	species	accepted	(Pouchet) Schiller	1933			
 T679	Gymnodinium polyphemus	T678	species	synonym	Pouchet	1885			
-T680	Gymnodinium polyphemus var. magna		variety		Dogiel	1906			nomen nudum
-T681	Oodinium pouchetii	T854	species		(Lemmermann) Chatton	1912			
+T680	Gymnodinium polyphemus var. magna		variety	invalid	Dogiel	1906			nomen nudum
+T681	Oodinium pouchetii	T854	species	accepted	(Lemmermann) Chatton	1912			
 T682	Gymnodinium poucheti	T681	species	synonym	Lemmermann	1899			
 T683	Gymnodinium pouchetii	T681	species	synonym	Lemmermann	1899			
 T684	Gymnodinium pouchettii	T683	species	lexical variant					
-T685	Gyrodinium prunus	T436	species		(Wulff) Lebour	1925			
-T686	Gymnodinium prunus	T685	species						nom. illeg.
+T685	Gyrodinium prunus	T436	species	accepted	(Wulff) Lebour	1925			
+T686	Gymnodinium prunus	T685	species	invalid					nom. illeg.
 T687	Gymnodinium pseudonoctiluca	T492	species	synonym	Pouchet	1885			
 T688	Gymnodinium pseudopalustre	T291	species	synonym	Woloszynska				
 T689	Gymnodinium pseudopalustris	T291	species	synonym	Schiller	1932			
-T690	Takayama pulchella	T829	species		(Larsen) de Salas et al.	2003			
+T690	Takayama pulchella	T829	species	accepted	(Larsen) de Salas et al.	2003			
 T691	Gymnodinium pulchellum	T690	species	synonym	Larsen	1994			
-T692	Glenodinium pulvisculus	T835	species		(Ehrenberg) Stein				
-T693	Gymnodinium pulvisculus	T692	species		(Ehrenberg) Stein				nom. illeg.
+T692	Glenodinium pulvisculus	T835	species	accepted	(Ehrenberg) Stein	1883			
+T693	Gymnodinium pulvisculus	T692	species	invalid	(Ehrenberg) Stein				nom. illeg.
 T694	Gymnodinium pulvisculus	T681	species	synonym	Pouchet	1885			
 T695	Gymnodinium pulvisculus var. oculatum	T692	variety	synonym	Largajolli	1907			
-T696	Gyrodinium pusillum	T436	species		(Schilling) Kofoid & Swezy	1921			
+T696	Gyrodinium pusillum	T436	species	accepted	(Schilling) Kofoid & Swezy	1921			
 T697	Gymnodinium pusillum	T696	species	synonym	Schilling	1891			
-T698	Gymnodinium pyrenoidosum		species		Horiguchi & Chihara	1988		needs to be placed in new Genus	
-T699	Peridiniopsis quadridens	T445	species		(Thompson) Bourrelly				
+T698	Gymnodinium pyrenoidosum	T285	species	accepted	Horiguchi & Chihara	1988		needs to be placed in new Genus	
+T699	Peridiniopsis quadridens	T445	species	accepted	(Thompson) Bourrelly	1968			
 T700	Gymnodinium quadridens	T699	species	synonym					
-T701	Gymnodinium quadrilobatum		species		Horiguchi & Pienaar	1994		needs to be placed in new Genus	
-T702	Amphidinium elenkinii	T858	species		Skvortzov	1925			
+T701	Gymnodinium quadrilobatum	T285	species	accepted	Horiguchi & Pienaar	1994		needs to be placed in new Genus	
+T702	Amphidinium elenkinii	T890	species	synonym	Skvortzov	1925			
 T703	Gymnodinium rarum	T702	species	synonym	Litvienko	1963			
-T704	Gyrodinium resplendens	T436	species		Hulburt	1957			
-T705	Gymnodinium resplendens	T704	species		Hulburt	1957			nom. illeg.
+T704	Gyrodinium resplendens	T891	species	synonym	Hulburt	1957			
+T705	Gymnodinium resplendens	T704	species	invalid	Hulburt	1957			nom. illeg.
 T706	Gymnodinium robusta	T707	species	lexical variant					
-T707	Gymnodinium robustum		species		Cleve-Euler				nomen nudum
-T708	Chytriodinium roseum	T861	species		(Dogiel) Chatton	1912			
+T707	Gymnodinium robustum		species	invalid	Cleve-Euler				nomen nudum
+T708	Chytriodinium roseum	T861	species	accepted	(Dogiel) Chatton	1912			
 T709	Gymnodinium roseum	T708	species	synonym	Dogiel	1906			
-T710	Gyrodinium rubrum	T436	species		(Kofoid & Swezy) Takano & Horiguchi	2004			
+T710	Gyrodinium rubrum	T436	species	accepted	(Kofoid & Swezy) Takano & Horiguchi	2004			
 T711	Gymnodinium rubrum	T710	species	synonym	Kofoid & Swezy	1921			
 T712	Gymnodinium sanguineum	T636	species	synonym	Hirasaka	1922			
 T713	Gymnodinium sangineum	T712	species	lexical variant					
-T714	Gymnodinium simplex		species		(Lohmann) Kofoid & Swezy	1921		needs to be placed in new Genus	
-T715	Gymnodinium simplicissimum		species		Stein	1878			nom. illeg.
+T714	Gymnodinium simplex	T285	species	accepted	(Lohmann) Kofoid & Swezy	1921		needs to be placed in new Genus	
+T715	Gymnodinium simplicissimum		species	invalid	Stein	1878			nom. illeg.
 T716	Gymnodinium skvortzovii	T476	species	synonym	Schiller	1933			
 T717	Gymnodinium skvortzowii	T716	species	lexical variant					
-T718	Gonyaulax spinifera	T863	species		(Claparède & Lachmann) Diesing				
-T719	Gymnodinium spinifera	T718	species		(Claparède & Lachmann) Diesing				nom. illeg.
-T720	Gyrodinium acutum	T436	species		(Schütt) Kofoid & Swezy	1921			
+T718	Gonyaulax spinifera	T863	species	accepted	(Claparède & Lachmann) Diesing				
+T719	Gymnodinium spinifera	T718	species	invalid	(Claparède & Lachmann) Diesing				nom. illeg.
+T720	Gyrodinium acutum	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
 T721	Gymnodinium spirale var. acuta	T720	variety	synonym	Schütt	1895			
 T722	Gymnodinium spirale var. cornutum	T498	variety	synonym	Pouchet	1885			
-T723	Gyrodinium mitrum	T436	species		Kofoid & Swezy	1921			
+T723	Gyrodinium mitrum	T436	species	accepted	Kofoid & Swezy	1921			
 T724	Gymnodinium spirale var. mitra	T723	variety	synonym	Schütt	1895			
-T725	Gyrodinium obtusum	T436	species		(Schütt) Kofoid & Swezy	1921			
+T725	Gyrodinium obtusum	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
 T726	Gymnodinium spirale var. obtusa	T725	variety	synonym	Schütt	1895			
 T727	Gymnodinium spirale var. pepo	T667	variety	synonym	Schütt	1895			
-T728	Gyrodinium pingue	T436	species		(Schütt) Kofoid & Swezy	1921			
+T728	Gyrodinium pingue	T436	species	accepted	(Schütt) Kofoid & Swezy	1921			
 T729	Gymnodinium spirale var. pinguis	T728	variety	synonym	Schütt	1895			
 T730	Gyrodinium striatum	T436	species	synonym	Kofoid & Swezy	1921			
 T731	Gymnodinium spirale var. striatum	T730	variety		Pouchet	1883			
-T732	Gyrodinium spirale	T436	species		(Bergh) Kofoid & Swezy	1921			
+T732	Gyrodinium spirale	T436	species	accepted	(Bergh) Kofoid & Swezy	1921			
 T733	Gymnodinium spirale	T732	species	synonym	Bergh	1881			
 T734	Gymnodinium splendens	T636	species	synonym	Lebour	1925			
-T735	Prosoaulax lacustris	T865	species		(Stein) Calado & Moestrup	2005			
+T735	Prosoaulax lacustris	T865	species	accepted	(Stein) Calado & Moestrup	2005			
 T736	Gymnodinium stagnate	T735	species	synonym					
-T737	Cochlodinium strangulatum	T815	species		(Schütt) Schütt	1896			
+T737	Cochlodinium strangulatum	T815	species	accepted	(Schütt) Schütt	1896			
 T738	Gymnodinium strangulatum	T737	species	synonym	Schütt	1895			
-T739	Gyrodinium striatissimum	T436	species		(Hulburt) Hansen & Moestrup	2000			
+T739	Gyrodinium striatissimum	T436	species	accepted	(Hulburt) Hansen & Moestrup	2000			
 T740	Gymnodinium striassimum	T742	species	lexical variant					nom. illeg.
 T741	Gymnodinium striata	T742	species	lexical variant					
 T742	Gymnodinium striatissimum	T740	species	synonym	Hulburt	1957			
 T743	Gymnodinium striatum	T742	species	lexical variant					
 T744	Gymnodinium sugashimanii	T554	species	synonym	Cachon et al.	1989			
-T745	Gonyaulax tamarensis	T863	species		Lebour				
-T746	Gymnodinium tamarensis	T745	species						nom. illeg.
+T745	Gonyaulax tamarensis	T891	species	synonym	Lebour				
+T746	Gymnodinium tamarensis	T745	species	invalid					nom. illeg.
 T747	Gymnodinium tatricum	T476	species	synonym	Woloszynska	1919			
 T748	Gymnodinium tenuissimum	T594	species	synonym	Lauterborn	1894			
-T749	Torodinium teredo	T866	species		(Pouchet) Kofoid & Swezy	1921			
+T749	Torodinium teredo	T866	species	accepted	(Pouchet) Kofoid & Swezy	1921			
 T750	Gymnodinium teredo	T749	species	synonym	Pouchet				
-T751	Gymnodinium trigonocephalum		species		Cleve-Euler				nomen nudum
-T752	Ceratium tripos	T868	species		(Müller) Ehrenberg				
-T753	Gymnodinium tripos	T752	species						nom. illeg.
-T754	Ceratium tripos var. ponticum	T752	variety		Jorgensen				
-T755	Gymnodinium tripos var. ponctic	T754	variety						nom. illeg.
-T756	Glenodinium trochoideum	T835	species		Stein				
-T757	Gymnodinium trochoideum	T756	species		Stein				nom. illeg.
+T751	Gymnodinium trigonocephalum		species	invalid	Cleve-Euler				nomen nudum
+T752	Ceratium tripos	T895	species	synonym	(Müller) Nitzsch	1817			
+T753	Gymnodinium tripos	T752	species	invalid					nom. illeg.
+T754	Ceratium tripos var. ponticum	T868	variety	accepted	Jorgensen				
+T755	Gymnodinium tripos var. ponctic	T754	variety	invalid					nom. illeg.
+T756	Glenodinium trochoideum	T897	species	synonym	Stein	1883			
+T757	Gymnodinium trochoideum	T756	species	invalid	Stein				nom. illeg.
 T758	Woloszynskia tylota	T826	species		(Mapletoft et al.) Bibby & Dodge	1972			
 T759	Gymnodinium tylotum	T758	species	synonym	Mapletoft et al.	1966			
 T760	Gymnodinium tylota	T759	species	lexical variant					
-T761	Gyrodinium undulans	T436	species		Hulburt				
-T762	Gymnodinium undulans	T761							nom. illeg.
-T763	Gymnodinium undulatum	T476	species		Woloskzynska	1925			
-T764	Gymnodinium vation								nom. illeg.
+T761	Gyrodinium undulans	T436	species	accepted	Hulburt				
+T762	Gymnodinium undulans	T761	species	invalid					nom. illeg.
+T763	Gymnodinium undulatum	T476	species	synonym	Woloskzynska	1925			
+T764	Gymnodinium vation			species	invalid				nom. illeg.
 T765	Gymnodinium veneficum	T546	species	synonym	Stein	1878	Stein F (1878) Die Organismus der Flagellaten. Leipzig: Verlag von Wilhelm Engelmann. 154 p.		
 T766	Gymnodinium veneficum	T546	species	synonym	Ballantine	1956			
 T767	Gymnodinium veris	T476	species	synonym	Lindemann	1925			
-T768	Gymnodinium vertebralis		species						nomen nudum
+T768	Gymnodinium vertebralis		species	invalid					nomen nudum
 T769	Gymnodinium vinugo	T770	species	synonym					
-T770	Karlodinium vitiligo	T840	species		(Ballantine) Larsen	2000			
-T771	Gymnodinium virescens		species		Wood	1963			nom. illeg.
-T772	Gyrodinium viride	T436	species		Kofoid & Swezy	1921			
+T770	Karlodinium vitiligo	T840	species	accepted	(Ballantine) Larsen	2000			
+T771	Gymnodinium virescens		species	invalid	Wood	1963			nom. illeg.
+T772	Gyrodinium viride	T436	species	accepted	Kofoid & Swezy	1921			
 T773	Gymnodinium viride	T772	species	synonym	Schütt	1895			
 T774	Gymnodinium vitiligo	T770	species	synonym	Ballantine	1956			
-T775	Gymnodinium vorax		species		Massart				nomen nudum
-T776	Katodinium vorticellum	T816	species		(Stein) Loeblich	1965			
+T775	Gymnodinium vorax		species	invalid	Massart				nomen nudum
+T776	Katodinium vorticellum	T899	species	synonym	(Stein) Loeblich	1965			
 T777	Gymnodinium vorticella	T776	species	synonym	Stein				
 T778	Gymnodinium wigrense	T291	species	synonym	Woloszynska	1925			
 T779	Gymnodinium woloszynskae	T476	species	synonym	Pascher				
 T780	Gymnodium pigmentosum	T671	species	lexical variant					
-T781	Gymnodinium acutiusculum		species		Okolodkov	1997			rejected name
-T782	Gymnodinium aestivale		species		Skvortzov	1968			rejected name
-T783	Gymnodinium bilobatum		species		van Meel	1969			rejected name
-T784	Gymnodinium cnodax		species		Conrad & Kufferath	1954			rejected name
-T785	Gymnodinium cyaneum		species		Schiller	1957			rejected name
-T786	Gymnodinium depressum		species		Skvortzov	1968			rejected name
-T787	Gymnodinium diamphidium		species		Norris	1961			rejected name
-T788	Gymnodinium frigidum		species		Woloszynska	1952			rejected name
-T789	Gymnodinium fukushimai		species		Hada	1966			rejected name
-T790	Gymnodinium galeiforme		species		Okolodkov	1997			rejected name
-T791	Gymnodinium luteo-viride		species		van Meel	1969			rejected name
-T792	Gymnodinium mammosum		species		van Meel	1969			rejected name
-T793	Gymnodinium massarti		species		(Conrad) Schiller	1933			rejected name
-T794	Gymnodinium maximum		species		Nordli	1951			rejected name
-T795	Gymnodinium nucaceum		species		Okolodkov	1997			rejected name
-T796	Gymnodinium obliquum		species		Okolodkov	1997			rejected name
-T797	Gymnodinium ovato-capitatum		species		van Meel	1969			rejected name
-T798	Gymnodinium ovoideum		species		Okolodkov	1997			rejected name
-T799	Gymnodinium pingue		species		van Meel	1969			rejected name
-T800	Gymnodinium planctonicum		species		Skvortzov	1968			rejected name
-T801	Gymnodinium rete		species		Schütt	1895			rejected name
-T802	Gymnodinium rotundatum		species		Skvortzov	1968			rejected name
-T803	Gymnodinium scaphium		species		van Meel	1969			rejected name
-T804	Gymnodinium servatum		species		Busch	1927			rejected name
-T805	Gymnodinium sinuatum		species		Skvortzov	1968			rejected name
-T806	Gymnodinium suffuscum		species		van Meel	1969			rejected name
-T807	Gymnodinium telma		species		van Meel	1969			rejected name
-T808	Gymnodinium triangularis		species		Lebour	1917			rejected name
-T809	Gymnodinium vas		species		van Meel	1969			rejected name
-T810	Gymnodinium vastum		species		Busch	1927			rejected name
-T811	Gymnodinium vernale		species		Skvortzov	1968			rejected name
+T781	Gymnodinium acutiusculum		species	invalid	Okolodkov	1997			rejected name
+T782	Gymnodinium aestivale		species	invalid	Skvortzov	1968			rejected name
+T783	Gymnodinium bilobatum		species	invalid	van Meel	1969			rejected name
+T784	Gymnodinium cnodax		species	invalid	Conrad & Kufferath	1954			rejected name
+T785	Gymnodinium cyaneum		species	invalid	Schiller	1957			rejected name
+T786	Gymnodinium depressum		species	invalid	Skvortzov	1968			rejected name
+T787	Gymnodinium diamphidium		species	invalid	Norris	1961			rejected name
+T788	Gymnodinium frigidum		species	invalid	Woloszynska	1952			rejected name
+T789	Gymnodinium fukushimai		species	invalid	Hada	1966			rejected name
+T790	Gymnodinium galeiforme		species	invalid	Okolodkov	1997			rejected name
+T791	Gymnodinium luteo-viride		species	invalid	van Meel	1969			rejected name
+T792	Gymnodinium mammosum		species	invalid	van Meel	1969			rejected name
+T793	Gymnodinium massarti		species	invalid	(Conrad) Schiller	1933			rejected name
+T794	Gymnodinium maximum		species	invalid	Nordli	1951			rejected name
+T795	Gymnodinium nucaceum		species	invalid	Okolodkov	1997			rejected name
+T796	Gymnodinium obliquum		species	invalid	Okolodkov	1997			rejected name
+T797	Gymnodinium ovato-capitatum		species	invalid	van Meel	1969			rejected name
+T798	Gymnodinium ovoideum		species	invalid	Okolodkov	1997			rejected name
+T799	Gymnodinium pingue		species	invalid	van Meel	1969			rejected name
+T800	Gymnodinium planctonicum		species	invalid	Skvortzov	1968			rejected name
+T801	Gymnodinium rete		species	invalid	Schütt	1895			rejected name
+T802	Gymnodinium rotundatum		species	invalid	Skvortzov	1968			rejected name
+T803	Gymnodinium scaphium		species	invalid	van Meel	1969			rejected name
+T804	Gymnodinium servatum		species	invalid	Busch	1927			rejected name
+T805	Gymnodinium sinuatum		species	invalid	Skvortzov	1968			rejected name
+T806	Gymnodinium suffuscum		species	invalid	van Meel	1969			rejected name
+T807	Gymnodinium telma		species	invalid	van Meel	1969			rejected name
+T808	Gymnodinium triangularis		species	invalid	Lebour	1917			rejected name
+T809	Gymnodinium vas		species	invalid	van Meel	1969			rejected name
+T810	Gymnodinium vastum		species	invalid	Busch	1927			rejected name
+T811	Gymnodinium vernale		species	invalid	Skvortzov	1968			rejected name
 T812	Dinophyceae		class		Fritsch				
 T813	Amphidiniopsidaceae		family						
 T814	Glenodiniaceae		family						
@@ -898,3 +898,14 @@ T885	Opisthoaulax woloszynskae	T886	species	accepted	(Schiller) Calado	2011
 T886	Opisthoaulax	T817	genus						
 T887	Moestrupia oblonga	T888	species	accepted	(Larsen & Patterson) Hansen & Daugbjerg	2011			
 T888	Moestrupia	T812	genus						
+T889	Chytriodinium parasiticum	T861	species	accepted	(Dogiel) Chatton	1912			
+T890	Prosoaulax lacustris	T865	species	accepted	(Stein) Calado & Moestrup	2005			
+T891	Barrufeta resplendens	T892	species	accepted	(Hulbert) Gu, Luo & Mertens	2015			
+T892	Barrufeta	T285	genus						
+T893	Alexandrium tamarense	T894	species	accepted	(Lebour) Balech	1995			
+T894	Alexandrium	T873	genus						
+T895	Tripos muelleri	T896	species	accepted	Bory	1824			
+T896	Tripos	T869	genus						
+T897	Scrippsiella acuminata	T898	species	accepted	(Ehrenberg) Kretschmann, Elbrächter, Zinssmeister, Soehner,Kirsch, Kusber & Gottschling	2015			
+T898	Scrippsiella	T873	genus						
+T899	Opisthoaulax vorticella	T886	species	accepted	(Stein) Calado	2011			
