@@ -22,3 +22,8 @@ A numbered list of all the bibliographic references that are cited in the other 
 **rejectNames** 
 A list of Gymnodinium names rejected based on Thessen et al. 2012 http://dx.doi.org/10.1371/journal.pone.0044015
 
+**species_descriptions.txt**
+A text file containing the published taxon descriptions in xml
+
+**dwc**
+A Darwin Core Archive containing all Gymnodinium name strings and their current, valid names
