@@ -213,7 +213,7 @@ T143	Gymnodinium viride	T161	species	accepted	Penard	1891
 T144	Gymnodinium autumnale	T029	species	synonym					
 T145	Gymnodinium tridentatum	T029	species	synonym					
 T146	Gymnodinium titubens	T029	species	synonym					
-T147	Gymnodinium cruciatum	T029	species	synonym					
+T147	Gymnodinium cruciatum	T029	species	synonym	Thompson				
 T148	Gymnodinium translucens	T043	species	synonym	Campbell				
 T149	Gymnodinium saginatum	T052	species	synonym					
 T150	Gymnodinium pulvisulcus	T054	species	heterotypic synonym	Klebs	1912			
@@ -829,7 +829,6 @@ T816	Katodinium	T817	genus
 T817	Tovelliaceae		family						
 T818	Pelagodinium	T819	genus						
 T819	Suessiaceae		family						
-T820	Heterodinium	T821	genus						
 T821	Heterodiniaceae		family						
 T822	Cystodinium	T823	genus		Klebs	1912			
 T823	Phytodiniaceae		family						
