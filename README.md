@@ -1,4 +1,7 @@
 # gymnodiniales
+
+[![DOI](https://zenodo.org/badge/74773744.svg)](https://zenodo.org/badge/latestdoi/74773744)
+
 taxonomic and nomenclatural data about Gymnodiniales
 All files have utf-8 encoding.
 
