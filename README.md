@@ -33,6 +33,7 @@ A Darwin Core Archive containing all Gymnodinium name strings and their current,
 
 # Acknowledgements
 The following are the acknowledgements from the PLoS ONE paper.
+
 The authors would like to acknowledge the staff at the MBL WHOI Library in Woods Hole, Massachusetts, USA, the New York Botanical Garden Library, the University of North Carolina Kenan Science Library and the Suzugamine Women’s College Library, Japan, Sophie Gechijian, Fernando Gomez, Luidmila Ilyash and Yasuwo Fukuyo for their assistance in obtaining original descriptions, Mona Hoppenrath for commenting on an early version and Anya Shipunova for help with Russian translation. Susan Carty and one anonymous reviewer made excellent comments that greatly improved the quality of this manuscript. AlgaeBase (www.algaebase.org) and CEDiT (www.dinophyta.org) are excellent references that provided valuable information.
 
 Modifications on this data set after the publication of the PLoS ONE paper were made by Anne E Thessen with important contributions from Fernando Gomez and Mike Guiry.
