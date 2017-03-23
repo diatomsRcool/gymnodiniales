@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<archive xmlns="http://rs.tdwg.org/dwc/text/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://rs.tdwg.org/dwc/text/">
+<archive xmlns="http://rs.tdwg.org/dwc/text/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://rs.tdwg.org/dwc/text/ http://rs.tdwg.org/ac/terms/">
   <table encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" ignoreHeaderLines="0" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
     <files>
       <location>gymno_dwc.txt</location>
@@ -15,6 +15,7 @@
     <field index="8" term="http://rs.tdwg.org/dwc/terms/nameAccordingTo"/>
     <field index="9" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
     <field index="10" term="http://rs.tdwg.org/dwc/terms/nomenclaturalStatus"/>
+    <field index="11" term="http://rs.tdwg.org/ac/terms/furtherInformationURL"/>
   </table>
 </archive>
 
