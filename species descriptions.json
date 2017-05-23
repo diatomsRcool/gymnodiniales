@@ -1,135 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<bio:treatment xsi:schemaLocation="http://www.github.com/biosemantics https://raw.githubusercontent.com/biosemantics/schemas/master/semanticMarkupInput.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bio="http://www.github.com/biosemantics">
-  <meta>
-    <source>
-      <author>F. Wawrik</author>
-      <date>1956</date>
-      <title>Neue Planktonorganismen aus Waldviertler Fischteichen I</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1997" authority="Wawrik" rank="species">Gymnodinium p.dohrni</taxon_name>
-  </taxon_identification>
-  <text>Cellulae rotundae, modice compressae, sulco transverso haud multo supra mediam partem circumdatae. Sulcus profundus, ca. 2μ  latus, interdum in parte sinistra haud tota sulci transversi latidudine sursum motus. Sulcus longitudinalis secundum aetatem variat: in parte inferiore usque ad antapicem et saepe paululum in partem dorsalem, in parte superiore ± usque ad apicem pertinet. Nucleus in parte superiore situs est. Chromatophori colore caeruleo usque ad smaraghdinum variantur. Cysti velo gelatinoso, 50-60 μ diam. circumdati. Velum stratis caret, interdum liquescit.
-Standort: Bisher in Niederösterreich in vier Waldviertler Fischteichen beobachtet. Substrat im Stierriegel- und Höllauteich kräftig humöses Braunwasser mit pH-Werten von 6,3-6,6. In den Zwettler Stiftsteichen Klarwasser mit Wasserstoffionenkonzentrationen von 7,2-7,3 und SBV voon 0,4-0,5 mval.
-Es sind bisher 3 Gymnodinien mit blaugrünen Chromatophoren bekannt geworden.
-Das blaugrüne Gymnodinium p.dohrni nova spec. wurde erstmalig im August 1955 im Stierriegelteich und bald darauf im benachbarten Höllauteich nächst Karlstift beobachtet. Es war in allen Schichten häufig. Vegetationszeit: August-September. In Planktonproben aus den beiden Zwettler Stiftsteichen konnten noch in Novemberaufsammlungen Cysten dieser Art festgestellt werden.
-Die Zellen des neuen Gymnodiniums sind rundlich, zirka 5:3, dorsiventral abgeflacht (Abb. 1 c, e, 2). Der Oberkörper ist nur wenig kleiner als der Unterkörper . Die Querfurche umkreist die Zelle wenig über der Mitte oder sie ist nicht ganz um die halbe Querfurchenbreite auf der linken Seite nach oben verschoben; sie ist tief eingesenkt und zirka, 2 μ breit (Abb. 1 a, b, c, 1, 2). Die Längsfurche zeigt je nach dem Alter des Materials kleine Verschiedenheiten: sie ist an frisch aus Cysten geschlüpften Exemplaren (Abb. l, 1), die etwa 1 Stunde nach dem Fang studiert wurden, meist nur auf dem Unterkörper deutlich. Schmal und spitz zusammenlaufend, reicht sie tief in den Unterkörper. Schiller beobachtete in 7-8 Tage altem Material aus dem Höllauteich Exemplare mit 1,5 μ breiter, oft ein wenig auch auf die Rückseite des Unterkörpers reichender Längsfurche (Abb. 1a), die sich am Oberkörper bis an den Apex hinzog. Der Kern ist groß, rund, im Oberkörper lokalisiert. Die leuchtend blau- bis smaragdgrünen Chromatophoren sind je nach dem Alter des Materials verschieden geformt. In frisch geschöpften Proben finden sich Exemplare mit wenigen großen scheibenförmigen, am Rande deutlich gelappten Chromatophoren (Abb. l,1). In älteren Zellen beobachtet man mehrere kleinere Chromatopohoren von ± unregelmäßiger Gestalt (Abb. 1a, c). Verschiedentlich finden sich auch bis zu fünf dunkelgranatrote Karotinkörperchen. Die Maße von Gymnodinium p. dohrni betragen 25X20-32X25 μ. Im frischgeschöpften Material befanden sich zahlreiche Cysten ohne Gallerthüllen von ellipsoidischer bis schwach bohnenförmiger Gestalt im Ausmaß von 20-25 μ. In weiten, oft zerfließenden Gallerthüllen mit 50-60 μ diam. lagen abgekugelte Cysten mit großem, gelapptem Chromatophor, häufig mit 1-2 Karotinflecken. Aber auch deutlich mit Querfurchen versehene Individuen wurden in weiten Gallerthüllen im Ruhezustand beobachtet (Abb. 1, 3-5).</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>G. Nygaard</author>
-      <date>1949</date>
-      <title>Dansk plante plankton</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1949" authority="Nygaard" rank="species">Gymnodinium acidotum</taxon_name>
-  </taxon_identification>
-  <text>Diagnosis. Cellulae dorsiventraliter paulum applanatae, a fronte visae late pyriformes. Epivalva coniformis est atque apice rotundato instructua; hypovalva magnitudine simili, subbulbiformis, extremo abrupte acuminata est. Sulcus longitudinalis augustus, rectus, a polo antapicali hypovalvae partim in epivalvam attinens, ubi angulum acutum versus apicem cellulae directum format. Ab epivalva corpus acutum rectum vel leviter curvatum declive sulcum longitudinalem transgreditur. Membrana delicata, hyalina, sine structura visibili, Nucleus medius, ellipsoideus vel subcylindricus, apicibus rotundatis. Chromatophori satis magni (4-7 μ), discoidei, subangulati, valde aeruginei sunt. Stigma destitutum, sed corpuscula rubida 1-2 saepe prope sulcum transversalem occurrunt. Longitudo cellularum 33-37 μ, latitudo 24-30 μ. Hab. In stagno parvo prope Søgaard, Jutlandia meridiana, Dania, libere natans.</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>L Matzenauer</author>
-      <date>1933</date>
-      <title>Die Dinoflagellaten des Indischen Ozeans</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1933" authority="Matzenauer" rank="species">Gymnodinium galeaeforme</taxon_name>
-  </taxon_identification>
-  <text>Vorderkörper helmartig, konvex, Konturen schwach konkav geschwungen, apikal etwas abgeflacht, Hinterkörper konkav; zwei abgerundete Antapikalfortsätze. Querfurche linksdrehend (eine Querfurchenbreite), Längsfurche schmal, beide tief. In Seitenansicht tritt die geschwungene Körperform noch besser hervor. Vorderkörper dicker als der Hinterkörper. Chromatophoren langgestreckt, spindelförmig, radiär gegen das Zentrum gerichtet. Geißeln waren nicht mehr sichtbar.
-Die Zelle ist dem Gymnodinium splendens Lebour etwas ähnlich, unterscheidet sich aber von ihm durch seine schön geschwungene Gestalt, die apikale Abflachung und die schwach wulstartige Anschwellung in der Gürtelregion. L = 62 μ, B = 58 μ. Fang 4, 6.</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>J Schiller</author>
-      <date>1928</date>
-      <title>Die planktischen Vegetationen des Adriatischen Meeres. C. Dinoflagellata. Systematischer Teil. 2. Teil Gymnodiniales</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1928" authority="Schiller" rank="species">Gymnodinium gibbera</taxon_name>
-  </taxon_identification>
-  <text>Körper langoval, dorsoventral nicht zusammengedrückt, Vorderkörper stumpf konisch, Hinterkörper ebenso, ersterer gestreift, mit glatter Platte am Apex, letzterer mit erhabener Felderung, deren Grenzen tiefer liegen. Querfurche fast kreisförmig mit parallelen Streifen, Längsfurche auf dem Oberkörper wenig, am Hinterkörper bis zur Mitte entwickelt, schmal.
-Plasma ungefärbt, Chromatophoren gelblich grün groß.
-Länge 48-50 μ, Breite 22-24 μ.</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>W Conrad and H Kufferath</author>
-      <date>1954</date>
-      <title>Recherches sur les eaux saumatres des environs de Lilloo. 2. Partie descriptive. Alges et protistes. Consdérations écologiques</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1954" authority="Conrad & Kufferath" rank="species">Gymnodinium glandiforme</taxon_name>
-  </taxon_identification>
-  <text>Minuscule Dinoflagellate incolore de forme générale de gland de chêne cylindrique avec cône apical triangulaire, dont la hauteur est égale au tiers de la longueur. Le sommet de l'apex, triangulaire, est arrondi, les angles sont un peu arrondis et dépassent les flancs de l'hypocone. Celui-ci est arrondi régulièrement et présente une vague indication de sillon à l'extrémité libre, plutôt un léger enfoncement d'aspect triangulaire. Le sillon transversal n'est indiqué que par un trait fin et parallèle à la base de l'epicone. Le noyau sphérique se trouve juste en dessous de sillon transversal. Absence de chromatophores, contenu hyalin. Seul l'aspect ventral est connu. Flagelle ayant deux fois la longueur du corps. Hauteur: 10 μ; largeur de l'epicone: 6 μ; largeur de l'hypocone: 4.5 μ.
-Trouvé en P (29 juin 1938, NaCl 4.7 ‰).
-Espèce mésohaline.</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>J Schiller</author>
-      <date>1957</date>
-      <title>Untersuchungen an den planktischen Protophyten des Neusiedlersees 1950-1954</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1957" authority="Schiller" rank="species"> Gymnodinium glaucum</taxon_name>
-  </taxon_identification>
-  <text>Zellform rundlich-eiförmig, dorsoventral wenig abgeflacht, im Präparat lebhaft schwimmend und wenig veränderlich, 21-22 μ lang, 18-19 μ breit; Epivalva fast so breit wie die Hypovalva und nur wenig kürzer, 7.5 μ hoch, mützenförmig; Hypovalva 10-11 μ hoch, breit fast halbkugelig, nur wenig breiter als die Epivalva, antapikal nur wenig ausgerandet; Querfurche 4 μ breit, tief, kreisförmig; Längsfurche gut entwickelt, oben breiter, nach unten verschmälert, den Antapex wenig ausrandend. Chromatophoren zerstreut, ellipsoidisch, blaugrau. Kern in der Zellmitte, meist gut sichtbar.
-Ruster Kanal des Neusiedlersees, Feber, März, auch unter Eis, untergeordnet bis mitbestimmend. Temperature 1-7°C.</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>F Schütt</author>
-      <date>1895</date>
-      <title>Die Peridineen der Planktonexpedition. I. Theil. Studien über die Zellen der Peridineen</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1895" authority="Schütt" rank="species">Gymnodinium gleba</taxon_name>
-  </taxon_identification>
-  <text>Zelle rechts ventral, mit grossen, braunen Inhaltsklumpen (Chromatophorenklumpen?). An der Oberfläche zeigen sich zahlreiche kleine Plasmabläschen Pst (Pustela).</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>RS Bergh</author>
-      <date>1881</date>
-      <title>Bidrag til Cilioflaglatermes Naturhistorie</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1881" authority="Bergh" rank="species">Gymnodinium gracile</taxon_name>
-  </taxon_identifiation>
-  <text>Im Gegensatz zu sämmtlichen oben beschriebenen Organismen besitzt diese Form gar keine Membran. Hierdurch wird aber die genauere Untersuchung sehr erschwert, weil sie keine Reagentien zu vertragen scheint. Ich habe Osmiumsäure, die Kleinenberg'sche Pikrinschwefelsäure, koncentrirtes und verdünntes Glycerin, absoluten und verdünnten Alkohol so wie Jodjodkalium und Chlorzinkjod versucht: keines dieser Reagentien vermag die Form zu bewahren, am besten jedoch die zwei letzteren, aber auch in diesen werden die Furchen und ihre Begrenzungswülste undeutlich (wir können hier nur von [Protoplasma-] Wülsten, nicht von Leisten sprechen). 
-Die Körperform ist schlank, 2.5-3.5 mal so lang als breit; der Körper besteht aus einem vorderen, kürzeren, mehr konischen (nach vorn zugespitzten) und einem hinteren, längeren, mehr cylindrischen (nach hinten abgerundeten) Stück, welche durch die Querfurche geschieden sind. Diese ist an der Ventralfläche links etwas nach vorn, rechts dagegen nach hinten gebogen (vgl. Fig. 68) und eben so wie bei den sämmtlichen übrigen Formen hier unterbrochen. Sowohl von der rechten wie von der linken Seite des hinteren Querfurchenwulstes entspringt ein Längswulst, welcher nach hinten verläuft; zwischen ihnen findet sich die ziemlich tiefe und schmale Längsfurche, welche doch nach hinten viel breiter und weniger tief wird, indem die Wülste hier aus einander weichen (Fig. 68). so wird ein Bild hervorgebracht, welches flüchtig an den hinteren theil der Primitivfurche und der Rückenwülste eines Wirbelthierembryo erinnert (jedoch vereinigen sich die Wülste ganz nach hinten wieder und schließen über der Furche dicht zusammen). -Auch nach vorn setzt sich die Längsfurche fort, hier von Fortsetzungen des vorderen Querfurchenwulstes begrenzt, welcher auch unter einem etwa rechten Winkel (nach, vorn) umbiegt, sie ist hier außerordentlich schmal.
-Ein Individuum, das gemessen wurde, zeigte folgende Dimensionen: Totallänge=0,090 mm, Briete (an der Querfurche) = 0,024 mm, Länge des Vorderkörpers=0,034mm, Länge des Hinterkörpers=0,056 mm.
-Das protoplasma zeigt die Differenzirung in Exoplasma und Endoplasma sehr deutlich. Das Exoplasma ist völlig farblos und hyalin, ziemlich gerunzelt und gefaltet, wodurch der ganze Körperkontur ein etwas unregelmäßiges Aussehen erhält, während es bei Betrachtung von oben her eine scheinbare Längsstreifung hervorruft (Fig. 68 u. 69). durch den Zusatz von Chlorzinkjob gerinnt es und wird körnig; hierdurch wird also bewiesen, dass sich eine Membran nicht findet; die albuminoide Natur des Exoplasma giebt sich außerdem dadurch kund, dass es sich in Jod hellgelb färbt. eine differenzirte Myophanschicht (wie bei G. spirale, siehe unten) findet sich hier nicht. -Das Endoplasma ist konstant schwach röthlich gefärbt (wie bei Diplopsalis lenticula); es enthält niemals weder Diatomin, noch Chlorphyll oder Stärke. Dagegen trifft man in ihm sehr häufig gefressene Organismen (den Nahrungsballen der Ciliaten ganz ähnlich); ein differenzirtes Cytostom oder Cytopyge findet sich jedoch nicht. Die Ernährung scheint also nach diesen Beobachtungen in animalischer Weise stattzufinden. -Sehr häufig (doch nicht konstant) finden sich am Vorderende eine oder mehrere Blasen, die doch nicht kontraktil zu sein schienen. Ein Kanälchen, das sie mit dem Meerwasser in Verbingung setzen könnte, wurde nicht beobachtet. -Der Kern ist von rundlicher Form, Diam. = ca. 0,013 mm; gewöhnlich ist er ohne Reagentienzusatz icht sichtbar. er liegt etwa in der Mitte des Körpers (dicht hinter der Querfurche); seinem Baue nach ähnelt er ganz denen der übrigen Formen.
-Der Bewegungsapparat besteht aus dem Flagellum, das ganz nach hinten in dem erweiterten Theil der Längsfurche entspringt, und aus nur einem kontraktilen Saum, der sich zwischen den beiden Querfurchenwülsten findet. Auch hier findet die Bewegung dieses letzteren immer in derselben Richtung statt: links an der Bauchfläche beginnend (vgl. oben besonders Protoperidinium pellucidum). Das Thierchen bewegt sich durchaus nicht so regelmäßig wie die folgende Art, sondern mehr plötzlich-ruckweise. Das Vorderende ist hierbei gewöhnlich nach vorn gerichtet.
-Über Fortpflanzung und Entwicklung dieser Form habe ich leider gar keine Beobachtungen.</text>
-</bio:treatment>
-<bio:treatment>
-  <meta>
-    <source>
-      <author>RS Bergh</author
-      <date>1881</date>
-      <title>Bidrag til Cilioflaglatermes Naturhistorie</title>
-    </source>
-  </meta>
-  <taxon_identification>
-    <taxon_name date="1881" authority="Bergh" rank="species">Gymnodinium gracile</taxon_name>
-  </taxon_identification>
-  <text>Legemet ve Tverfuren skarpt adskilt i en kortere (conisk) Forkrop og en længere (cylindrisk) Bagkrop. Længdefuren meget bred bagtil. -Exoplasmet rynket og foldet; intet Myophanlag. Endoplasmet sædvanlig rødligt farvet. – Marin</text>
+{"descriptionList":[{"taxonDescription":{"author":"F. Wawrik",
+      "year":"1956",
+      "title":"Neue Planktonorganismen aus Waldviertler Fischteichen I",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium p.dohrni", "rank":"species", "authority":"Wawrik", "year":"1956"},
+      "text":"Cellulae rotundae, modice compressae, sulco transverso haud multo supra mediam partem circumdatae. Sulcus profundus, ca. 2μ  latus, interdum in parte sinistra haud tota sulci transversi latidudine sursum motus. Sulcus longitudinalis secundum aetatem variat: in parte inferiore usque ad antapicem et saepe paululum in partem dorsalem, in parte superiore ± usque ad apicem pertinet. Nucleus in parte superiore situs est. Chromatophori colore caeruleo usque ad smaraghdinum variantur. Cysti velo gelatinoso, 50-60 μ diam. circumdati. Velum stratis caret, interdum liquescit. Standort: Bisher in Niederösterreich in vier Waldviertler Fischteichen beobachtet. Substrat im Stierriegel- und Höllauteich kräftig humöses Braunwasser mit pH-Werten von 6,3-6,6. In den Zwettler Stiftsteichen Klarwasser mit Wasserstoffionenkonzentrationen von 7,2-7,3 und SBV voon 0,4-0,5 mval. Es sind bisher 3 Gymnodinien mit blaugrünen Chromatophoren bekannt geworden. Das blaugrüne Gymnodinium p.dohrni nova spec. wurde erstmalig im August 1955 im Stierriegelteich und bald darauf im benachbarten Höllauteich nächst Karlstift beobachtet. Es war in allen Schichten häufig. Vegetationszeit: August-September. In Planktonproben aus den beiden Zwettler Stiftsteichen konnten noch in Novemberaufsammlungen Cysten dieser Art festgestellt werden. Die Zellen des neuen Gymnodiniums sind rundlich, zirka 5:3, dorsiventral abgeflacht (Abb. 1 c, e, 2). Der Oberkörper ist nur wenig kleiner als der Unterkörper . Die Querfurche umkreist die Zelle wenig über der Mitte oder sie ist nicht ganz um die halbe Querfurchenbreite auf der linken Seite nach oben verschoben; sie ist tief eingesenkt und zirka, 2 μ breit (Abb. 1 a, b, c, 1, 2). Die Längsfurche zeigt je nach dem Alter des Materials kleine Verschiedenheiten: sie ist an frisch aus Cysten geschlüpften Exemplaren (Abb. l, 1), die etwa 1 Stunde nach dem Fang studiert wurden, meist nur auf dem Unterkörper deutlich. Schmal und spitz zusammenlaufend, reicht sie tief in den Unterkörper. Schiller beobachtete in 7-8 Tage altem Material aus dem Höllauteich Exemplare mit 1,5 μ breiter, oft ein wenig auch auf die Rückseite des Unterkörpers reichender Längsfurche (Abb. 1a), die sich am Oberkörper bis an den Apex hinzog. Der Kern ist groß, rund, im Oberkörper lokalisiert. Die leuchtend blau- bis smaragdgrünen Chromatophoren sind je nach dem Alter des Materials verschieden geformt. In frisch geschöpften Proben finden sich Exemplare mit wenigen großen scheibenförmigen, am Rande deutlich gelappten Chromatophoren (Abb. l,1). In älteren Zellen beobachtet man mehrere kleinere Chromatopohoren von ± unregelmäßiger Gestalt (Abb. 1a, c). Verschiedentlich finden sich auch bis zu fünf dunkelgranatrote Karotinkörperchen. Die Maße von Gymnodinium p. dohrni betragen 25X20-32X25 μ. Im frischgeschöpften Material befanden sich zahlreiche Cysten ohne Gallerthüllen von ellipsoidischer bis schwach bohnenförmiger Gestalt im Ausmaß von 20-25 μ. In weiten, oft zerfließenden Gallerthüllen mit 50-60 μ diam. lagen abgekugelte Cysten mit großem, gelapptem Chromatophor, häufig mit 1-2 Karotinflecken. Aber auch deutlich mit Querfurchen versehene Individuen wurden in weiten Gallerthüllen im Ruhezustand beobachtet (Abb. 1, 3-5)."}},
+{"taxonDescription":{"author":"G. Nygaard",
+      "year":"1949",
+      "title":"Dansk plante plankton",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium acidotum", "rank":"species", "authority":"Nygaard", "year":"1949"},
+      "text":"Diagnosis. Cellulae dorsiventraliter paulum applanatae, a fronte visae late pyriformes. Epivalva coniformis est atque apice rotundato instructua; hypovalva magnitudine simili, subbulbiformis, extremo abrupte acuminata est. Sulcus longitudinalis augustus, rectus, a polo antapicali hypovalvae partim in epivalvam attinens, ubi angulum acutum versus apicem cellulae directum format. Ab epivalva corpus acutum rectum vel leviter curvatum declive sulcum longitudinalem transgreditur. Membrana delicata, hyalina, sine structura visibili, Nucleus medius, ellipsoideus vel subcylindricus, apicibus rotundatis. Chromatophori satis magni (4-7 μ), discoidei, subangulati, valde aeruginei sunt. Stigma destitutum, sed corpuscula rubida 1-2 saepe prope sulcum transversalem occurrunt. Longitudo cellularum 33-37 μ, latitudo 24-30 μ. Hab. In stagno parvo prope Søgaard, Jutlandia meridiana, Dania, libere natans."}},
+{"taxonDescription":{"author":"L. Matzenauer",
+      "year":"1933",
+      "title":"Die Dinoflagellaten des Indischen Ozeans",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium galeaeforme", "rank":"species", "authority":"Matzenauer", "year":"1933"},
+      "text":"Vorderkörper helmartig, konvex, Konturen schwach konkav geschwungen, apikal etwas abgeflacht, Hinterkörper konkav; zwei abgerundete Antapikalfortsätze. Querfurche linksdrehend (eine Querfurchenbreite), Längsfurche schmal, beide tief. In Seitenansicht tritt die geschwungene Körperform noch besser hervor. Vorderkörper dicker als der Hinterkörper. Chromatophoren langgestreckt, spindelförmig, radiär gegen das Zentrum gerichtet. Geißeln waren nicht mehr sichtbar. Die Zelle ist dem Gymnodinium splendens Lebour etwas ähnlich, unterscheidet sich aber von ihm durch seine schön geschwungene Gestalt, die apikale Abflachung und die schwach wulstartige Anschwellung in der Gürtelregion. L = 62 μ, B = 58 μ. Fang 4, 6."}},
+{"taxonDescription":{"author":"J. Schiller",
+      "year":"1928",
+      "title":"Die planktischen Vegetationen des Adriatischen Meeres. C. Dinoflagellata. Systematischer Teil. 2. Teil Gymnodiniales",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium gibbera", "rank":"species", "authority":"Schiller", "year":"1928"},
+      "text":"Körper langoval, dorsoventral nicht zusammengedrückt, Vorderkörper stumpf konisch, Hinterkörper ebenso, ersterer gestreift, mit glatter Platte am Apex, letzterer mit erhabener Felderung, deren Grenzen tiefer liegen. Querfurche fast kreisförmig mit parallelen Streifen, Längsfurche auf dem Oberkörper wenig, am Hinterkörper bis zur Mitte entwickelt, schmal. Plasma ungefärbt, Chromatophoren gelblich grün groß. Länge 48-50 μ, Breite 22-24 μ."}},
+{"taxonDescription":{"author":["W. Conrad", "H. Kufferath"],
+      "year":"1954",
+      "title":"Recherches sur les eaux saumatres des environs de Lilloo. 2. Partie descriptive. Alges et protistes. Consdérations écologiques",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium glandiforme", "rank":"species", "authority":"Conrad & Kufferath", "year":"1954"},
+      "text":"Minuscule Dinoflagellate incolore de forme générale de gland de chêne cylindrique avec cône apical triangulaire, dont la hauteur est égale au tiers de la longueur. Le sommet de l'apex, triangulaire, est arrondi, les angles sont un peu arrondis et dépassent les flancs de l'hypocone. Celui-ci est arrondi régulièrement et présente une vague indication de sillon à l'extrémité libre, plutôt un léger enfoncement d'aspect triangulaire. Le sillon transversal n'est indiqué que par un trait fin et parallèle à la base de l'epicone. Le noyau sphérique se trouve juste en dessous de sillon transversal. Absence de chromatophores, contenu hyalin. Seul l'aspect ventral est connu. Flagelle ayant deux fois la longueur du corps. Hauteur: 10 μ; largeur de l'epicone: 6 μ; largeur de l'hypocone: 4.5 μ. Trouvé en P (29 juin 1938, NaCl 4.7 ‰). Espèce mésohaline."}},
+{"taxonDescription":{"author":"J. Schiller",
+      "year":"1957",
+      "title":"Untersuchungen an den planktischen Protophyten des Neusiedlersees 1950-1954",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium glaucum", "rank":"species", "authority":"Schiller", "year":"1957"},
+      "text":"Zellform rundlich-eiförmig, dorsoventral wenig abgeflacht, im Präparat lebhaft schwimmend und wenig veränderlich, 21-22 μ lang, 18-19 μ breit; Epivalva fast so breit wie die Hypovalva und nur wenig kürzer, 7.5 μ hoch, mützenförmig; Hypovalva 10-11 μ hoch, breit fast halbkugelig, nur wenig breiter als die Epivalva, antapikal nur wenig ausgerandet; Querfurche 4 μ breit, tief, kreisförmig; Längsfurche gut entwickelt, oben breiter, nach unten verschmälert, den Antapex wenig ausrandend. Chromatophoren zerstreut, ellipsoidisch, blaugrau. Kern in der Zellmitte, meist gut sichtbar.
+Ruster Kanal des Neusiedlersees, Feber, März, auch unter Eis, untergeordnet bis mitbestimmend. Temperature 1-7°C."}},
+{"taxonDescription":{"author":"F. Schütt",
+      "year":"1895",
+      "title":"Die Peridineen der Planktonexpedition. I. Theil. Studien über die Zellen der Peridineen",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium gleba", "rank":"species", "authority":"Schütt", "year":"1895"},
+      "text":"Zelle rechts ventral, mit grossen, braunen Inhaltsklumpen (Chromatophorenklumpen?). An der Oberfläche zeigen sich zahlreiche kleine Plasmabläschen Pst (Pustela)."}},
+{"taxonDescription":{"author":"R. S. Bergh",
+      "year":"1882",
+      "title":"Der Organismus der Cilioflagellaten. Eine phylogenetische Studie",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium gracile", "rank":"species", "authority":"Bergh", "year":"1882"},
+      "text":"Im Gegensatz zu sämmtlichen oben beschriebenen Organismen besitzt diese Form gar keine Membran. Hierdurch wird aber die genauere Untersuchung sehr erschwert, weil sie keine Reagentien zu vertragen scheint. Ich habe Osmiumsäure, die Kleinenberg'sche Pikrinschwefelsäure, koncentrirtes und verdünntes Glycerin, absoluten und verdünnten Alkohol so wie Jodjodkalium und Chlorzinkjod versucht: keines dieser Reagentien vermag die Form zu bewahren, am besten jedoch die zwei letzteren, aber auch in diesen werden die Furchen und ihre Begrenzungswülste undeutlich (wir können hier nur von [Protoplasma-] Wülsten, nicht von Leisten sprechen). Die Körperform ist schlank, 2.5-3.5 mal so lang als breit; der Körper besteht aus einem vorderen, kürzeren, mehr konischen (nach vorn zugespitzten) und einem hinteren, längeren, mehr cylindrischen (nach hinten abgerundeten) Stück, welche durch die Querfurche geschieden sind. Diese ist an der Ventralfläche links etwas nach vorn, rechts dagegen nach hinten gebogen (vgl. Fig. 68) und eben so wie bei den sämmtlichen übrigen Formen hier unterbrochen. Sowohl von der rechten wie von der linken Seite des hinteren Querfurchenwulstes entspringt ein Längswulst, welcher nach hinten verläuft; zwischen ihnen findet sich die ziemlich tiefe und schmale Längsfurche, welche doch nach hinten viel breiter und weniger tief wird, indem die Wülste hier aus einander weichen (Fig. 68). so wird ein Bild hervorgebracht, welches flüchtig an den hinteren theil der Primitivfurche und der Rückenwülste eines Wirbelthierembryo erinnert (jedoch vereinigen sich die Wülste ganz nach hinten wieder und schließen über der Furche dicht zusammen). -Auch nach vorn setzt sich die Längsfurche fort, hier von Fortsetzungen des vorderen Querfurchenwulstes begrenzt, welcher auch unter einem etwa rechten Winkel (nach, vorn) umbiegt, sie ist hier außerordentlich schmal. Ein Individuum, das gemessen wurde, zeigte folgende Dimensionen: Totallänge=0,090 mm, Briete (an der Querfurche) = 0,024 mm, Länge des Vorderkörpers=0,034mm, Länge des Hinterkörpers=0,056 mm. Das protoplasma zeigt die Differenzirung in Exoplasma und Endoplasma sehr deutlich. Das Exoplasma ist völlig farblos und hyalin, ziemlich gerunzelt und gefaltet, wodurch der ganze Körperkontur ein etwas unregelmäßiges Aussehen erhält, während es bei Betrachtung von oben her eine scheinbare Längsstreifung hervorruft (Fig. 68 u. 69). durch den Zusatz von Chlorzinkjob gerinnt es und wird körnig; hierdurch wird also bewiesen, dass sich eine Membran nicht findet; die albuminoide Natur des Exoplasma giebt sich außerdem dadurch kund, dass es sich in Jod hellgelb färbt. eine differenzirte Myophanschicht (wie bei G. spirale, siehe unten) findet sich hier nicht. -Das Endoplasma ist konstant schwach röthlich gefärbt (wie bei Diplopsalis lenticula); es enthält niemals weder Diatomin, noch Chlorphyll oder Stärke. Dagegen trifft man in ihm sehr häufig gefressene Organismen (den Nahrungsballen der Ciliaten ganz ähnlich); ein differenzirtes Cytostom oder Cytopyge findet sich jedoch nicht. Die Ernährung scheint also nach diesen Beobachtungen in animalischer Weise stattzufinden. -Sehr häufig (doch nicht konstant) finden sich am Vorderende eine oder mehrere Blasen, die doch nicht kontraktil zu sein schienen. Ein Kanälchen, das sie mit dem Meerwasser in Verbingung setzen könnte, wurde nicht beobachtet. -Der Kern ist von rundlicher Form, Diam. = ca. 0,013 mm; gewöhnlich ist er ohne Reagentienzusatz icht sichtbar. er liegt etwa in der Mitte des Körpers (dicht hinter der Querfurche); seinem Baue nach ähnelt er ganz denen der übrigen Formen. Der Bewegungsapparat besteht aus dem Flagellum, das ganz nach hinten in dem erweiterten Theil der Längsfurche entspringt, und aus nur einem kontraktilen Saum, der sich zwischen den beiden Querfurchenwülsten findet. Auch hier findet die Bewegung dieses letzteren immer in derselben Richtung statt: links an der Bauchfläche beginnend (vgl. oben besonders Protoperidinium pellucidum). Das Thierchen bewegt sich durchaus nicht so regelmäßig wie die folgende Art, sondern mehr plötzlich-ruckweise. Das Vorderende ist hierbei gewöhnlich nach vorn gerichtet. Über Fortpflanzung und Entwicklung dieser Form habe ich leider gar keine Beobachtungen."}},
+{"taxonDescription":{"author":"R. S. Bergh",
+      "year":"1881",
+      "title":"Bidrag til Cilioflaglatermes Naturhistorie",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium gracile", "rank":"species", "authority":"Bergh", "year":"1881"},
+      "text":"Legemet ve Tverfuren skarpt adskilt i en kortere (conisk) Forkrop og en længere (cylindrisk) Bagkrop. Længdefuren meget bred bagtil. -Exoplasmet rynket og foldet; intet Myophanlag. Endoplasmet sædvanlig rødligt farvet. – Marin"}},
 </bio:treatment>
 <bio:treatment>
 >Gymnodinium gracile Bergh
@@ -632,3 +564,4 @@ Type locality. Offshore waters in the Greenland Sea (78° 13' N, 14° 46' E). Th
 Habitat. Surface water layer, temperature 6.08 °C, salinity 31.81 PSU.
 μ
 °
+}}]}
