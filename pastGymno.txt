@@ -13,6 +13,7 @@ Gymnodinium albida Lackey & Lackey 1970	Not code compliant
 Gymnodinium albidum Lackey & Lackey 1970	Not code compliant	
 Gymnodinium amphibinioides Geitler 1924	Amphidinium amphidinioides (Geitler) Schiller 1932	[308]
 Gymnodinium amphidinioides Geitler 1924	Nusuttodinium amphidinioides (Geitler) Takano & Horiguchi 2014	Takano et al. 2014
+Gymnodinium amphora Kofoid & Swezy 1921	Balechina pachydermata (Kofoid & Swezy) Loeblich & Loeblich 1968	Gómez et al. 2015
 Gymnodinium archimedes Pouchet 1883	Cochlodinium archimedes (Pouchet) Lemmermann 1899	[309]
 Gymnodinium archimedis Pouchet 1883	Cochlodinium archimedes (Pouchet) Lemmermann 1899	[309]
 Gymnodinium astigmatica Christen 1959	Not code compliant	
@@ -27,6 +28,7 @@ Gymnodinium brene	Karenia brevis (Davis) Hansen and Moestrup 2000	[7]
 Gymnodinium breve Davis 1948	Karenia brevis (Davis) Hansen and Moestrup 2000	[7]
 Gymnodinium brevis	Karenia brevis (Davis) Hansen and Moestrup 2000	[7]
 Gymnodinium brevisulcatum F.H. Chang	Karenia brevisulcata (Chang) Hansen and Moestrup 2000	[7]
+Gymnodinium canus Kofoid & Swezy 1921	Cucumeridinium coeruleum (Dogiel) Gómez et al. 2015	Gómez et al. 2015
 Gymnodinium carinatum var. hiemalis Wołoszynska 1917	Woloszynskia pascheri (Suchlandt) von Stosch 1973	[12]
 Gymnodinium carinatum Schilling 1891	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306]
 Gymnodinium cestocoetes Thompson 1947	Woloszynskia cestocoedes (Thompson) Thompson 1950	[12]
@@ -36,7 +38,7 @@ Gymnodinium chlorophorum Elbrächter & Schnepf 1996	Lepidodinium chlorophorum (E
 Gymnodinium cladochroma	Takayama cladochroma (Larsen) de Salas et al. 2003	[314]
 Gymnodinium cladochromum	Takayama cladochroma (Larsen) de Salas et al. 2003	[314]
 Gymnodinium coerulea	Balechina coerulea (Dogiel) Taylor 1976	[315]
-Gymnodinium coeruleum Dogiel 1906	Balechina coerulea (Dogiel) Taylor 1976	[315]
+Gymnodinium coeruleum Dogiel 1906	Cucumeridinium coeruleum (Dogiel) Gómez et al.	Gómez et al. 2015
 Gymnodinium conicum Kofoid & Swezy 1921	Spatulodinium pseudonoctiluca (Pouchet) Cachon and Cachon 1969	[316]
 Gymnodinium constrictum Schütt 1895	Cochlodinium constrictum (Schütt) Lemmermann 1899	[309]
 Gymnodinium contortum Schütt 1895	Gyrodinium contortum (Schütt) Kofoid and Swezy 1921	[19]
@@ -45,16 +47,19 @@ Gymnodinium cornutum Schütt 1895	Gyrodinium schuetti (Schütt) Kofoid and Swezy
 Gymnodinium coronatum var. glabrum Wołoszynska	Tovellia glabra (Wołoszynska) Moestrup et al. 2005	[317]
 Gymnodinium coronatum Wołoszynska 1917	Tovellia coronata (Wołoszynska) Moestrup et al. 2005	[317]
 Gymnodinium corsicum	Erroneously formed name, Gyrodinium corsicum Paulmier	
+Gymnodinium costatum Kofoid & Swezy 1921	Cucumeridinium coeruleum (Dogiel) Gómez et al.	Gómez et al. 2015
 Gymnodinium costatum  var. glabrum Wołoszynska	Gyrodinium coronatum var. glabrum Wołoszynska	
 Gymnodinium crassum Pouchet 1885	Gyrodinium crassum (Pouchet) Kofoid and Swezy 1921	[19]
 Gymnodinium cruciatum (Massart) Schiller	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
 Gymnodinium cruciatum J. Massart	Chilodinium cruciatum Massart 1920	[318]
+Gymnodinium cucumis Schütt 1895	Cucmeridinium coeruleum (Dogiel) Gómez et al. or Cucumeridinium cucumis (Schütt) Gómez et al.	Gómez et al. 2015
 Gymnodinium cuneatum	Erroneously fomed name, Gyrodinium cuneatum Kofoid & Swezy 1921	
 Gymnodinium cuspidatum Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
 Gymnodinium decussata	Not code compliant	
 Gymnodinium dextrorsum	Not code compliant	
 Gymnodinium dimorphe Baumeister 1938	Cystodinium phaseolus Pascher 1928	[12]
 Gymnodinium diplococcus Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
+Gymnodinium dogieli Kofoid & Swezy 1921	Balechina pachydermata (Kofoid & Swezy) Loeblich & Loeblich 1968	Gómez et al. 2015
 Gymnodinium dorsum	Erroneosuly formed name, Gyrodinium dorsum Kofoid & Swezy 1921	
 Gymnodinium dubium Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
 Gymnodinium edax Schilling	Erroneously formed name, Glenodinium edax Schilling	
@@ -115,6 +120,7 @@ Gymnodinium limneticum Lackey 1936	Not code compliant
 Gymnodinium limneticum Wołoszynska 1935	Spiniferodinium limneticum (Wo?oszynska) Kretschmann & Gottschling 2015	Kretschmann et al. 2015 Protist
 Gymnodinium linguliferum Lebour	Erroneously formed name, Gyrodinium lingulifera Lebour 1925	
 Gymnodinium linucheae Trench & Thinh 1995	Symbiodinium linucheae (Trench & Thinh) Lajeunesse 2001	[324]
+Gymnodinium lira Kofoid & Swezy 1921	Cucumeridinium lira (Kofoid & Swezy 1921) Gómez et al. 2015	Gómez et al. 2015
 Gymnodinium loburare Campbell 1973	Not code compliant	
 Gymnodinium marianae	Balechina marianae Taylor	[315]
 Gymnodinium medium Cleve-Euler	Rejected by Silva as nomen nudum	ucjeps.berkeley.edu
@@ -152,6 +158,7 @@ Gymnodinium ordinatum Skuja 1939	Woloszynskia ordinata (Skuja) Thompson 1950	[12
 Gymnodinium ordinatum var. sparsum Popovsky 1971	Woloszynskia ordinata (Skuja) Thompson 1950	[12]
 Gymnodinium ovatum Gourret 1883	Gyrodinium ovatum (Gourret) Kofoid and Swezy 1921	[19]
 Gymnodinium ovum Schütt 1895	Gyrodinium ovum (Schütt) Kofoid and Swezy 1921	[19]
+Gymnodinium pachydermatum Kofoid & Swezy 1921	Balechina pachydermata (Kofoid & Swezy) Loeblich & Loeblich 1968	Gómez et al. 2015
 Gymnodinium palustre (Schilling) Wołoszynska 1917	Biecheleria pseudopalustris (Schiller) Moestrup, Lindberg & Daugbjerg 2009	[12,306, Wołoszynska 1917]
 Gymnodinium palustre Schilling 1891	Spiniferodinium palustre (Schilling) Kretschmann & Gottschling 2015	[12, Kretschmann et al. 2015]
 Gymnodinium parasitica	Oodinium parasiticum (Dogiel) Kofoid and Swezy 1921	[19]
