@@ -16,7 +16,7 @@ T301	T010	Gymnodinium alaskense	T161	species	lexical variant	Bursa
 T011	T011	Gymnodinium allophron	T161	species	accepted	Larsen	1994				http://algaebase.org/search/species/detail/?species_id=c9ce03654a291f621
 T012	T012	Gymnodinium amphiconicoides	T161	species	accepted	Schiller	1957				http://algaebase.org/search/species/detail/?species_id=qad301561636f3f62
 T013	T013	Gymnodinium amphityphlum	T161	species	accepted	Larsen	1994				http://algaebase.org/search/species/detail/?species_id=Wf73ca1ebf605008a
-T014	T014	Gymnodinium amphora	T161	species	accepted	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=S5aeafaefc8445d4d
+T014	T900	Gymnodinium amphora	T830	species	synonym	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=S5aeafaefc8445d4d
 T015	T015	Gymnodinium amplinucleum	T161	species	accepted	Campbell	1973				http://algaebase.org/search/species/detail/?species_id=f023d9e9654bbb257
 T016	T016	Gymnodinium antarcticum	T161	species	accepted	(Balech) Thessen, Patterson & Murray	2012				http://algaebase.org/search/species/detail/?species_id=q1b60e5970050c8c1
 T017	T017	Gymnodinium arcticum	T161	species	accepted	Wulff	1919				http://algaebase.org/search/species/detail/?species_id=jccdbbdbae56db6a2
@@ -60,7 +60,7 @@ T315	T040	Gymnodinium boguense	T161	species	lexical variant
 T041	T041	Gymnodinium bonaerense	T161	species	accepted	Akselman	1983				http://algaebase.org/search/species/detail/?species_id=vd5e2b893e803bc98
 T042	T042	Gymnodinium caerulescens	T161	species	accepted	Schiller	1957				http://algaebase.org/search/species/detail/?species_id=Q5aa6490f4dab24b7
 T043	T043	Gymnodinium campbelli	T161	species	accepted	Popovsky	1971				http://algaebase.org/search/species/detail/?species_id=N72257d35c06b2cf0
-T044	T044	Gymnodinium canus	T161	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=Fc8d7e1e4097cc651
+T044	T874	Gymnodinium canus	T875	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=Fc8d7e1e4097cc651
 T045	T045	Gymnodinium capitatum	T161	species	accepted	Conrad & Kufferath	1954				http://algaebase.org/search/species/detail/?species_id=v92d57bfc836f691c
 T046	T046	Gymnodinium caput	T161	species	accepted	Schiller	1928				http://algaebase.org/search/species/detail/?species_id=r682551f16c675125
 T047	T047	Gymnodinium cassiei	T161	species	accepted	Norris	1961				http://algaebase.org/search/species/detail/?species_id=Q84c9fb2b2a070df6
@@ -79,7 +79,7 @@ T051	T051	Gymnodinium cinctum	T161	species	accepted	Kofoid & Swezy	1921				http:
 T052	T052	Gymnodinium cnecoides	T161	species	accepted	Harris	1940				http://algaebase.org/search/species/detail/?species_id=qbebde61174ff1b8e
 T325	T052	Gymnodinium saginatum	T161	species	synonym	Harris	1940				http://algaebase.org/search/species/detail/?species_id=ibebde61174ff1b8e
 T326	T052	Gymnodinium luteofaba	T161	species	synonym	Javornický	1965				http://algaebase.org/search/species/detail/?species_id=Z4de5834c5371c3fd
-T053	T053	Gymnodinium coeruleum	T161	species	accepted	Dogiel	1906				http://algaebase.org/search/species/detail/?species_id=Rcd869800d57af635
+T053	T874	Gymnodinium coeruleum	T875	species	basionym	Dogiel	1906				http://algaebase.org/search/species/detail/?species_id=Rcd869800d57af635
 T327	T053	Gymnodinium coerulatum	T161	species	lexical variant						
 T054	T054	Gymnodinium colymbeticum	T161	species	accepted	Harris	1940				http://algaebase.org/search/species/detail/?species_id=T06daa624e7e2191f
 T055	T055	Gymnodinium concavum	T161	species	accepted	Skvortzov	1968				http://algaebase.org/search/species/detail/?species_id=Ab62f28f7fce1d650
@@ -89,10 +89,10 @@ T058	T058	Gymnodinium corii	T161	species	accepted	Schiller	1928				http://algaeb
 T059	T059	Gymnodinium corollarium	T161	species	accepted	Sundström, Kremp & Daugbjerg	2009				http://algaebase.org/search/species/detail/?species_id=G9d2f815c4be02b1e
 T060	T060	Gymnodinium corpusculum	T161	species	accepted	(Perty) Saville-Kent	1880/81				http://algaebase.org/search/species/detail/?species_id=iecb7eb17f61eb05a
 T328	T060	Peridinium corpusculum	T161	species	homotypic synonym	Perty	1852				http://algaebase.org/search/species/detail/?species_id=Zc11596f21368cc50
-T061	T061	Gymnodinium costatum	T161	species	accepted	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=C26fc8351700cc192
+T061	T874	Gymnodinium costatum	T875	species	synonym	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=C26fc8351700cc192
 T062	T062	Gymnodinium cryophilum	T161	species	accepted	(Wedemayer, Wilcox & Graham) Hansen & Moestrup	2000				http://algaebase.org/search/species/detail/?species_id=k4ad05c8df63c5944
 T329	T062	Amphidinium cryophilum	T161	species	homotypic synonym	Wedemayer, Wilcox & Graham	1982				http://algaebase.org/search/species/detail/?species_id=h7811de19e6193d95
-T063	T063	Gymnodinium cucumis	T161	species	accepted	Schütt	1895				http://algaebase.org/search/species/detail/?species_id=Cb77d8504c4b10964
+T063	T874	Gymnodinium cucumis	T875	species	synonym	Schütt	1895				http://algaebase.org/search/species/detail/?species_id=Cb77d8504c4b10964
 T064	T064	Gymnodinium cyaneofungiforme	T161	species	accepted	Conrad & Kufferath	1954				http://algaebase.org/search/species/detail/?species_id=X4ade4fd425e1ed82
 T065	T065	Gymnodinium danicans	T161	species	accepted	Campbell	1973				http://algaebase.org/search/species/detail/?species_id=p099a93689742133c
 T066	T066	Gymnodinium danubiense	T161	species	accepted	Schiller	1957				http://algaebase.org/search/species/detail/?species_id=taf6094ab5b6f1b3e
@@ -105,8 +105,8 @@ T330	T071	Glenodinium eurystomum	T161	species	heterotypic synonym	Harris	1940			
 T331	T071	Gymnodinium disoidale	T161	species	lexical variant						
 T072	T072	Gymnodinium dissimile	T161	species	accepted	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=w61938a6113986e37
 T073	T073	Gymnodinium dodgei	T161	species	accepted	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=n1055a1049ba03585
-T074	T074	Gymnodinium dogieli	T161	species	accepted	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=D62c65f7e9cf83752
-T332	T074	Gymnodinium dogielii	T161	species	lexical variant						
+T074	T900	Gymnodinium dogieli	T830	species	synonym	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=D62c65f7e9cf83752
+T332	T074	Gymnodinium dogielii	T830	species	lexical variant						
 T075	T075	Gymnodinium doma	T161	species	accepted	Kofoid & Swezy	1921				http://algaebase.org/search/species/detail/?species_id=m5061d4c68f6a6828
 T076	T076	Gymnodinium dorsalisulcum	T161	species	accepted	(Hulburt, McLaughlin & Zahl) Murray, de Salas & Hallegraeff	2007				http://algaebase.org/search/species/detail/?species_id=m113f6cd5d218441c
 T077	T077	Gymnodinium endofasciculum	T161	species	accepted	Campbell	1973				http://algaebase.org/search/species/detail/?species_id=e216cf87e24bf95e4
@@ -203,7 +203,7 @@ T134	T134	Gymnodinium leptum	T161	species	accepted	Norris	1961			http://algaebas
 T135	T135	Gymnodinium limitatum	T161	species	accepted	Skuja	1956			http://algaebase.org/search/species/detail/?species_id=Rb39de0af4909bf93
 T136	T136	Gymnodinium lineatum	T161	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=idce30724b647df64
 T137	T137	Gymnodinium lineopunicum	T161	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=r3d264f70211ffd42
-T138	T138	Gymnodinium lira	T161	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=c940a71de68cceb30
+T138	T905	Gymnodinium lira	T875	species	basionym	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=c940a71de68cceb30
 T139	T139	Gymnodinium litoralis	T161	species	accepted	Reñé	2011			http://algaebase.org/search/species/detail/?species_id=j1417777fde8a8055
 T345	T139	Gymnodinium litorale	T161	species	lexical variant					
 T140	T140	Gymnodinium lobularis	T161	species	accepted	Campbell	1973			http://algaebase.org/search/species/detail/?species_id=Hb99f3e9ccd99bec6
@@ -265,7 +265,7 @@ T190	T190	Gymnodinium olivaceum	T161	species	accepted	Skvortzov	1968			http://al
 T191	T191	Gymnodinium ostenfeldi	T161	species	accepted	Schiller	1928			http://algaebase.org/search/species/detail/?species_id=bc0416343fe3f79d2
 T353	T191	Gymnodinium ostenfeldii	T161	species	lexical variant					
 T192	T192	Gymnodinium ovulum	T161	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=Y2b93c4fc3ad92a47
-T193	T193	Gymnodinium pachydermatum	T161	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=f5723a3e3d8cced0c
+T193	T900	Gymnodinium pachydermatum	T830	species	basionym	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=f5723a3e3d8cced0c
 T194	T194	Gymnodinium pallidum	T161	species	accepted	Skuja	1939			http://algaebase.org/search/species/detail/?species_id=s32b926cb7f1892bd
 T195	T195	Gymnodinium palustriforme	T161	species	accepted	Hansen & Flaim	2007			http://algaebase.org/search/species/detail/?species_id=T40c2f6dc6b12c3e8
 T196	T196	Gymnodinium paradoxiforme	T161	species	accepted	Schiller	1957			http://algaebase.org/search/species/detail/?species_id=o71b6cfb17b00220e
@@ -304,7 +304,7 @@ T226	T226	Gymnodinium roseostigma	T161	species	accepted	Campbell	1973			http://a
 T227	T227	Gymnodinium rubricauda	T161	species	accepted	Kofoid & Swezy	1921			http://algaebase.org/search/species/detail/?species_id=X56aaba1f50366b01
 T228	T228	Gymnodinium rubrocinctum	T161	species	accepted	Lebour	1925			http://algaebase.org/search/species/detail/?species_id=i1135b890ce0993ce
 T229	T229	Gymnodinium schaefferi	T161	species	accepted	Morris	1937			http://algaebase.org/search/species/detail/?species_id=sb472a98b4f082af1
-T230	T230	Gymnodinium schuettii	T161	species	accepted	Schiller	1957			http://algaebase.org/search/species/detail/?species_id=J9538394af337494d
+T230	T230	Gymnodinium schuettii	T161	species	accepted	Schiller	1957			http://algaebase.org/search/species/detail/?species_id=J9538394af337494df
 T231	T231	Gymnodinium scopulosum	T161	species	accepted	Kofoid & Swezy	1921			
 T232	T232	Gymnodinium semidivisum	T161	species	accepted	Schiller	1928			
 T233	T233	Gymnodinium situla	T161	species	accepted	Kofoid & Swezy	1921			
@@ -908,3 +908,9 @@ T896	T896	Tripos	T869	genus	accepted
 T897	T897	Scrippsiella acuminata	T898	species	accepted	(Ehrenberg) Kretschmann, Elbrächter, Zinssmeister, Soehner,Kirsch, Kusber & Gottschling	2015			
 T898	T898	Scrippsiella	T873	genus	accepted					
 T899	T899	Opisthoaulax vorticella	T886	species	accepted	(Stein) Calado	2011			
+T900	T900	Balechina pachydermata	T830	species	accepted	(Kofoid & Swezy) Loeblich & Loeblich	1968				http://algaebase.org/search/species/detail/?species_id=k1939db36b65d794d
+T901	T900	Gymnodinium gracile	T830	species	synonym	Kofoid & Swezy	1921				
+T902	T902	Gymnodinium coeruleum	T161	species	accepted	Antipova	1955				
+T903	T903	Cucumeridinium cucumis	T875	species	accepted	(Schütt) Gómez et al.	2015				
+T904	T903	Balechina coerulea	T875	species	synonym	Taylor	1976				
+T905	T905	Cucumeridinium lira	T875	species	accepted	(Kofoid & Swezy) Gómez et al.	2015				
