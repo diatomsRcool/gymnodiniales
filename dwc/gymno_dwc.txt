@@ -882,8 +882,8 @@ T870	T870	Takayama acrotrocha	T829	species	accepted	(Larsen) de Salas, Bolch & H
 T871	T871	Tyrannodinium edax	T872	species	accepted	(Schilling) Calado	2011			
 T872	T872	Tyrannodinium	T873	genus	accepted	Calado, Craveiro, Daugbjerg & Moestrup	2009			
 T873	T873	Thoracosphaeraceae		family	accepted					
-T874	T874	Cucumeridinium coeruleum	T875	species	accepted	(Dogiel) Gomez, Lopez-Garcia, Takayama & Moreira	2015			
-T875	T875	Cucumeridinium	T812	genus	accepted					
+T874	T874	Cucumeridinium coeruleum	T875	species	accepted	(Dogiel) Gómez, Lopez-Garcia, Takayama & Moreira	2015			
+T875	T875	Cucumeridinium	T812	genus	accepted	Gómez, Lopez-Garcia, Takayama & Moreira	2015			
 T876	T876	Karlodinium corsicum	T840	species	accepted	(Paulmier et al.) Siano & Zingone	2009			
 T877	T877	Kryptoperidinium foliaceum	T878	species	accepted	(Stein) Lindemann	1924			
 T878	T878	Kryptoperidinium	T879	genus	accepted					
@@ -910,7 +910,7 @@ T898	T898	Scrippsiella	T873	genus	accepted
 T899	T899	Opisthoaulax vorticella	T886	species	accepted	(Stein) Calado	2011			
 T900	T900	Balechina pachydermata	T830	species	accepted	(Kofoid & Swezy) Loeblich & Loeblich	1968				http://algaebase.org/search/species/detail/?species_id=k1939db36b65d794d
 T901	T900	Gymnodinium gracile	T830	species	synonym	Kofoid & Swezy	1921				
-T902	T902	Gymnodinium coeruleum	T161	species	accepted	Antipova	1955				
-T903	T903	Cucumeridinium cucumis	T875	species	accepted	(Schütt) Gómez et al.	2015				
+T902	T902	Gymnodinium coeruleum	T161	species	uncertain	Antipova	1955				
+T903	T903	Cucumeridinium cucumis	T875	species	accepted	(Schütt) Gómez, Lopez-Garcia, Takayama & Moreira	2015				
 T904	T903	Balechina coerulea	T875	species	synonym	Taylor	1976				
-T905	T905	Cucumeridinium lira	T875	species	accepted	(Kofoid & Swezy) Gómez et al.	2015				
+T905	T905	Cucumeridinium lira	T875	species	accepted	(Kofoid & Swezy) Gómez, Lopez-Garcia, Takayama & Moreira	2015				
