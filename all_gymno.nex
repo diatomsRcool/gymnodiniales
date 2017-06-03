@@ -1,0 +1,643 @@
+#NEXUS
+[written Sat Jun 03 16:50:14 EDT 2017 by Mesquite  version 3.10 (build 765) at Annes-MBP-2.fios-router.home/192.168.1.161]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX=230;
+	TAXLABELS
+		Gymnodinium_absumens Gymnodinium_achromaticum Gymnodinium_adriaticum Gymnodinium_aequatoriale Gymnodinium_aesculum Gymnodinium_agaricoides Gymnodinium_agiliforme Gymnodinium_alaskensis Gymnodinium_allophron Gymnodinium_amphiconicoides Gymnodinium_amphityphlum Gymnodinium_amphora Gymnodinium_amplinucleum Gymnodinium_antarcticum Gymnodinium_arcticum Gymnodinium_arcuatum Gymnodinium_arenicolus Gymnodinium_armoricanum Gymnodinium_atomatum Gymnodinium_attenuatum Gymnodinium_aurantium Gymnodinium_auratum Gymnodinium_aureolum Gymnodinium_aureum Gymnodinium_australe Gymnodinium_australense Gymnodinium_austriacum Gymnodinium_autumnale Gymnodinium_baccatum Gymnodinium_baicalense Gymnodinium_baumeisteri Gymnodinium_biciliatum Gymnodinium_biconicum Gymnodinium_bicorne Gymnodinium_bifurcatum Gymnodinium_birotundatum Gymnodinium_boguensis Gymnodinium_bonaerense Gymnodinium_caerulescens Gymnodinium_campbelli Gymnodinium_canus Gymnodinium_capitatum Gymnodinium_caput Gymnodinium_cassiei Gymnodinium_catenatum Gymnodinium_chiastosporum Gymnodinium_chukwanii Gymnodinium_cinctum Gymnodinium_cnecoides Gymnodinium_coeruleum Gymnodinium_colymbeticum Gymnodinium_concavum Gymnodinium_conicum Gymnodinium_contractum Gymnodinium_corii Gymnodinium_corollarium Gymnodinium_corpusculum Gymnodinium_costatum Gymnodinium_cryophilum Gymnodinium_cucumis Gymnodinium_cyaneofungiforme Gymnodinium_danicans Gymnodinium_danubiense Gymnodinium_deformabile Gymnodinium_dentatum Gymnodinium_devorans Gymnodinium_diploconus Gymnodinium_discoidale Gymnodinium_dissimile Gymnodinium_dodgei Gymnodinium_dogieli Gymnodinium_doma Gymnodinium_dorsalisulcum Gymnodinium_endofasciculum Gymnodinium_enorme Gymnodinium_eufrigidum Gymnodinium_excavatum Gymnodinium_exechegloutum Gymnodinium_filum Gymnodinium_flavum Gymnodinium_fossarum Gymnodinium_fulgens Gymnodinium_fuscum Gymnodinium_galeaeforme Gymnodinium_galeatum Gymnodinium_galesianum Gymnodinium_gelbum Gymnodinium_gibbera Gymnodinium_glandiforme Gymnodinium_glaucum Gymnodinium_gleba Gymnodinium_gracile Gymnodinium_gracilentum Gymnodinium_grammaticum Gymnodinium_granii Gymnodinium_guttiforme Gymnodinium_guttula Gymnodinium_hamulus Gymnodinium_herbaceum Gymnodinium_heterostriatum Gymnodinium_hiemale Gymnodinium_hiroshimaensis 'Gymnodinium huber-pestalozzii' Gymnodinium_hulburtii Gymnodinium_impatiens Gymnodinium_impudicum Gymnodinium_incertum Gymnodinium_incisum Gymnodinium_incoloratum Gymnodinium_inconstans Gymnodinium_indicum Gymnodinium_inerme Gymnodinium_instriatum Gymnodinium_intercalaris Gymnodinium_inusitatum Gymnodinium_irregulare Gymnodinium_japonicum Gymnodinium_katodiniforme Gymnodinium_knollii Gymnodinium_kowalevskii Gymnodinium_kujavense Gymnodinium_lachmannii Gymnodinium_lackeyi Gymnodinium_laustre Gymnodinium_lalitae Gymnodinium_lanskoi Gymnodinium_lantzschii Gymnodinium_latum Gymnodinium_lazulum Gymnodinium_legiconveniens Gymnodinium_leptum Gymnodinium_limitatum Gymnodinium_lineatum Gymnodinium_lineopunicum Gymnodinium_lira Gymnodinium_litoralis Gymnodinium_lobularis Gymnodinium_lucidum Gymnodinium_lunula Gymnodinium_maguelonnense Gymnodinium_marinum Gymnodinium_marylandicum Gymnodinium_meervalli Gymnodinium_microreticulatum Gymnodinium_minor Gymnodinium_minutulum Gymnodinium_mitratum Gymnodinium_modestum Gymnodinium_multilineatum Gymnodinium_multistriatum Gymnodinium_najadeum Gymnodinium_nanum Gymnodinium_neapolitanum Gymnodinium_nolleri Gymnodinium_oceanicum Gymnodinium_ochraceum Gymnodinium_octo Gymnodinium_olivaceum Gymnodinium_ostenfeldi Gymnodinium_ovulum Gymnodinium_pachydermatum Gymnodinium_pallidum Gymnodinium_palustriforme Gymnodinium_paradoxiforme Gymnodinium_paradoxum Gymnodinium_parvum Gymnodinium_patagonicum Gymnodinium_paulseni Gymnodinium_pavlae Gymnodinium_peisonis Gymnodinium_perplexum Gymnodinium_placidum Gymnodinium_polycomma Gymnodinium_posthiemale Gymnodinium_prolatum Gymnodinium_pseudomirabile Gymnodinium_pulchrum Gymnodinium_pumilum Gymnodinium_punctatum Gymnodinium_puniceum Gymnodinium_purpureum Gymnodinium_pygmaeum Gymnodinium_pyrocystis Gymnodinium_radiatum Gymnodinium_ravenescens Gymnodinium_regulare Gymnnodinium_rhomboides Gymnodinium_roseolum Gymnodinium_roseostigma Gymnodinium_rubricauda Gymnodinium_rubrocinctum Gymnodinium_schaefferi Gymnodinium_schuettii Gymnodinium_scopulosum Gymnodinium_semidivisum Gymnodinium_situla Gymnodinium_smaydae Gymnodinium_soyai Gymnodinium_sphaericum Gymnodinium_sphaeroideum Gymnodinium_steini Gymnodinium_stellatum Gymnodinium_submontanum Gymnodinium_subroseum Gymnodinium_subrufescens Gymnodinium_sulcatum Gymnodinium_terrum Gymnodinium_thomasi Gymnodinium_translucens Gymnodinium_trapeziforme Gymnodinium_triceratium Gymnodinium_uberrimum Gymnodinium_valdecompressum Gymnodinium_variabile Gymnodinium_varians Gymnodinium_venator Gymnodinium_verruculosum Gymnodinium_vestifici Gymnodinium_violescens Gymnodinium_viridaliut Gymnodinium_viridans Gymnodinium_viridescens Gymnodinium_voukii Gymnodinium_wawrikae Gymnodinium_wilczeki Gymnodinium_wulffii Gymnodinium_zachariasi Gymnodinium_campaniforme Gymnodinium_viride Gymnodinium_p.dorhni 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	DIMENSIONS  NCHAR=22;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5 6 7 8 9 A B C D E F G H J K M N P Q R S T U";
+	CHARSTATELABELS 
+		1 antapical_horn, 2 apical_horn, 3 antapex_shape, 4 apex_shape, 5 cell_shape_3D, 6 cell_shape_ventral, 7 cell_shape_lateral, 8 cell_shape_anterior, 9 cingulum_location, 10 cingulum_type, 11 colony_forming, 12 epicone_shape, 13 habitat, 14 hypocone_shape, 15 nucleus_location, 16 chloroplast, 17 sulcal_notch, 18 eye_spot, 19 compression, 20 cell_surface_texture, 21 simplified_shape, 22 sulcus_type ; 
+	MATRIX
+	Gymnodinium_absumens           00116422133617200031?2
+	Gymnodinium_achromaticum       00112123223{1 3}26101022?1
+	Gymnodinium_adriaticum         00114423333627101021?2
+	Gymnodinium_aequatoriale       01135633223122300021?1
+	Gymnodinium_aesculum           00116411223617300031?2
+	Gymnodinium_agaricoides        0011442323362H?0002122
+	Gymnodinium_agiliforme         01136222333122?10031?2
+	Gymnodinium_alaskensis         00216421123737210031?2
+	Gymnodinium_allophron          00134423223726100021?1
+	Gymnodinium_amphiconicoides    00311993333413?10121?2
+	Gymnodinium_amphityphlum       0041642232362U111031?2
+	Gymnodinium_amphora            00303223223126100021?1
+	Gymnodinium_amplinucleum       00436222333427201031?2
+	Gymnodinium_antarcticum        00436{2 5}2232342U101031?2
+	Gymnodinium_arcticum           00133213333F27110021?2
+	Gymnodinium_arcuatum           00414423{1 3}3362E301022?1
+	Gymnodinium_arenicolus         00116{4 8}22333647211031?1
+	Gymnodinium_armoricanum        0031622233361J?10031?2
+	Gymnodinium_atomatum           00416422323627100034?2
+	Gymnodinium_attenuatum         00339952223F2J300042?2
+	Gymnodinium_aurantium          00031953323{7 F}3{7 J}110021?2
+	Gymnodinium_auratum            00133213123F27100021?1
+	Gymnodinium_aureolum           00?16{4 9}22{2 3}23{4 6 7}2{7 K}21003131
+	Gymnodinium_aureum             0033{2 9}143223F21200022?1
+	Gymnodinium_australe           10313213133{3 5}1J?10021??
+	Gymnodinium_australense        0011642212322U111031?2
+	Gymnodinium_austriacum         0013444{2 3}3{2 3}3{6 7}1{8 K}20?031?1
+	Gymnodinium_autumnale          00114423{2 3}33?1?31?02???
+	Gymnodinium_baccatum           00136422233426110033?2
+	Gymnodinium_baicalense         ??????????????????2???
+	Gymnodinium_baumeisteri        00136122123K12?11121?1
+	Gymnodinium_biciliatum         00114423323617310021?1
+	Gymnodinium_biconicum          00339922133F2J?10031?2
+	Gymnodinium_bicorne            0011{4 7}423123526310021?1
+	Gymnodinium_bifurcatum         00436312323P2E301041?2
+	Gymnodinium_birotundatum       00436222133F2U311031?2
+	Gymnodinium_boguensis          0011{2 5}{1 6}33223627200021?2
+	Gymnodinium_bonaerense         ????6{4 6}222?362?3???3???
+	Gymnodinium_caerulescens       00116422223617?10031?2
+	Gymnodinium_campbelli          00214423223{6 7}3{7 K}200021?2
+	Gymnodinium_canus              01434423123122101022?1
+	Gymnodinium_capitatum          0041321333363{9 U}?11021?2
+	Gymnodinium_caput              00118423223{6 A}2H??0022?1
+	Gymnodinium_cassiei            00114423223626210021?2
+	Gymnodinium_catenatum          00006{4 6 7}22{2 3}{2 3}1{6 7}283110{3 5}{1 4}31
+	Gymnodinium_chiastosporum      00114443233617?10021?1
+	Gymnodinium_chukwanii          0041662232361{K U}311031?1
+	Gymnodinium_cinctum            0011{4 8}42322372{7 D}310021?1
+	Gymnodinium_cnecoides          00116622323?1????03??2
+	Gymnodinium_coeruleum          00436{2 4}22{1 3}23F26201031?1
+	Gymnodinium_colymbeticum       0011?6??323617?00021?1
+	Gymnodinium_concavum           0041652233371K311131?2
+	Gymnodinium_conicum            00133213223F2{7 U}111021?1
+	Gymnodinium_contractum         0041442313362U201021?2
+	Gymnodinium_corii              00416422223726??1?3?31
+	Gymnodinium_corollarium        00116422323F2731003131
+	Gymnodinium_corpusculum        00114423??3617???02???
+	Gymnodinium_costatum           00014423123326101022?1
+	Gymnodinium_cryophilum         00134423223F16110021?1
+	Gymnodinium_cucumis            00233213123F27100022?1
+	Gymnodinium_cyaneofungiforme   00313213??3638?10?21??
+	Gymnodinium_danicans           ??????????????????2???
+	Gymnodinium_danubiense         0033622221341{K U}?11031?1
+	Gymnodinium_deformabile        00116{4 6}22333617?10031?2
+	Gymnodinium_dentatum           ????4423?234271???2???
+	Gymnodinium_devorans           00116422233617200031?2
+	Gymnodinium_diploconus         00001363233{3 F J}2{J P Q}310022?2
+	Gymnodinium_discoidale         00??4423?33?1??1103??1
+	Gymnodinium_dissimile          0041442312362U300021?1
+	Gymnodinium_dodgei             00136422323F17110131?1
+	Gymnodinium_dogieli            00331223123J2J100021?1
+	Gymnodinium_doma               00114422223626201021?1
+	Gymnodinium_dorsalisulcum      0001642212362{7 K}21?03131
+	Gymnodinium_endofasciculum     ????????????????1?????
+	Gymnodinium_enorme             00406522??3{6 G}3{K U}?00031??
+	Gymnodinium_eufrigidum         00116422233617?10031?2
+	Gymnodinium_excavatum          001121231?313J?11021??
+	Gymnodinium_exechegloutum      00426722333D2U311031?2
+	Gymnodinium_filum              00339952233F2J300031?1
+	Gymnodinium_flavum             00106{4 6}22{1 2 3}23{3 6}2{7 P}310031?{1 2}
+	Gymnodinium_fossarum           00116442??3132110131??
+	Gymnodinium_fulgens            ????6422?33?2?311?3??2
+	Gymnodinium_fuscum             10316222{1 3}{2 3}361J2101313{1 2}
+	Gymnodinium_galeaeforme        0041622232362K311031?2
+	Gymnodinium_galeatum           0031214332352J300021?1
+	Gymnodinium_galesianum         ??????????????????3???
+	Gymnodinium_gelbum             0041612232362{7 U}201021?2
+	Gymnodinium_gibbera            00334423323726?10023?1
+	Gymnodinium_glandiforme        00213213233636300021?2
+	Gymnodinium_glaucum            00116{4 6}22233617310031?2
+	Gymnodinium_gleba              00434423123526201021?1
+	Gymnodinium_gracile            0100{3 4}213223{1 7 J}2{4 6 8 R}101022?1
+	Gymnodinium_gracilentum        ??????????????????2???
+	Gymnodinium_grammaticum        000?212333362U?11121?2
+	Gymnodinium_granii             00116422233617200031?1
+	Gymnodinium_guttiforme         0031321322362J300022?1
+	Gymnodinium_guttula            00133213123F27110021?1
+	Gymnodinium_hamulus            0023662213364U101032?2
+	Gymnodinium_herbaceum          0011{3 4}{2 4}23223626110022?2
+	Gymnodinium_heterostriatum     0000{3 4}{2 4}23323{6 7 F}2{6 J}200022?1
+	Gymnodinium_hiemale            0001672213361{7 U}301031?1
+	Gymnodinium_hiroshimaensis     00331953323F2J310022?2
+	'Gymnodinium huber-pestalozzii'00036{2 4}22333F1K?11131?1
+	Gymnodinium_hulburtii          ??????????????????2???
+	Gymnodinium_impatiens          00114423123{3 6}1{3 6}31002122
+	Gymnodinium_impudicum          0001{3 4}{2 4}23321{6 7}2{7 8}31102111
+	Gymnodinium_incertum           00216422123647310131?2
+	Gymnodinium_incisum            0043563312362E201021?1
+	Gymnodinium_incoloratum        001164223?3627100031??
+	Gymnodinium_inconstans         0001?4??3?333P?10031??
+	Gymnodinium_indicum            00116{4 6}21333617110031?2
+	Gymnodinium_inerme             00115633333617??0?21?2
+	Gymnodinium_instriatum         00414452{1 2}2371U211031?1
+	Gymnodinium_intercalaris       001144221232?2?00024?2
+	Gymnodinium_inusitatum         0?214526221F2731002?2?
+	Gymnodinium_irregulare         00112143223222?00021??
+	Gymnodinium_japonicum          00104{2 4}22323{6 F}27310031?1
+	Gymnodinium_katodiniforme      00116321133{4 J}2{3 Q}20003231
+	Gymnodinium_knollii            00116{4 6}22333617?00031?2
+	Gymnodinium_kowalevskii        00136{2 4}22133F22110031?1
+	Gymnodinium_kujavense          ??????????????????2???
+	Gymnodinium_lachmannii         00114423333627?00021?2
+	Gymnodinium_lackeyi            00??642223????????3??2
+	Gymnodinium_laustre            00012443{2 3}3361{7 U}311131?{1 2}
+	Gymnodinium_lalitae            00116{4 6}22133617310031?2
+	Gymnodinium_lanskoi            00216121113222310131?1
+	Gymnodinium_lantzschii         00134433333F1{7 U}{1 3}00021?2
+	Gymnodinium_latum              01036421133612201031?2
+	Gymnodinium_lazulum            00115623233F37?00021?1
+	Gymnodinium_legiconveniens     00116412333617?00031?2
+	Gymnodinium_leptum             00326{2 4}1223352J?10031?2
+	Gymnodinium_limitatum          00116411{2 3}2361{6 7}{2 3}10031?1
+	Gymnodinium_lineatum           0031322312322J200022?1
+	Gymnodinium_lineopunicum       0011322333362J100021?1
+	Gymnodinium_lira               00114443223626200022?1
+	Gymnodinium_litoralis          00016{2 4}2232162721103131
+	Gymnodinium_lobularis          0021{2 5}14423343K?01031?2
+	Gymnodinium_lucidum            000144232{2 3}3{6 F}2{4 6}30{0 1}022?1
+	Gymnodinium_lunula             0011{1 6}{4 9}{2 5}{2 3}{1 3}2372{7 8}3?0021?1
+	Gymnodinium_maguelonnense      0041652212373K311031?1
+	Gymnodinium_marinum            00016{4 6}212{1 3}362U?0{0 1}021?2
+	Gymnodinium_marylandicum       0011644232361P?10031?1
+	Gymnodinium_meervalli          00303213123F1J2001?1?1
+	Gymnodinium_microreticulatum   0011{1 4}422323{6 7}2{7 8}21004121
+	Gymnodinium_minor              0001563332362K301021?2
+	Gymnodinium_minutulum          00146452223626100031??
+	Gymnodinium_mitratum           00114423133717100021?2
+	Gymnodinium_modestum           0041?4??233{7 M}263110?1?2
+	Gymnodinium_multilineatum      00339423123526100022?1
+	Gymnodinium_multistriatum      00111952123728100032?1
+	Gymnodinium_najadeum           00114423333627?00023?2
+	Gymnodinium_nanum              0011842322392H?10021?2
+	Gymnodinium_neapolitanum       00136122223726300031?1
+	Gymnodinium_nolleri            0021{3 4}52332172K31002121
+	Gymnodinium_oceanicum          00214123123M2{7 K}200021?2
+	Gymnodinium_ochraceum          00416222123727311031?2
+	Gymnodinium_octo               00118442323526100031?1
+	Gymnodinium_olivaceum          001161223?3617310?31??
+	Gymnodinium_ostenfeldi         0011{1 3}422233{6 7}2{6 8}210031?1
+	Gymnodinium_ovulum             00115633233627200021?1
+	Gymnodinium_pachydermatum      00412123223626101023?1
+	Gymnodinium_pallidum           00116422133637100031?1
+	Gymnodinium_palustriforme      001164221{2 3}3317210031?1
+	Gymnodinium_paradoxiforme      00114423333617?10021?2
+	Gymnodinium_paradoxum          001156{2 3}{2 3}1336173101{2 3}1?1
+	Gymnodinium_parvum             00017{0 A}22223{6 F}2{2 U}10{0 1}031?2
+	Gymnodinium_patagonicum        00016622223627300031?2
+	Gymnodinium_paulseni           001144232{2 3}3F2F?10021?1
+	Gymnodinium_pavlae             0011{4 5}{4 6}{2 3}3323{5 6}1{6 7}310021?1
+	Gymnodinium_peisonis           00115633233M17?10021?2
+	Gymnodinium_perplexum          0011?4??1?3M37??00?1??
+	Gymnodinium_placidum           00416422123K{2 4}7201031?1
+	Gymnodinium_polycomma          0043662232362U201031?1
+	Gymnodinium_posthiemale        00112123133112110021?2
+	Gymnodinium_prolatum           00339953323121100021?2
+	Gymnodinium_pseudomirabile     00416422333617311031?1
+	Gymnodinium_pulchrum           003132222?3J2F?10031??
+	Gymnodinium_pumilum            0041692232322721003??1
+	Gymnodinium_punctatum          0031????33362U2111?1?2
+	Gymnodinium_puniceum           00114423213124300022?1
+	Gymnodinium_purpureum          00416421133617110131?1
+	Gymnodinium_pygmaeum           0050?{6 7}??2{2 3}3{6 M}2{7 U}2100?1?1
+	Gymnodinium_pyrocystis         0011????2?372430?0?1?1
+	Gymnodinium_radiatum           00016422223627300032?1
+	Gymnodinium_ravenescens        00214423223526110021?1
+	Gymnodinium_regulare           0011?4??2?333P?100?1??
+	Gymnnodinium_rhomboides        00111952{2 3}23F2J200032?1
+	Gymnodinium_roseolum           0011?4??2?3626?1012???
+	Gymnodinium_roseostigma        00116122{1 3}33622200131?2
+	Gymnodinium_rubricauda         00413521313F2K201031?1
+	Gymnodinium_rubrocinctum       0001642232362K301031?1
+	Gymnodinium_schaefferi         0041744112333P311131?2
+	Gymnodinium_schuettii          00216422233M1K?10131?1
+	Gymnodinium_scopulosum         00339??3123M2F200021?1
+	Gymnodinium_semidivisum        00118B{2 7}2323D2S?10031?2
+	Gymnodinium_situla             00413581223F2{4 U}101022?1
+	Gymnodinium_smaydae            00164423223{F M}22210021?1
+	Gymnodinium_soyai              00113222333F2U311031?2
+	Gymnodinium_sphaericum         004164222234{1 2}6200031?1
+	Gymnodinium_sphaeroideum       00125033313622310021?1
+	Gymnodinium_steini             0011?9??3337181101?1?1
+	Gymnodinium_stellatum          0041642232332P201041?1
+	Gymnodinium_submontanum        0011?4??133617?000?1?2
+	Gymnodinium_subroseum          00416522223F2K101031?2
+	Gymnodinium_subrufescens       0021442312352K31002??1
+	Gymnodinium_sulcatum           00435633{2 3}33{F M}2{6 K}201022?1
+	Gymnodinium_terrum             001169253?3F1J?00031??
+	Gymnodinium_thomasi            00116422123617{2 3}10031?2
+	Gymnodinium_translucens        00434421123M26101022?1
+	Gymnodinium_trapeziforme       00213242323F2{7 K}310031?1
+	Gymnodinium_triceratium        0031722233361T310031?1
+	Gymnodinium_uberrimum          00015533233{F M}1K31{0 1}121?2
+	Gymnodinium_valdecompressum    00116{6 9}21123423310131?2
+	Gymnodinium_variabile          00016{4 6}223{1 2 3}3{3 6 F}{2 4}{7 K}{2 3}{0 1}0{0 1}31?{1 2}
+	Gymnodinium_varians            00114422333616?1002122
+	Gymnodinium_venator            0041642223364U30003131
+	Gymnodinium_verruculosum       0113314322362J?10023?2
+	Gymnodinium_vestifici          01339143223121200022?1
+	Gymnodinium_violescens         00111953223F2J300021?2
+	Gymnodinium_viridaliut         00114422333617?10031?2
+	Gymnodinium_viridans           001132121?363J210021??
+	Gymnodinium_viridescens        00416422233626311031?1
+	Gymnodinium_voukii             00339952333F21?10032?2
+	Gymnodinium_wawrikae           00016{4 6}22{1 3}{2 3}3{5 6}17310131?2
+	Gymnodinium_wilczeki           00410222133M2U?11021?2
+	Gymnodinium_wulffii            00?1??????3?2??0?0?1?2
+	Gymnodinium_zachariasi         00116422133317?10031?2
+	Gymnodinium_campaniforme       00114423133312310021?2
+	Gymnodinium_viride             0011642232331P210131?1
+	Gymnodinium_p.dorhni           00117121{2 3}33212210031?2
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  22;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  22;
+END;
+
+BEGIN TREES[!'Parameters: '];
+	Title Default_Trees;
+	ID 015c13d241584;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		n0 Gymnodinium_absumens,
+[1] 		n1 Gymnodinium_achromaticum,
+[2] 		n2 Gymnodinium_adriaticum,
+[3] 		n3 Gymnodinium_aequatoriale,
+[4] 		n4 Gymnodinium_aesculum,
+[5] 		n5 Gymnodinium_agaricoides,
+[6] 		n6 Gymnodinium_agiliforme,
+[7] 		n7 Gymnodinium_alaskensis,
+[8] 		n8 Gymnodinium_allophron,
+[9] 		n9 Gymnodinium_amphiconicoides,
+[10] 		n10 Gymnodinium_amphityphlum,
+[11] 		n11 Gymnodinium_amphora,
+[12] 		n12 Gymnodinium_amplinucleum,
+[13] 		n13 Gymnodinium_antarcticum,
+[14] 		n14 Gymnodinium_arcticum,
+[15] 		n15 Gymnodinium_arcuatum,
+[16] 		n16 Gymnodinium_arenicolus,
+[17] 		n17 Gymnodinium_armoricanum,
+[18] 		n18 Gymnodinium_atomatum,
+[19] 		n19 Gymnodinium_attenuatum,
+[20] 		n20 Gymnodinium_aurantium,
+[21] 		n21 Gymnodinium_auratum,
+[22] 		n22 Gymnodinium_aureolum,
+[23] 		n23 Gymnodinium_aureum,
+[24] 		n24 Gymnodinium_australe,
+[25] 		n25 Gymnodinium_australense,
+[26] 		n26 Gymnodinium_austriacum,
+[27] 		n27 Gymnodinium_autumnale,
+[28] 		n28 Gymnodinium_baccatum,
+[29] 		n29 Gymnodinium_baicalense,
+[30] 		n30 Gymnodinium_baumeisteri,
+[31] 		n31 Gymnodinium_biciliatum,
+[32] 		n32 Gymnodinium_biconicum,
+[33] 		n33 Gymnodinium_bicorne,
+[34] 		n34 Gymnodinium_bifurcatum,
+[35] 		n35 Gymnodinium_birotundatum,
+[36] 		n36 Gymnodinium_boguensis,
+[37] 		n37 Gymnodinium_bonaerense,
+[38] 		n38 Gymnodinium_caerulescens,
+[39] 		n39 Gymnodinium_campbelli,
+[40] 		n40 Gymnodinium_canus,
+[41] 		n41 Gymnodinium_capitatum,
+[42] 		n42 Gymnodinium_caput,
+[43] 		n43 Gymnodinium_cassiei,
+[44] 		n44 Gymnodinium_catenatum,
+[45] 		n45 Gymnodinium_chiastosporum,
+[46] 		n46 Gymnodinium_chukwanii,
+[47] 		n47 Gymnodinium_cinctum,
+[48] 		n48 Gymnodinium_cnecoides,
+[49] 		n49 Gymnodinium_coeruleum,
+[50] 		n50 Gymnodinium_colymbeticum,
+[51] 		n51 Gymnodinium_concavum,
+[52] 		n52 Gymnodinium_conicum,
+[53] 		n53 Gymnodinium_contractum,
+[54] 		n54 Gymnodinium_corii,
+[55] 		n55 Gymnodinium_corollarium,
+[56] 		n56 Gymnodinium_corpusculum,
+[57] 		n57 Gymnodinium_costatum,
+[58] 		n58 Gymnodinium_cryophilum,
+[59] 		n59 Gymnodinium_cucumis,
+[60] 		n60 Gymnodinium_cyaneofungiforme,
+[61] 		n61 Gymnodinium_danicans,
+[62] 		n62 Gymnodinium_danubiense,
+[63] 		n63 Gymnodinium_deformabile,
+[64] 		n64 Gymnodinium_dentatum,
+[65] 		n65 Gymnodinium_devorans,
+[66] 		n66 Gymnodinium_diploconus,
+[67] 		n67 Gymnodinium_discoidale,
+[68] 		n68 Gymnodinium_dissimile,
+[69] 		n69 Gymnodinium_dodgei,
+[70] 		n70 Gymnodinium_dogieli,
+[71] 		n71 Gymnodinium_doma,
+[72] 		n72 Gymnodinium_dorsalisulcum,
+[73] 		n73 Gymnodinium_endofasciculum,
+[74] 		n74 Gymnodinium_enorme,
+[75] 		n75 Gymnodinium_eufrigidum,
+[76] 		n76 Gymnodinium_excavatum,
+[77] 		n77 Gymnodinium_exechegloutum,
+[78] 		n78 Gymnodinium_filum,
+[79] 		n79 Gymnodinium_flavum,
+[80] 		n80 Gymnodinium_fossarum,
+[81] 		n81 Gymnodinium_fulgens,
+[82] 		n82 Gymnodinium_fuscum,
+[83] 		n83 Gymnodinium_galeaeforme,
+[84] 		n84 Gymnodinium_galeatum,
+[85] 		n85 Gymnodinium_galesianum,
+[86] 		n86 Gymnodinium_gelbum,
+[87] 		n87 Gymnodinium_gibbera,
+[88] 		n88 Gymnodinium_glandiforme,
+[89] 		n89 Gymnodinium_glaucum,
+[90] 		n90 Gymnodinium_gleba,
+[91] 		n91 Gymnodinium_gracile,
+[92] 		n92 Gymnodinium_gracilentum,
+[93] 		n93 Gymnodinium_grammaticum,
+[94] 		n94 Gymnodinium_granii,
+[95] 		n95 Gymnodinium_guttiforme,
+[96] 		n96 Gymnodinium_guttula,
+[97] 		n97 Gymnodinium_hamulus,
+[98] 		n98 Gymnodinium_herbaceum,
+[99] 		n99 Gymnodinium_heterostriatum,
+[100] 		n100 Gymnodinium_hiemale,
+[101] 		n101 Gymnodinium_hiroshimaensis,
+[102] 		n102 'Gymnodinium huber-pestalozzii',
+[103] 		n103 Gymnodinium_hulburtii,
+[104] 		n104 Gymnodinium_impatiens,
+[105] 		n105 Gymnodinium_impudicum,
+[106] 		n106 Gymnodinium_incertum,
+[107] 		n107 Gymnodinium_incisum,
+[108] 		n108 Gymnodinium_incoloratum,
+[109] 		n109 Gymnodinium_inconstans,
+[110] 		n110 Gymnodinium_indicum,
+[111] 		n111 Gymnodinium_inerme,
+[112] 		n112 Gymnodinium_instriatum,
+[113] 		n113 Gymnodinium_intercalaris,
+[114] 		n114 Gymnodinium_inusitatum,
+[115] 		n115 Gymnodinium_irregulare,
+[116] 		n116 Gymnodinium_japonicum,
+[117] 		n117 Gymnodinium_katodiniforme,
+[118] 		n118 Gymnodinium_knollii,
+[119] 		n119 Gymnodinium_kowalevskii,
+[120] 		n120 Gymnodinium_kujavense,
+[121] 		n121 Gymnodinium_lachmannii,
+[122] 		n122 Gymnodinium_lackeyi,
+[123] 		n123 Gymnodinium_laustre,
+[124] 		n124 Gymnodinium_lalitae,
+[125] 		n125 Gymnodinium_lanskoi,
+[126] 		n126 Gymnodinium_lantzschii,
+[127] 		n127 Gymnodinium_latum,
+[128] 		n128 Gymnodinium_lazulum,
+[129] 		n129 Gymnodinium_legiconveniens,
+[130] 		n130 Gymnodinium_leptum,
+[131] 		n131 Gymnodinium_limitatum,
+[132] 		n132 Gymnodinium_lineatum,
+[133] 		n133 Gymnodinium_lineopunicum,
+[134] 		n134 Gymnodinium_lira,
+[135] 		n135 Gymnodinium_litoralis,
+[136] 		n136 Gymnodinium_lobularis,
+[137] 		n137 Gymnodinium_lucidum,
+[138] 		n138 Gymnodinium_lunula,
+[139] 		n139 Gymnodinium_maguelonnense,
+[140] 		n140 Gymnodinium_marinum,
+[141] 		n141 Gymnodinium_marylandicum,
+[142] 		n142 Gymnodinium_meervalli,
+[143] 		n143 Gymnodinium_microreticulatum,
+[144] 		n144 Gymnodinium_minor,
+[145] 		n145 Gymnodinium_minutulum,
+[146] 		n146 Gymnodinium_mitratum,
+[147] 		n147 Gymnodinium_modestum,
+[148] 		n148 Gymnodinium_multilineatum,
+[149] 		n149 Gymnodinium_multistriatum,
+[150] 		n150 Gymnodinium_najadeum,
+[151] 		n151 Gymnodinium_nanum,
+[152] 		n152 Gymnodinium_neapolitanum,
+[153] 		n153 Gymnodinium_nolleri,
+[154] 		n154 Gymnodinium_oceanicum,
+[155] 		n155 Gymnodinium_ochraceum,
+[156] 		n156 Gymnodinium_octo,
+[157] 		n157 Gymnodinium_olivaceum,
+[158] 		n158 Gymnodinium_ostenfeldi,
+[159] 		n159 Gymnodinium_ovulum,
+[160] 		n160 Gymnodinium_pachydermatum,
+[161] 		n161 Gymnodinium_pallidum,
+[162] 		n162 Gymnodinium_palustriforme,
+[163] 		n163 Gymnodinium_paradoxiforme,
+[164] 		n164 Gymnodinium_paradoxum,
+[165] 		n165 Gymnodinium_parvum,
+[166] 		n166 Gymnodinium_patagonicum,
+[167] 		n167 Gymnodinium_paulseni,
+[168] 		n168 Gymnodinium_pavlae,
+[169] 		n169 Gymnodinium_peisonis,
+[170] 		n170 Gymnodinium_perplexum,
+[171] 		n171 Gymnodinium_placidum,
+[172] 		n172 Gymnodinium_polycomma,
+[173] 		n173 Gymnodinium_posthiemale,
+[174] 		n174 Gymnodinium_prolatum,
+[175] 		n175 Gymnodinium_pseudomirabile,
+[176] 		n176 Gymnodinium_pulchrum,
+[177] 		n177 Gymnodinium_pumilum,
+[178] 		n178 Gymnodinium_punctatum,
+[179] 		n179 Gymnodinium_puniceum,
+[180] 		n180 Gymnodinium_purpureum,
+[181] 		n181 Gymnodinium_pygmaeum,
+[182] 		n182 Gymnodinium_pyrocystis,
+[183] 		n183 Gymnodinium_radiatum,
+[184] 		n184 Gymnodinium_ravenescens,
+[185] 		n185 Gymnodinium_regulare,
+[186] 		n186 Gymnnodinium_rhomboides,
+[187] 		n187 Gymnodinium_roseolum,
+[188] 		n188 Gymnodinium_roseostigma,
+[189] 		n189 Gymnodinium_rubricauda,
+[190] 		n190 Gymnodinium_rubrocinctum,
+[191] 		n191 Gymnodinium_schaefferi,
+[192] 		n192 Gymnodinium_schuettii,
+[193] 		n193 Gymnodinium_scopulosum,
+[194] 		n194 Gymnodinium_semidivisum,
+[195] 		n195 Gymnodinium_situla,
+[196] 		n196 Gymnodinium_smaydae,
+[197] 		n197 Gymnodinium_soyai,
+[198] 		n198 Gymnodinium_sphaericum,
+[199] 		n199 Gymnodinium_sphaeroideum,
+[200] 		n200 Gymnodinium_steini,
+[201] 		n201 Gymnodinium_stellatum,
+[202] 		n202 Gymnodinium_submontanum,
+[203] 		n203 Gymnodinium_subroseum,
+[204] 		n204 Gymnodinium_subrufescens,
+[205] 		n205 Gymnodinium_sulcatum,
+[206] 		n206 Gymnodinium_terrum,
+[207] 		n207 Gymnodinium_thomasi,
+[208] 		n208 Gymnodinium_translucens,
+[209] 		n209 Gymnodinium_trapeziforme,
+[210] 		n210 Gymnodinium_triceratium,
+[211] 		n211 Gymnodinium_uberrimum,
+[212] 		n212 Gymnodinium_valdecompressum,
+[213] 		n213 Gymnodinium_variabile,
+[214] 		n214 Gymnodinium_varians,
+[215] 		n215 Gymnodinium_venator,
+[216] 		n216 Gymnodinium_verruculosum,
+[217] 		n217 Gymnodinium_vestifici,
+[218] 		n218 Gymnodinium_violescens,
+[219] 		n219 Gymnodinium_viridaliut,
+[220] 		n220 Gymnodinium_viridans,
+[221] 		n221 Gymnodinium_viridescens,
+[222] 		n222 Gymnodinium_voukii,
+[223] 		n223 Gymnodinium_wawrikae,
+[224] 		n224 Gymnodinium_wilczeki,
+[225] 		n225 Gymnodinium_wulffii,
+[226] 		n226 Gymnodinium_zachariasi,
+[227] 		n227 Gymnodinium_campaniforme,
+[228] 		n228 Gymnodinium_viride,
+[229] 		n229 Gymnodinium_p.dorhni;
+	TREE 'Default symmetrical+' = (((((((n0,(n1,n2)),((n3,n4),(n5,n6))),(((n7,n8),(n9,n10)),((n11,n12),(n13,n14)))),((((n15,n16),(n17,n18)),((n19,n20),(n21,n22))),(((n23,n24),(n25,n26)),((n27,n28),(n29,n30))))),((((n31,(n32,n33)),((n34,n35),(n36,n37))),(((n38,n39),(n40,n41)),((n42,n43),(n44,n45)))),((((n46,n47),(n48,n49)),((n50,n51),(n52,n53))),(((n54,n55),(n56,n57)),((n58,n59),(n60,n61)))))),(((((n62,(n63,n64)),((n65,n66),(n67,n68))),(((n69,n70),(n71,n72)),((n73,n74),(n75,n76)))),((((n77,n78),(n79,n80)),((n81,n82),(n83,n84))),(((n85,n86),(n87,n88)),((n89,n90),(n91,n92))))),(((((n93,n94),(n95,n96)),((n97,n98),(n99,n100))),(((n101,n102),(n103,n104)),((n105,n106),(n107,n108)))),((((n109,n110),(n111,n112)),((n113,n114),(n115,n116))),(((n117,n118),(n119,n120)),((n121,n122),(n123,n124))))))),((((((n125,(n126,n127)),((n128,n129),(n130,n131))),(((n132,n133),(n134,n135)),((n136,n137),(n138,n139)))),((((n140,n141),(n142,n143)),((n144,n145),(n146,n147))),(((n148,n149),(n150,n151)),((n152,n153),(n154,n155))))),((((n156,(n157,n158)),((n159,n160),(n161,n162))),(((n163,n164),(n165,n166)),((n167,n168),(n169,n170)))),((((n171,n172),(n173,n174)),((n175,n176),(n177,n178))),(((n179,n180),(n181,n182)),((n183,n184),(n185,n186)))))),(((((n187,(n188,n189)),((n190,n191),(n192,n193))),(((n194,n195),(n196,n197)),((n198,n199),(n200,n201)))),((((n202,n203),(n204,n205)),((n206,n207),(n208,n209))),(((n210,n211),(n212,n213)),((n214,n215),(n216,n217))))),((((n218,n219),(n220,n221)),((n222,n223),(n224,n225))),((n226,n227),(n228,n229))))));
+	TREE 'Default bush+' = (n0,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n70,n71,n72,n73,n74,n75,n76,n77,n78,n79,n80,n81,n82,n83,n84,n85,n86,n87,n88,n89,n90,n91,n92,n93,n94,n95,n96,n97,n98,n99,n100,n101,n102,n103,n104,n105,n106,n107,n108,n109,n110,n111,n112,n113,n114,n115,n116,n117,n118,n119,n120,n121,n122,n123,n124,n125,n126,n127,n128,n129,n130,n131,n132,n133,n134,n135,n136,n137,n138,n139,n140,n141,n142,n143,n144,n145,n146,n147,n148,n149,n150,n151,n152,n153,n154,n155,n156,n157,n158,n159,n160,n161,n162,n163,n164,n165,n166,n167,n168,n169,n170,n171,n172,n173,n174,n175,n176,n177,n178,n179,n180,n181,n182,n183,n184,n185,n186,n187,n188,n189,n190,n191,n192,n193,n194,n195,n196,n197,n198,n199,n200,n201,n202,n203,n204,n205,n206,n207,n208,n209,n210,n211,n212,n213,n214,n215,n216,n217,n218,n219,n220,n221,n222,n223,n224,n225,n226,n227,n228,n229);
+	TREE 'Default ladder+' = (n0,(n1,(n2,(n3,(n4,(n5,(n6,(n7,(n8,(n9,(n10,(n11,(n12,(n13,(n14,(n15,(n16,(n17,(n18,(n19,(n20,(n21,(n22,(n23,(n24,(n25,(n26,(n27,(n28,(n29,(n30,(n31,(n32,(n33,(n34,(n35,(n36,(n37,(n38,(n39,(n40,(n41,(n42,(n43,(n44,(n45,(n46,(n47,(n48,(n49,(n50,(n51,(n52,(n53,(n54,(n55,(n56,(n57,(n58,(n59,(n60,(n61,(n62,(n63,(n64,(n65,(n66,(n67,(n68,(n69,(n70,(n71,(n72,(n73,(n74,(n75,(n76,(n77,(n78,(n79,(n80,(n81,(n82,(n83,(n84,(n85,(n86,(n87,(n88,(n89,(n90,(n91,(n92,(n93,(n94,(n95,(n96,(n97,(n98,(n99,(n100,(n101,(n102,(n103,(n104,(n105,(n106,(n107,(n108,(n109,(n110,(n111,(n112,(n113,(n114,(n115,(n116,(n117,(n118,(n119,(n120,(n121,(n122,(n123,(n124,(n125,(n126,(n127,(n128,(n129,(n130,(n131,(n132,(n133,(n134,(n135,(n136,(n137,(n138,(n139,(n140,(n141,(n142,(n143,(n144,(n145,(n146,(n147,(n148,(n149,(n150,(n151,(n152,(n153,(n154,(n155,(n156,(n157,(n158,(n159,(n160,(n161,(n162,(n163,(n164,(n165,(n166,(n167,(n168,(n169,(n170,(n171,(n172,(n173,(n174,(n175,(n176,(n177,(n178,(n179,(n180,(n181,(n182,(n183,(n184,(n185,(n186,(n187,(n188,(n189,(n190,(n191,(n192,(n193,(n194,(n195,(n196,(n197,(n198,(n199,(n200,(n201,(n202,(n203,(n204,(n205,(n206,(n207,(n208,(n209,(n210,(n211,(n212,(n213,(n214,(n215,(n216,(n217,(n218,(n219,(n220,(n221,(n222,(n223,(n224,(n225,(n226,(n227,(n228,n229)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))));
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1496523015044;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 499265500353759141;
+			tell It;
+				setDefaultOrder  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 230 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 231 232 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 226 194 195 196 198 197 199 200 201 202 203 204 206 207 208 209 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 227 228 229;
+				attachments ;
+			endTell;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 7384925448393990211;
+			mqVersion 310;
+			checksumv 0 3 2928240577 null  getNumChars 22 numChars 22 getNumTaxa 230 numTaxa 230   short false   bits -6917529027374747649   states 266334207   sumSquaresStatesOnly 5.1113533399427277E17 sumSquares -2.346848516058043E20 longCompressibleToShort false usingShortMatrix false   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 229;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 638;
+			setLocation 8 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #7384925448393990211 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					getTable;
+					tell It;
+						rowNamesWidth 156;
+					endTell;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 471 566;
+					setLocation 8 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
