@@ -1,0 +1,156 @@
+R001	Schiller, J. 1955-57. Untersuchungen an den planktischen Protophyten des Neusiedlersees 1950-1954, I. Teil. - Wissenschaftliche Arbeiten aus dem Burgenland 9:1-66.
+R002	Lebour, M.V. 1917. The Peridiniales of Plymouth Sound from the region beyond the breakwater. Journal of the Marine Biological Association of the United Kingdom 11:183-200.
+R003	Kofoid, C.A. and O. Swezy. 1921. The Free-Living Unarmored Dinoflagellata. Memoirs of the University of California Vol. 5, University of California Press, Berkeley, CA, 562 pp.
+R004	Conrad, W. and H. Kufferath. 1954. Recherches sur les eaux saumatres des environs de Lilloo. 2. Partie descriptive. Alges et protistes. Considérations écologiques. Mém. Inst. Roy. Sci. Nat. Belgique 127:1-346.
+R005	Lackey JB (1936) Occurrence and distribution of the marine protozoan species in the Woods Hole area. Biol Bull 70: 264-278
+R006	Lackey JB, Lackey EW (1963) Microscopic algae and protozoa in the waters near Plymouth in August 1962. J Mar Biol Assoc UK 43: 797-805
+R007	Margalef R (1969) Small scale distribution of phytoplankton in western Mediterranean at the end of July. Publ Staz Zool Napoli 37: 40-61
+R008	Gotsis-Skretas, Olympia;†Pagou, Kalliopi†(2008):†Microplankton abundance in the euphotic zone of the Aegean Sea in October-November 1991.†Hellenic Center of Marine Research, Institut of Oceanography, Greece, doi:10.1594/PANGAEA.692046
+R009	Schmarda, L.K. 1846. Kleine Beiträge zur Naturgeschichte der Infusorien.
+R010	Hasle, G.R. 1960. Phytoplankton and ciliate species from the tropical Pacific. Skrifter utgitt av Det Norske videnskaps-Akademi I Oslo I. Mat.- Naturv. Kl. 2: 1-50.
+R011	Stein, F. 1883. Die Organismus der Flagellaten nach eigenen Forsehungen in systematischer Reibenfolge bearbeitet. Der Organismus der Infusionstiere. III. Abtheilung.  II. Hälfte. Die naturgeschiehte der arthrodelen Flagellaten. Einleitung und Erklärung der Abbildungen, 30 pp.
+R012	Schilling, A.J. 1891. Die Süβwasserperideneen. Flora oder allgemeine botanische Zeitung 74:220-299.
+R013	Levander, K.M. (1894). Materialien zur Kenntnis der Wasserfauna in der Umgebung Helsingfors, mit besonderer Berücksichtigung der Meeresfauna. I: Protozoa.†Acta Societatis pro Fauna et Flora Fennica12(2): 3-155
+R014	Kudo RR (1939) Protozoology. C.C. Thomas, Springfield, IL, 689 pp.
+R015	Paulsen O (1908) Peridiniales. In: Brandt K, editor. Nordisches Plankton: Botanischer Teil. Nordisches Plankton. Kiel: Lipsius & Tischler. pp. 1-124
+R016	Redeke HC (1935) Synopsis van het Nederlandsche zoet- en brakwater-plankton. Publicaties van de Hydrobiologische Vereniging, 104 pp.
+R017	Nygaard G (1945) Dansk plante plankton. København: Gyldendal. 52 p.
+R018	Skuja H (1926) Vorarbeiten zu einer Algenflora von Lettland I: Flagellatae. 2. Dinoflagellatae. Acta Hortica Botanici Universitatis Latviensis
+R019	Höll K (1928) Oekologie der Peridineen : Studien über den Einfluβ chemischer und physikalischer Faktoren auf die Verbreitung der Dinoflagellaten im Süβwasser. Pflanzenforschung 11
+R020	Skuja, H. 1964. Grundzüge der Algenflora und Algenvegetation der Fjellgegenden um Abisko in Schwedisch-Lappland. Nova Acta Reg. Soc. Scient. Usaliensis, Ser. IV 18:1-465.
+R021	Huber-Pestalozzi G (1950) Das Phytoplankton des Süβwassers. III. Cryptophyceen, Chloromonadien, Peridineen. Stuttgart: Schweizerbart. 310 p.
+R022	Playfair, G.I. 1919. Peridineae of New South Wales. Proc. Linn. Soc. N.S. Wales 44:793-818.
+R023	Butschinsky P (1897) Die Protozoan-Fauna der Salzsee-Limane bei Odessa. Zool. Anz. 20:194-197
+R024	Amberg O (1900) Beiträge sur Biologie des Katzensees. Naturf. Ges. Zürich 45:57-136
+R025	Marsson M (1901) Zur Kenntnis der Planktonverhältnisse einiger Gewässer der Umgebung von Berlin. Forsch. Biol. Stat. Plön 8:86-119
+R026	Ruttner F (1906) Die Mikroflora der Prager Wasserleitung. Arch. Naturw. Landesdurch. Böhmen 13:1-47
+R027	Kolkwitz R (1911) Zur Biologie der Talsperren. Mitt. Kgl. Prüfung. Wasserversorg. Abwäss. 15:268-411
+R028	Entz G (1896) Protozoa. In Fauna regni Hungariae. R. Soc. Sci. Nat. Hung., Budapest 6:1-29
+R029	Zenker A (1912) Algenflora des ostfälischen Berg- und Hügellandes und der Nordspitze des Harzes. Inaug. Diss., Göttingen, 153 pp.
+R030	Klebs G (1912) Ueber Flagellaten und algenähnliche Peridineen. Verh. nat. Ver. Heidelberg 11: 367-451.
+R031	Schönichen W, Kalberlach A (1900) Eyferth's einfachste Lebensformen des Tier- und Pflanzenreiches (Braunschweig, Goeritz), 554 pp.
+R032	Taft CE (1964) New records of algae from the west end of Lake Erie. Ohio J Sci 64: 43-50
+R033	Harris, T.M. 1940. A contribution to the knowledge of the British freshwater dinoflagellata. Proceedings of the Linnean Society of London 152:4-32.
+R034	Senzaki S, Horiguchi T (1994) A taxonomic survey of freshwater dinoflagellates of Nagano Prefecture, Japan. Jpn. J. Phycol 42: 29-42
+R035	Schnepf E, Winter S, Mollenhauer D (1989) Gymnodinium aeruginosum (Dinophyta): a blue-green dinoflagellate with a vestigial, anucleate, cryptophycean endosymbiont. Plant Syst Evol 164: 75-91
+R036	Dillard GE (2007) Freshwater algae of the Southeastern United States Part 8. Chrysophyceae, Xanthophyceae, Raphidophyceae, Cryptophyceae and Dinophyceae. Bibliotheca Phycologia, Band 112. Schweizerbart Science Publishers, Stuttgart. 127 pp.
+R037	Popovský J (1971) Some interesting freshwater dinoflagellates from Central Europe. Arch Protistenkunde 113: 277-284.
+R038	Schiller, J. 1933. Dinoflagellatae (Peridineae) in monographischer Behandlug. In: Dr. L. Rabenhorst's Kryptogamen-Flora von Deutschland, Österreich und der Schweiz. Bd. 10(3). Teil 2(1):617 pp.
+R039	Coupin H (1911) Album général des cryptogames. E. Orlhac, Paris 
+R040	Thompson RH (1947) Fresh-water dinoflagellates of Maryland. Chesapeake Biological Laboratory Publication 67: 1-28.
+R041	Baumeister, W. 1943. Die Dinoflagellaten der Kreise Pfarrkirchen und Eggenfelden (Gau Bayreuth). Archiv für Protistenkunde 96:332-343.
+R042	Dogiel, V. 1906. Beiträge zur Kenntnis der Peridineen. Mitt. Zool. Stat. Neapel. 18:1-45.
+R043	Campbell, P.H. 1973. The phytoplankton of Gales Creek with emphasis on the taxonomy and ecology of estuarine phytoflagellates. Thesis-University of North Carolina.
+R044	Schiller, J. 1928. Die planktischen Vegetationen des Adriatischen Meeres. C. Dinoflagellata. Systematischer Teil. 2. Teil Gymnodiniales. Arch. Für Protistenkunde 62:119-166.
+R045	Bursa, A. 1963. Phytoplankton in coastal waters of the Arctic Ocean at Point Barrow, Alaska. Arctic. X:241-262.
+R046	Larsen, J. 1994. Unarmoured dinoflagellaes from Australian waters. I: The genus Gymnodinium (Gymnodiniales, Dinophyceae). Phycologia 33:24-33. http://dx.doi.org/10.2216/i0031-8884-33-1-24.1
+R047	Balech, E. and S.Z. El-Sayed. 1965. Microplankton of the Weddell Sea. The Biology of Antarctic Seas II. Antarctic Research, Series 5:107-124.
+R048	Balech, E. 1976. Clave ilustrada de Dinoflagelados antárcticos. Publ. Instituto Antárctico Argentino, Buenas Aires 11:1-99.
+R049	Hada, Y. 1970. The protozoan plankton of the Antarctic and subantarctic seas. Jap. Antarct. Res. Exped., Scient. Rep., Ser. E, 31:1-51.
+R050	Wulff A (1919) Uber das Kleinplankton der Barentsee. Wiss Meeres 13: 95-124.
+R051	Wailes GH (1939) Canadian Pacific fauna: Protozoa, Mastigophora. Canadian Pacific Fauna 1: 1-45
+R052	Throndsen J (1983) Ultra-and nanoplankton flagellates from coastal waters of southern Honshu and Kyushu, Japan: (including some results from the western part of the Kuroshio off Honshu). In: Chihara M, Harukido I, editors. Working Party on Taxonomy in the Akashiwo Mondai Kenkyukai Fishing Ground Preservation Division, Research Department, Fisheries Agency, Japan. Tokyo: Gakujutsu Thosho Printing Co. Ltd. p. 62.
+R053	Kofoid, C.A. 1931. Report of the biological survey of Mutsu Bay. 18. Protozoan fauna of Mutsu Bay. Subclass Dinoflagellata; Tribe Gymnodinioidae. The Science Reports of the Tôhoku Imperial University Fourth Series (Biology) 6:1-43.
+R054	Dragesco, J. 1965. Etude cytologique de quelques flagellés mésopsammiques. Cahiers de Biologie Marine 6:83-115.
+R055	Villeret S (1953) Quelques especes d'algues d'eau douce rares ou nouvelles. Bull. Soc. Bot. France 100: 71-74
+R056	Hulburt, E.M. 1957. The taxonomy of unarmoured Dinophyceae of shallow embayments on Cape Cod, Massachusetts. Biological Bulletin 112:196-219.
+R057	Hansen, G., L. Botes and M. De Salas. 2007. Ultrastructure and large subunit rDNA sequences of Lepidodinium viride reveal a close relationship to Lepidodinium chlorophorum comb. nov. (=Gymnodinium chlorophorum). Phycological Research 55: 25-41.
+R058	Dodge JD (1982) Marine dinoflagellates of the British Isles. London: Her Majesty's Stationary Office. 303 p.
+R059	Drebes G (1974) Marines Phytoplankton: eine Auswahl der Helgoländer Planktonalgen (Diatomeen, Perideneen). Stuttgart: Georg Thieme. 186 p.
+R060	Okolodkov YB (1998) A checklist of dinoflagellates recorded from the Russian Arctic seas. Sarsia 83: 267-292
+R061	Ruinen, J. 1938. Notizen über Salzflagellaten. II. Über die Verbreitung der Salzflagellate. Arch. für Protistenkunde 90:210-258.
+R062	Christen, H.R. 1959. Flagellaten aus dem Schützenweiher bei Veltheim. Mitteilungen der Naturwissenschaftlichen Gesellschaft in Winterthur 29:167-189.
+R063	Christen HR (1958) Gymnodinium Nygaardi sp. nov. Berichte der Schweizer Botanischen Gesellschaft 68: 44-49
+R064	Skvortzov B (1968) New and little known Peridineae from northern Manchuria China. Q J Taiwan Mus 21: 79-114
+R065	Ohno N (1911) Beobachtungen an einer Susswasser-Peridinee. J Coll Sci, Imp Univ Tokyo, Japan 32: 78-92.
+R066	Bicudo CEM, Skvortzov B (1970) Contribution to the knowledge of Brazilian Dinophyceae - free-living unarmored genera. Rickia 5: 5-21
+R067	Wood EJF (1963) Dinoflagellates in the Australian region. II. Recent collections. Aus J Mar Freshwater Res 5: 171-352
+R068	Van Goor, A.C.J. 1925. Einige bemerkenswerte peridineen des Holländischen brackwassers. Rec. Trav. Bot. Neerl. 22:275-291.
+R069	Lindemann, E. 1928. Abteilung Peridineae (Dinoflagellatae). In: Engler, A. and K. Prantl [Eds.] Die natürlichen Pflanzenfamilien nebst ihren Gattungen und wichtigeren Arten insbesondere den Nutzpflanze. 2. Auflage, Band. 2:3-104.
+R070	Akselman R (1985) Contribución al estudio de la familia Gymnodiniaceae Lemmermann (Dinophyta) del Atlántico Sudoccidental. Contribution to the study of the family Gymnodiniaceae. Physis (A) 43: 39-50
+R071	Norris, R.E. 1961. Observations on phytooplankton organisms collected on the N.Z.O.I Pacific cruise September 1958. N.Z. J. Sci. 4:162-188.
+R072	Graham, H.W. 1943. Gymnodinium catenatum, a new dinoflagellate from the Gulf of California. Transactions of the American Microscopical Society 62:259-261.
+R073	Morey-Gaines G (1982) Gymnodinium catenatum Graham (Dinophyceae): morphology and affinities with armoured forms. Phycologia 21:154-163
+R074	Fukuyo Y, et al. (1990) Red tide organisms in Japan : an illustrated taxonomic guide. 407 pp.
+R075	Rees AJJ, Hallegraeff GM (1991) Ultrastructure of the toxic, chain-forming dinoflagellate Gymnodinium catenatum (Dinophyceae). Phycologia 30:90-105
+R076	Paulmier G (1992) Catalogue illustré des microphytes planctoniques et benthiques des côtes normandes. Issy-les-Moulineaux: IFREMER. 107 p.
+R077	Taylor FJR, Fukuyo Y, Larsen J (1995) Taxonomy of Harmful Dinoflagellates. In: Manual on Harmful Marine Microalgae. UNESCO-IOC Manuals and Guides No. 33
+R078	Steidinger, K.A. & K. Tangen 1996. Dinoflagellates.†In:†C.R. Tomas (ed.), Identifying Marine Diatoms and Dinoflagellates, Academic Press, New York: 387-598.
+R079	Faust, M.A. & Gulledge, R.A. (2002). Identifying harmful marine dinoflagellates.†Contributions from the United States National Herbarium†42: 1-144.
+R080	Cridland, A.A. 1958. A note on two freshwater dinoflagellates. New Phytologist 57:285-287.
+R081	Ballantine, D. 1961. Gymnodinium chukwanii n. sp. And other marine dinoflagellates collected in the vicinity of Zanzibar. Journal of Eukaryotic Microbiology 8:217-228.
+R083	Eyferth B (1885) Die einfachsten Lebensformen des Their- und Pflanzenreiches: Naturgeschichte der mikroskopischen Süsswassbewohner. Braunschweig :Goeritz und zu Putlitz.
+R084	Sundström AM, Kremp A, Daugbjerg N, Moestrup Ø, Ellegaard M, et al. (2009) Gymnodinium corollarium sp. nov. (Dinophyceae) a new dinoflagellate responsible for cyst sedimentation events in the Baltic Sea. J Phycol 45: 938-952. doi:10.1111/j.1529-8817.2009.00712.x
+R085	Saville-Kent W (1880-1882) A manual of the infusoria. London: David Bogue. 472 p.
+R086	Wedemayer GJ, Wilcox LW, Graham LE (1982) Amphidinium cryophilum sp. nov. (Dinophyceae) a new freshwater dinoflagellate. I. Species description using light and scanning electron microscopy. J Phycol 18: 13-17
+R087	Schütt F (1895) Die Peridineen der Planktonexpedition. I. Theil. Studien über die Zellen der Peridineen. Ergebnisse der Plankton-Expedition der Humboldt-Stiftung. IV. Leipzig: Lipsius & Tischler. 170 p.
+R088	Sarma, Y.S.R. and R. Shyam. 1974. On the morphology, reproduction and cytology of two new freshwater dinoflagellates from India. British Phycological Journal 9:21-29.
+R089	Hu, H. 1983. On gymnodinium cyaneum Hu. Chinese Journal of Oceanology and Limnology 1:198-199.
+R090	Van Meel, L. 1969. Études hydrobiologiques sur les eaux saumatres de Belgique. X. Espèces de protistes rares ou nouvelles pour la cote belge. Bull. Inst. R. Sci. Nat. Belg. 45:1-18.
+R092	Prescott, G.W. (1944). New species and varieties of Wisconsin algae.†Farlowia†1: 347-385.
+R093	Lemmermann E (1903) Beträge zur Kenntnis der Planktonalgen. XV. Das Phytoplankton einiger Plöner Seen. Forschungsberichte aus der Biologischen Station zu Plön 10: 116-171
+R094	Hansen, G., N. Daugbjerg and P. Henriksen. 2000. Comparative study of Gymnodinium mikimotoi and Gymnodinium aureolum, comb. nov. (=Gyrodinium aureolum) based on morphology, pigment composition and molecular data. Journal of Phycology 36:394-410.
+R095	Matzenauer, L. 1933. Die dinoflagellates des Indischen Ozeans (Mit Ausnahme der Gattung Ceratium). Botanisches Archiv 35:437-510.
+R096	Bergh, R.S. 1881. Bidrag til Cilioflaglatermes Naturhistorie. Videnska. Medd fra Naturhist. Foren. I. Kjöbenhavn 1881:60-70.
+R098	Lebour, M.V. 1925. The Dinoflagellates of Northern Seas. Marine Biological Association, Plymouth, UK, 250 pp.
+R099	Lohmann, H. 1908. Untersunchungen zur Feststellung des vollständigen Gehaltes des Meeres au Plankton. Wissenschafliche Meeresuntersuchungen Abt. Kiel. 10:129-370.
+R100	Pouchet. 1887. Quatrième contribution à l'histoire des péridiniens. Journal de l'Anat. et de la Physiol. 23:87-112.
+R101	Elbrächter M (1994) Redescription of Gymnodinium heterostriatum Kofoid et Swezy 1921 (Dinophyceae). Helgol Mar Res 48: 359-363. doi:10.1007/BF02366252
+R102	Popovsky 1990 New knowledge on freshwater dinoflagellates of Central Europe; with description of a new species. Algological Studies/Archiv Hydrobiol 60: 1-18.
+R103	Schiller J (1954) Über winterliche pflanzliche Bewohner des Wassers, Eises und des daraufliegenden Schneebreies. I. O?sterreichische botanische Zeitschrift 101(3): 236-284
+R104	Hada, Y. 1967. Protozoan plankton of the inland sea, Setonaikai. I - the Mastigophora. Bulletin of the Suzugamine Women's College. Natural Science 13:1-26.
+R105	Hada, Y. 1968. Protozoan plankton of the inland sea, Setonaikai. II - The Mastigophora and Sarcodina. Bulletin of the Suzugamine Women's College. Natural Science 14:1-28.
+R106	Fraga S, Bravo I, Delgado M, Franco JM, Zapata M (1995) Gyrodinium impudicum sp. nov. (Dinophyceae), a non toxic, chain-forming, red tide dinoflagellate. Phycologia 34: 514-521
+R107	Herdman EC (1924) Notes on dinoflagellates and other organisms causing discolouration of the sand a Port Erin. VI. Proc Trans Liverpool Biol Soc 38: 75-84
+R108	Shyam R, Sarma YSRK (1975) Woloszynskia stoschii and Gymnodinium indicum, two new freshwater dinoflagellates from India: Morphology reproduction and cytology. Plant Syst. Evol. 124:205-212
+R109	Schmarda LK (1854) Zur Naturgeschichte Ägyptens. Denkschr Akad Wiss Wien 7: 1-28
+R110	Freudenthal HD, Lee JJ (1963) Glenodinium halli n. sp. and Gyrodinium instriatum n. sp., Dinoflagellates from New York Waters. J Eukaryot Microbiol 10: 182-189
+R111	Bursa AS (1961) The Annual Oceanographic Cycle at Igloolik in the Canadian Arctic: II. The Phytoplankton. J Fish Board Canada 18: 563-615
+R112	Hope B (1954) Floristic and taxonomic observations on marine phytoplankton from Nordåsvatn, near Bergen. Nytt Mag Bot 2: 149-153
+R113	Hada Y (1974) The flagellata examined from polluted water of the Inland Sea, Setonaikai. Bull Plankton Soc Japan 20: 112-115
+R114	Selina M.S.†& G.V. Konovalova (1994) New and rare species of the Dinophyta from Sea of Japan.- Botanicheskiy Zhurnal 79(6): 117-121.
+R115	Elbrächter M (1979) On the taxonomy of unarmoured dinophytes (Dinophyta) from the Northwest African upwellling region. ìMETEORë Forschungs-Ergebnisse, Reihe D 31: 1-22.
+R116	Pitzik, G. K. 1967. Species generis Gymnodinium Stein nova e maribus australibus. Novitates Systematicae Plantarum Non Vascularium 68-71.
+R117	Kiselev IA (1954) Pirofitovye vodorosli. Opredelitel presnovodnych vodoroslej SSSR 6: 1-211
+R118	Senzaki S, Horiguchi T (1994) A taxonomic survey of freshwater dinoflagellates of Nagano Prefecture, Japan. Jpn. J. Phycol 42: 29-42
+R119	Rouchijanen MI (1968) Species nova e dinoflagallatis marium Australium. Novitates Systematicae Plantarum Non Vascularium. pp. 25-28
+R120	Utermöhl H (1925) Limnologische Phytoplanktonstudien. Die Besiedlung ostholsteinischer Seen mit Schwebplankton. Arch Hydrobiologie Supplement 5: 1-527.
+R121	Skuja, H. 1948. Taxonomie einiger Seen in Upland, Schweden. Symbolae Botanicae Upsaliensis 9:1-399.
+R122	Skuja, H. 1956. Taxonomische und biologische Studien über das Phytoplankton schwedischer Binnengewässer. Nov. Act. Reg. Soc. Sci. Upsal. Ser. IV 16:1-404.
+R123	Javornický P (1965) Unarmoured Dinoflagellata from Two Small Mazurian Lakes. Phycologia 5: 53-60.
+R124	Rene A, Satta CT, Garces E, Massana R, Zapata M, Angles S and Camp J (2011) Gymnodinium litoralis sp. Nov. (Dinophyceae), a newly identified bloom-forming dinoflagellate from the NW Mediterranean Sea. Harmful Algae 12:11-25
+R125	Hulburt EM, McLaughlin JJ, and Zahl PA (1960) Katodinium dorsalisulcum, a new species of unarmored dinophyceae. J. Protozool. 7:323-326
+R126	Murray SM, de Salas M, Luong-Van J, and Hallegraeff G (2007) Phylogenetic study of Gymnodinium dorsalisulcum comb. nov. from tropical Australian coastal waters (Dinophyceae). Phycological Research 55:176-184
+R127	Biecheler B (1939) Sur deux péridiniens nouveaux des eaux saumâtres des environs de Sète. Bull Soc Zool France 64: 1-149.
+R128	Redeke HC (1919) Bijdrage tot de kennis der inlandsche Zoetwater-Peridineën. Bijdragen tot de Dierkunde te Amsterdam 21: 123-135.
+R129	Bolch CJS, Negri AN, Hallegraeff GM (1999) Gymnodinium microreticulatum sp. nov. (Dinophyceeae): a naked, microreticulate cyst-producing dinoflagellate, distinct from Gymnodinium catenatum and Gymnodinium nolleri. Phycologia 38: 301-313. doi:http://dx.doi.org/10.2216/i0031-8884-38-4-301.1
+R130	Yamaguchi H, Nakayama T, Kai A, Inouye I (2011) Taxonomy and phylogeny of a new kleptoplastidal dinoflagellate, Gymnodinium myriopyrenoides sp. nov. (Gymnodiniales, Dinophyceae), and its cryptophyte symbiont. Protist 162:650-667
+R131	Ellegaard M, Christensen NF, Moestrup Ø (1993) Temperature and salinity effects on growth of a non-chain-forming strain of Gymnodinium catenatum (Dinophyceae) established from a cyst from recent sediments in the sound (Øresund), Denmark. Journal of Phycology 29:418-426
+R132	Ellegaard M, Oshima Y (1998) Gymnodinium nolleri Ellegaard et Moestrup sp. ined. (Dinophyceae) from Danish waters, a new species producing Gymnodinium catenatum-like cysts: momlecular and toxicological comparisons with Australian and Spanish strains of Gymnodinium catenatum. Phycologia 37(5):369-378
+R133	Hansen G, Larsen J (1992) Dinoflagellater I danske farvande. In: Thomsen HA, editor. Plankton I de indre danske farvande. Havforskning fra Miljøstyrelsen, nr. 11. Copenhagen: The Danish Environmental Protection Agency.
+R134	Bérard-Therriault L, Poulin M, Bossé L (1999) Guide d'identification du phytoplancton marin de l'estuaire et du Golfe du Saint-Laurent incluant également certains protozoaires. Ottowa: CNRC-NRC. 387 p.
+R135	Skuja H (1939) Beitrag zur Algenflora Lettlands. Acta horti Botanici Universitatis Latviensis 11-12: 41-169.
+R136	Hansen G, Flaim G (2007) Dinoflagellates of the Trentino Province, Italy. J Limnol 66: 107-141. doi:10.4081/jlimnol.2007.107
+R137	West W, and West GW. 1906. A comparative study of the plankton of some Irish lakes. The Transactions of the Royal Irish Academy 33:77-116
+R138	West W and West GW. 1909. The British freshwater phytoplankton, with special reference to the desmid-plankton and the distribution of British desmids. Proceedings of the Royal Society London B 81:165-205
+R139	Lemmermann E (1905) Beträge zur Kenntnis der Planktonalgen. XX. Das Phytoplankton aus Schlesien. Forschungsberichte aus der Biologischen Station zu Plön 12: 154-168
+R140	Shyam R and Sarma YSRK (1980) Studies on some interesting freshwater Dinophyceae from North India. Nova Hedwigia 32:133-159
+R141	Balech E (1971) Microplancton de la campana oceanografica Productividad III. Revista del Museo Argentino de Ciencias naturales. Hidrobiologia 3: 1-202.
+R142	Herdman EC (1922) Notes on dinoflagellates and other organisms causing discolouration of the sand at Port Erin II. Proc Trans Liverpool Biol Soc 36: 15-30.
+R143	Martin GW (1928) Dinoflagellates from marine and brackish waters of New Jersey. University of Iowa Studies in Natural History 12(9):1-32
+R144	Ngô HM, Pfiester LA (1990) Freshwater Dinoflagellates from North Deming Pond, Minnesota, USA. Trans Amer Microsc Soc 109: 380-398.
+R145	Jörgensen E (1912) Bericht über die von der schwedischen hydrographish-Biologischen Kommission in den schwedischen Gewässern in den Jahren 1909-1910 eingesammelten Planktonproben. Ur Svenska Hydrografisk-Biologiska Kommissionens Skrifter 4: 1-20.
+R146	Morris S (1937) Gymnodinium schaefferi sp. nov. Arch Protistenkunde 89: 405-406.
+R147	Calkins G (1902) Marine protozoa from Woods Hole. Bull US Bureau Fish 21: 413-468.
+R148	Attaran-Fariman G, De Salas MF, Negri AP, Bolch CJS (2007) Morphology and phylogeny of Gymnodinium trapeziforme sp. nov. (Dinophyceae): a new dinoflagellate from the southeast coast of Iran that forms microreticulate resting cysts. Phycologia 46(6):644-656 http://dx.doi.org/10.2216/07-05.1
+R149	Whitford LA (1974) Additions to the freshwater algae in North Carolina, VIII. The Journal of the Mitchell Society 90:113-117
+R150	Allman GJ (1855) On Aphanizomenon flos-aquae and a species of Peridinae. Quarterly Journal of Microscopical Science 3:21-25
+R151	Penard E (1891) Les Peridiniacées du Léman. Bull. Soc. Bot. Genève 6: 1-63
+R152	Maskell WM (1887) On the fresh-water Infusoria of the Wellington District. Trans N Z Inst 20: 3-19
+R153	Ostenfeld CH (1913) De Danske farvandes Plankton. Videnskabernes Selskabs Skrifter Math Nat 9: 113-478.
+R154	Pouchet M (1894) Histoire Naturelle. Nouvelles Archives des Missions Scientifiques et Littéraires 5: 155-220.
+R155	Zacharias O (1899) Ueber Pseudopodienbildung bei einem Dinoflagellaten. Biol. Centrbl. 19:141-144.
+R156	Kang NS, Jeong HJ, Moestrup Ø, Lee SY, Lim AS, Jang TY, Lee KH, Lee MJ, Jang SH, Potvin E, Lee SK, Noh JH (2015) Gymnodinium smaydae n. sp., a new planktonic phototrophic dinoflagellate from the coastal waters of western Korea: morphology and molecular characterization. Journal of Eukaryotic Microbiology 61:182-202
+R157	Wawrik F (1956) Neue Planktonorganismen aus Waldviertler Fischteichen I. Plant Syst Evol 103: 291-299. doi:10.1007/BF01279237
+R158	Entz GJ (1910) Egy édesvizi Gymnodiniumról. Áll Köz 9: 157-164.
+R159	Gu H, Liu T, Vale P, Luo Z (2013) Morphology, phylogeny and toxin profiles of Gymnodinium inusitatum sp. nov., Gymnodinium catenatum and Gymnodinium microreticulatum (Dinophyceae) from the Yellow Sea, China. Harmful Algae 28:97-107 doi:10.1016/j.hal.2013.06.001
