@@ -1,6 +1,6 @@
 T001	Gymnodinium absumens	T161	species		
 T002	Gymnodinium achromaticum	T161	species		
-T003	Gymnodinium adriaticum†	T161	species		
+T003	Gymnodinium adriaticum	T161	species		
 T004	Gymnodinium aequatoriale	T161	species		
 T005	Gymnodinium aeruginosum	T282		synonym	
 T006	Gymnodinium aesculum	T161	species		
