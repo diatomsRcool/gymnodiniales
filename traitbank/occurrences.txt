@@ -449,4 +449,5 @@ C496	T175				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R1
 C497	T175				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
 C498	T164		Found in a tub of Lemna on University of Reading grounds		http://www.geonames.org/6269131		March and April 1936	R033	1936		http://www.geonames.org/2639577			http://www.geonames.org/6255148				
 C499	T165		occurred in very large numbers in the water of a small roadside put in Child's Piece, a wood about two miles west of Mortimer Common (Ordinance Survey Grid Reference: SP636643)		http://www.geonames.org/6269131		winter	R080			http://www.geonames.org/7294187		http://www.geonames.org/3333217	http://www.geonames.org/6255148				
-C500	T281				http://www.geonames.org/6251999			R			http://www.geonames.org/6091069	http://www.geonames.org/6255149				
+C500	T281				http://www.geonames.org/6251999			R161			http://www.geonames.org/6091069	http://www.geonames.org/6255149				
+C501	T281				http://www.geonames.org/2623032			R162	1944	9		14		http://www.geonames.org/6255148				

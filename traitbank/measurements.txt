@@ -7774,3 +7774,17 @@ M7720	C494		false	http://eol.org/schema/terms/GenbankAccessionNumber	KF234058			
 M7721	C497		true	http://eol.org/schema/terms/VoucheredSequence	http://eol.org/schema/terms/genseq5	GSLY03			Compiler: Anne E Thessen	R159
 		M7721		http://purl.org/dc/terms/source	http://www.ncbi.nlm.nih.gov/nuccore/KF234056.1					
 M7722	C497		false	http://eol.org/schema/terms/GenbankAccessionNumber	KF234056				Compiler: Anne E Thessen	R159
+M7726	C501		true	http://purl.obolibrary.org/obo/OBA_0000052	http://purl.obolibrary.org/obo/PATO_0002053				Compiler: Anne E Thessen	R162
+M7727	C501		true	http://eol.org/schema/terms/CellShapeFrontal	http://eol.org/schema/terms/circleTriangle				Compiler: Anne E Thessen	R162
+M7728	C501		true	http://eol.org/schema/terms/EpiconeShape	http://purl.obolibrary.org/obo/PATO_0002021				Compiler: Anne E Thessen	R162
+M7729	C501		true	http://purl.obolibrary.org/obo/OBA_1000133	http://purl.obolibrary.org/obo/PATO_0001950				Compiler: Anne E Thessen	R162
+M7730	C501		true	http://eol.org/schema/terms/CingulumLocation	http://purl.obolibrary.org/obo/FMA_74528				Compiler: Anne E Thessen	R162
+M7731	C501		true	http://eol.org/schema/terms/SulcusType	http://eol.org/schema/terms/protrudingSulcus				Compiler: Anne E Thessen	R162
+M7732	C501		true	http://purl.obolibrary.org/obo/OBA_1000134	http://purl.obolibrary.org/obo/PATO_0002258				Compiler: Anne E Thessen	R162
+M7733	C501		true	http://eol.org/schema/terms/NucleusLocation	http://purl.obolibrary.org/obo/PATO_0002268				Compiler: Anne E Thessen	R162
+M7734	C501		true	http://purl.obolibrary.org/obo/OBA_1000018	http://purl.obolibrary.org/obo/PATO_0001891				Compiler: Anne E Thessen	R162
+M7735	C501		true	http://purl.obolibrary.org/obo/GO_0009507	http://purl.obolibrary.org/obo/PATO_0000467				Compiler: Anne E Thessen	R162
+M7736	C501		true	http://eol.org/schema/terms/CellLength	37	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R162
+M7737	C501		true	http://eol.org/schema/terms/CellLength	33	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R162
+M7738	C501		true	http://eol.org/schema/terms/CellWidth	30	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R162
+M7739	C501		true	http://eol.org/schema/terms/CellWidth	24	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R162
