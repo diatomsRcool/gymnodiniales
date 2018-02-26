@@ -154,3 +154,4 @@ R156	Kang NS, Jeong HJ, Moestrup Ø, Lee SY, Lim AS, Jang TY, Lee KH, Lee MJ, Ja
 R157	Wawrik F (1956) Neue Planktonorganismen aus Waldviertler Fischteichen I. Plant Syst Evol 103: 291-299. doi:10.1007/BF01279237
 R158	Entz GJ (1910) Egy édesvizi Gymnodiniumról. Áll Köz 9: 157-164.
 R159	Gu H, Liu T, Vale P, Luo Z (2013) Morphology, phylogeny and toxin profiles of Gymnodinium inusitatum sp. nov., Gymnodinium catenatum and Gymnodinium microreticulatum (Dinophyceae) from the Yellow Sea, China. Harmful Algae 28:97-107 doi:10.1016/j.hal.2013.06.001
+T160	Thompson RH (1950) A new genus and new species of freshwater Pyrrophyta in the Desmokontae and Dinophyceae. Lloydia 13:277-299.

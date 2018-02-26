@@ -1,449 +1,451 @@
-C001	T001				Germany	Lake Neusiedl	winter	R001						Europe				
-C002	T002				England	Plymouth Sound		R002	1915	7				Europe				
-C003	T002				United States			R003					California	North America				
-C004	T002				Belgium			R004	1938	5				Europe				
-C005	T002				United States			R005	1936					North America				
-C006	T002				England	Plymouth Sound		R006	1962					Europe				
-C007	T002					Mediterranean Sea		R007	1969									
-C008	T002					Aegean Sea		R008	2007	9								
-C009	T003		Venice in August and Trieste in July		Italy			R009	1844					Europe				
-C011	T003				United States			R003					California	North America				
+C001	T001				http://www.geonames.org/2921044	http://www.geonames.org/3052649	winter	R001						http://www.geonames.org/6255148				
+C002	T002				http://www.geonames.org/6269131	http://www.geonames.org/2640193		R002	1915	7				http://www.geonames.org/6255148				
+C003	T002				http://www.geonames.org/6252001			R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C004	T002				http://www.geonames.org/2802361			R004	1938	5				http://www.geonames.org/6255148				
+C005	T002				http://www.geonames.org/6252001			R005	1936					http://www.geonames.org/6255149				
+C006	T002				http://www.geonames.org/6269131	http://www.geonames.org/2640193		R006	1962					http://www.geonames.org/6255148				
+C007	T002					http://www.geonames.org/363196		R007	1969									
+C008	T002					http://www.geonames.org/265695		R008	2007	9								
+C009	T003		Venice in August and Trieste in July		http://www.geonames.org/3175395			R009	1844					http://www.geonames.org/6255148				
+C011	T003				http://www.geonames.org/6252001			R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
 C318	T003							R038										
-C012	T004					Pacific Ocean		R010	1957	3								
-C013	T005				Austria			R011	1883					Europe				
+C012	T004					http://www.geonames.org/2363254		R010	1957	3								
+C013	T005				http://www.geonames.org/2782113			R011	1883					http://www.geonames.org/6255148				
 C014	T005							R012										
-C015	T005				Finland			R013	1892					Europe				
+C015	T005				http://www.geonames.org/660013			R013	1892					http://www.geonames.org/6255148				
 C016	T005							R014										
-C017	T005				Finland			R015						Europe				
-C018	T005				Holland		spring and autumn	R016						Europe				
-C019	T005				Denmark			R017	1929	8		23		Europe				
-C020	T005				Belgium			R004	1938					Europe				
-C021	T005				Latvia			R018						Europe				
-C022	T005							R019			Brandenburg							
-C023	T005				Sweden			R020						Europe				
+C017	T005				http://www.geonames.org/660013			R015						http://www.geonames.org/6255148				
+C018	T005				http://www.geonames.org/2750405		spring and autumn	R016						http://www.geonames.org/6255148				
+C019	T005				http://www.geonames.org/2623032			R017	1929	8		23		http://www.geonames.org/6255148				
+C020	T005				http://www.geonames.org/2802361			R004	1938					http://www.geonames.org/6255148				
+C021	T005				http://www.geonames.org/458258			R018						http://www.geonames.org/6255148				
+C022	T005							R019					http://www.geonames.org/2945356					
+C023	T005				http://www.geonames.org/2661886			R020						http://www.geonames.org/6255148				
 C024	T005							R021										
-C025	T005	darting rapidly			Australia			R022	1909	3				Australia				
-C026	T005				United States			R003					California	North America				
-C027	T005					Lake Limane		R023			Odessa							
-C028	T005				Switzerland			R024						Europe				
-C029	T005				Germany			R025						Europe				
-C030	T005				Austria			R026						Europe				
-C031	T005				Russia			R027										
-C032	T005				Germany			R027						Europe				
-C033	T005				Hungary			R028						Europe				
-C034	T005				Germany			R029						Europe				
-C035	T005							R030			Java			Asia				
-C036	T005				Hungary	Lake Balaton		R031						Europe				
-C037	T005	swim rapidly			United States			R032					Ohio	North America				
-C038	T005				England			R033						Europe				
-C039	T005				Japan			R034						Asia				
+C025	T005	darting rapidly			http://www.geonames.org/2077456			R022	1909	3				http://www.geonames.org/2077456				
+C026	T005				http://www.geonames.org/6252001			R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C027	T005				http://www.geonames.org/690791	http://www.geonames.org/706500		R023			http://www.geonames.org/698740							
+C028	T005				http://www.geonames.org/2658434			R024						http://www.geonames.org/6255148				
+C029	T005				http://www.geonames.org/2921044			R025						http://www.geonames.org/6255148				
+C030	T005				http://www.geonames.org/2782113			R026						http://www.geonames.org/6255148				
+C031	T005				http://www.geonames.org/2017370			R027										
+C032	T005				http://www.geonames.org/2921044			R027						http://www.geonames.org/6255148				
+C033	T005				http://www.geonames.org/719819			R028						http://www.geonames.org/6255148				
+C034	T005				http://www.geonames.org/2921044			R029						http://www.geonames.org/6255148				
+C035	T005							R030			http://www.geonames.org/1642673			http://www.geonames.org/6255147				
+C036	T005				http://www.geonames.org/719819	http://www.geonames.org/3055597		R031						http://www.geonames.org/6255148				
+C037	T005	swim rapidly			http://www.geonames.org/6252001			R032					http://www.geonames.org/5165418	http://www.geonames.org/6255149				
+C038	T005				http://www.geonames.org/6269131			R033						http://www.geonames.org/6255148				
+C039	T005				http://www.geonames.org/1861060			R034						http://www.geonames.org/6255147				
 C040	T005	left turn screws						R035										
 C041	T005							R036										
-C042	T142				Czech Republic	Lazsky Pond		R037						Europe				
+C042	T142				http://www.geonames.org/3077311	Lazsky Pond		R037						http://www.geonames.org/6255148				
 C043	T143							R038										
-C045	T143					Lake Geneva		R039						Europe				
-C046	T005				England			R033						Europe				
-C047	T005				United States			R040	1948				Maryland	North America				
-C048	T006				Germany			R041						Europe				
-C049	T007					Gulf of Naples		R042						Europe				
-C050	T008				United States	Gales Creek	May, August to October	R043					North Carolina	North America				
-C051	T009					Adriatic Sea	Spring to November	R044						Europe				
-C052	T010				United States		July-September	R045	1954		Barrow		Alaska	North America				
-C053	T011				Australia	Hobson's Bay	austral spring	R046						Australia				
-C054	T012				Germany	Rust Channel		R001	1951	5	Rust			Europe				
-C055	T013				Australia		austral summer and autumn	R046						Australia				
-C058	T014				United States	Pacific Ocean		R003	1917	8		13	California	North America				
-C059	T015				United States	Gales Creek		R043	1967	4			North Carolina	North America				
-C060	T016							R047						Antarctica				
+C045	T143					http://www.geonames.org/2660647		R039						http://www.geonames.org/6255148				
+C046	T005				http://www.geonames.org/6269131			R033						http://www.geonames.org/6255148				
+C047	T005				http://www.geonames.org/6252001			R040	1948				http://www.geonames.org/4361885	http://www.geonames.org/6255149				
+C048	T006				http://www.geonames.org/2921044			R041						http://www.geonames.org/6255148				
+C049	T007					http://www.geonames.org/3172393		R042						http://www.geonames.org/6255148				
+C050	T008				http://www.geonames.org/6252001	http://www.geonames.org/4467544	May, August to October	R043					http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C051	T009					http://www.geonames.org/3183462	Spring to November	R044						http://www.geonames.org/6255148				
+C052	T010				http://www.geonames.org/6252001		July-September	R045	1954		http://www.geonames.org/5880054		http://www.geonames.org/5879092	http://www.geonames.org/6255149				
+C053	T011				http://www.geonames.org/2077456	http://www.geonames.org/2163343	austral spring	R046						http://www.geonames.org/2077456				
+C054	T012				http://www.geonames.org/2782113	Rust Canal		R001	1951	5	http://www.geonames.org/2766935			http://www.geonames.org/6255148				
+C055	T013				http://www.geonames.org/2077456		austral summer and autumn	R046						http://www.geonames.org/2077456				
+C058	T014				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8		13	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C059	T015				http://www.geonames.org/6252001	http://www.geonames.org/4467544		R043	1967	4			http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C060	T016							R047						http://www.geonames.org/6255152				
 C061	T016							R048										
-C062	T016							R049						Antarctica				
-C063	T017					Barents Sea	summer	R050	1913									
-C064	T017				Canada	Strait of Georgia		R051						North America				
-C065	T017				Japan			R052						Asia				
-C066	T018				Japan	Mutsu Bay	July-August	R053	1930					Asia				
-C067	T019					Lake Geneva		R054			Roscoff			Europe				
-C068	T020				France		spring	R055						Europe				
-C069	T021				Australia		austral winter	R046						Australia				
-C071	T022				United States	Pacific Ocean	June-July	R003					California	North America				
-C072	T023				United States	Gales Creek	June August September	R043					North Carolina	North America				
-C073	T024				United States	Pacific Ocean		R003	1917	8		20	California	North America				
-C074	T025				United States		December-April	R056			Woods Hole		Massachusetts	North America				
+C062	T016							R049						http://www.geonames.org/6255152				
+C063	T017					http://www.geonames.org/630647	summer	R050	1913									
+C064	T017				http://www.geonames.org/6251999	http://marineregions.org/mrgid/23492		R051						http://www.geonames.org/6255149				
+C065	T017				http://www.geonames.org/1861060			R052						http://www.geonames.org/6255147				
+C066	T018				http://www.geonames.org/1861060	http://www.geonames.org/2129088	July-August	R053	1930					http://www.geonames.org/6255147				
+C067	T019					http://www.geonames.org/2660647		R054			http://www.geonames.org/2982809			http://www.geonames.org/6255148				
+C068	T020				http://www.geonames.org/3017382		spring	R055						http://www.geonames.org/6255148				
+C069	T021				http://www.geonames.org/2077456		austral winter	R046						http://www.geonames.org/2077456				
+C071	T022				http://www.geonames.org/6252001	http://www.geonames.org/2363254	June-July	R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C072	T023				http://www.geonames.org/6252001	http://www.geonames.org/4467544	June August September	R043					http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C073	T024				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8		20	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C074	T025				http://www.geonames.org/6252001		December-April	R056			http://www.geonames.org/4956152		http://www.geonames.org/6254926	http://www.geonames.org/6255149				
 C075	T025							R057										
-C076	T025				United States	Gales Creek		R043		3			North Carolina	North America				
+C076	T025				http://www.geonames.org/6252001	http://www.geonames.org/4467544		R043		3			http://www.geonames.org/4482348	http://www.geonames.org/6255149				
 C077	T025						late summer early autumn	R058										
-C079	T025				Germany		summer	R059	1968					Europe	Helgoland			
-C080	T025					North Atlantic Ocean		R060										
-C081	T026				United States	Pacific Ocean		R003		7			California	North America				
-C082	T027		some found in Sydney water supply		Australia			R022			Sydney			Australia				
-C085	T028				Australia			R061						Australia				
-C089	T029					Attersee		R038		8				Europe				
-C090	T029				Japan			R034						Asia				
+C079	T025				http://www.geonames.org/2921044		summer	R059	1968					http://www.geonames.org/6255148	http://www.geonames.org/2906947			
+C080	T025					http://www.geonames.org/3411923		R060										
+C081	T026				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003		7			http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C082	T027		some found in Sydney water supply		http://www.geonames.org/2077456			R022			http://www.geonames.org/2147714			http://www.geonames.org/2077456				
+C085	T028				http://www.geonames.org/2077456			R061						http://www.geonames.org/2077456				
+C089	T029					http://www.geonames.org/2782288		R038		8				http://www.geonames.org/6255148				
+C090	T029				http://www.geonames.org/1861060			R034						http://www.geonames.org/6255147				
 C091	T144							R062										
-C092	T145					Attersee	August-September	R038						Europe				
-C093	T146					Hausersee		R063		9				Europe				
-C094	T147				United States	Horseshoe Lake		R040	1950	7				North America				
-C095	T030				China		autumn	R064						Asia				
-C096	T031							R047						Antarctica				
-C097	T031							R048						Antarctica				
-C098	T031						January 1-8 1962	R049	1962	1				Antarctica				
-C099	T033					Lake Neusiedl		R001	1950	5				Europe				
-C100	T034				Japan			R065						Asia				
-C101	T034				Brazil			R066						South America				
-C102	T035					Adriatic Sea		R044						Europe				
-C103	T035					Coral Sea		R067						Australia				
-C104	T036				United States	Pacific Ocean		R003	1917	7		19	California	North America				
-C105	T036				Canada			R051						North America				
-C106	T037				United States	Pacific Ocean		R003	1917	8		6	California	North America				
-C107	T038				Holland			R068						Europe				
-C108	T039				Germany			R069						Europe				
-C109	T040				United States	Gales Creek		R043					North Carolina	North America				
-C110	T041				Argentina			R070						South America				
-C111	T042					Lake Neusiedl	Winter	R001						Europe				
-C112	T148				United States	Gales Creek	spring	R043						North America				
-C113	T044				United States	Pacific Ocean		R003	1917	8		17	California	North America				
+C092	T145					http://www.geonames.org/2782288	August-September	R038						http://www.geonames.org/6255148				
+C093	T146					http://www.geonames.org/2776651		R063		9				http://www.geonames.org/6255148				
+C094	T147		In the original text "Horseshoe Lake, Lawrence,Kansas". I think this lake is now called Lake View Lake.		http://www.geonames.org/6252001	http://www.geonames.org/4274163		R160	1950	7	http://www.geonames.org/4270450		http://www.geonames.org/4273857	http://www.geonames.org/6255149				
+C095	T030				http://www.geonames.org/1814991		autumn	R064						http://www.geonames.org/6255147				
+C096	T031							R047						http://www.geonames.org/6255152				
+C097	T031							R048						http://www.geonames.org/6255152				
+C098	T031						January 1-8 1962	R049	1962	1				http://www.geonames.org/6255152				
+C099	T033					http://www.geonames.org/3052649		R001	1950	5				http://www.geonames.org/6255148				
+C100	T034				http://www.geonames.org/1861060			R065						http://www.geonames.org/6255147				
+C101	T034				Brazil			R066						http://www.geonames.org/6255150				
+C102	T035					http://www.geonames.org/3183462		R044						http://www.geonames.org/6255148				
+C103	T035					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C104	T036				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	7		19	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C105	T036				http://www.geonames.org/6251999			R051						http://www.geonames.org/6255149				
+C106	T037				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8		6	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C107	T038				http://www.geonames.org/2750405			R068						http://www.geonames.org/6255148				
+C108	T039				http://www.geonames.org/2921044			R069						http://www.geonames.org/6255148				
+C109	T040				http://www.geonames.org/6252001	http://www.geonames.org/4467544		R043					http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C110	T041				http://www.geonames.org/3865483			R070						http://www.geonames.org/6255150				
+C111	T042					http://www.geonames.org/3052649	Winter	R001						http://www.geonames.org/6255148				
+C112	T148				http://www.geonames.org/6252001	http://www.geonames.org/4467544	spring	R043						http://www.geonames.org/6255149				
+C113	T044				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8		17	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
 C114	T045							R004										
-C115	T046					Adriatic Sea	spring and summer	R044	1925	3				Europe				
-C116	T047				New Zealand			R071										
-C117	T048					Gulf of California		R072	1939	3				North America				
+C115	T046					http://www.geonames.org/3183462	spring and summer	R044	1925	3				http://www.geonames.org/6255148				
+C116	T047				http://www.geonames.org/2186224			R071										
+C117	T048					http://www.geonames.org/4016118		R072	1939	3				http://www.geonames.org/6255149				
 C118	T048							R073										
 C119	T048							R074										
 C120	T048							R075										
-C121	T048				France		Havre, June-August and Bale des Veys, June-August	R076						Europe				
+C121	T048				http://www.geonames.org/3017382		Havre, June-August and Bale des Veys, June-August	R076						http://www.geonames.org/6255148				
 C122	T048							R077										
 C131	T048							R078										
 C132	T048							R079										
-C133	T049					Child's Piece	winter	R080										
-C134	T050				Tanzania			R081	1956	3		5		Africa		Zanzibar		
-C135	T051		Observed on July 21, 1906; July 5, 1917 at 21.4∞C; July 23, 1917 at 20.2∞C		United States	Pacific Ocean		R003					California	North America				
-C138	T051					Coral Sea		R067						Australia				
-C139	T051							R049						Antarctica				
+C133	T049							R080										
+C134	T050				Tanzania			R081	1956	3		5		http://www.geonames.org/6255146		http://www.geonames.org/148726		
+C135	T051		Observed on July 21, 1906; July 5, 1917 at 21.4°C; July 23, 1917 at 20.2°C		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C138	T051					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C139	T051							R049						http://www.geonames.org/6255152				
 C140	T052							R033	1936	5								
-C141	T149				England		autumn and winter	R033	1939	2	Wokingham			Europe				
-C142	T053					Gulf of Naples		R042						Europe				
-C143	T053					Adriatic Sea	summer	R044						Europe				
-C144	T053					Coral Sea		R067						Australia				
-C145	T054				United Kingdom		Reading University, March-April 1937	R033	1937		Reading			Europe				
+C141	T149				http://www.geonames.org/6269131		autumn and winter	R033	1939	2	http://www.geonames.org/2633708			http://www.geonames.org/6255148				
+C142	T053					http://www.geonames.org/3172393		R042						http://www.geonames.org/6255148				
+C143	T053					http://www.geonames.org/3183462	summer	R044						http://www.geonames.org/6255148				
+C144	T053					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C145	T054				http://www.geonames.org/2635167		Reading University, March-April 1937	R033	1937		http://www.geonames.org/2639577			http://www.geonames.org/6255148				
 C146	T150							R031										
 C147	T150							R083										
-C148	T055				China		autumn	R064						Asia				
-C149	T151					Plymouth Sound		R002		6				Europe				
-C150	T056				Belgium			R004	1938	8				Europe				
-C151	T057		Observed on August 6, 1917; August 8, 1917; August 18, 1917		United States	Pacific Ocean		R003	1917	8			California	North America				
-C154	T058					Adriatic Sea	spring	R044						Europe				
-C155	T059					Baltic Sea		R084						Europe				
+C148	T055				http://www.geonames.org/1814991		autumn	R064						http://www.geonames.org/6255147				
+C149	T151					http://www.geonames.org/2640193		R002		6				http://www.geonames.org/6255148				
+C150	T056				http://www.geonames.org/2802361			R004	1938	8				http://www.geonames.org/6255148				
+C151	T057		Observed on August 6, 1917; August 8, 1917; August 18, 1917		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8			http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C154	T058					http://www.geonames.org/3183462	spring	R044						http://www.geonames.org/6255148				
+C155	T059					http://www.geonames.org/2633321		R084						http://www.geonames.org/6255148				
 C156	T060							R085										
-C157	T061				United States	Pacific Ocean	June-August 1906 and 1917	R003						North America				
-C158	T061					Coral Sea		R067						Australia				
-C159	T062				United States		winter	R086					Wisconsin	North America				
+C157	T061				http://www.geonames.org/6252001	http://www.geonames.org/2363254	June-August 1906 and 1917	R003						http://www.geonames.org/6255149				
+C158	T061					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C159	T062				http://www.geonames.org/6252001		winter	R086					http://www.geonames.org/5279468	http://www.geonames.org/6255149				
 C160	T063							R087										
 C161	T064							R004	1938	6								
-C162	T066					Danube River	fall	R001	1926					Europe				
-C163	T067				Austria		Winter to March	R001	1950		Vienna			Europe				
+C162	T066					http://www.geonames.org/791630	fall	R001	1926					http://www.geonames.org/6255148				
+C163	T067				http://www.geonames.org/2782113		Winter to March	R001	1950		http://www.geonames.org/2761369			http://www.geonames.org/6255148				
 C164	T068							R046										
-C165	T069					Lake Neusiedl	Winter-Spring	R001	1952					Europe				
+C165	T069					http://www.geonames.org/3052649	Winter-Spring	R001	1952					http://www.geonames.org/6255148				
 C166	T070							R087										
-C167	T070		Observed on June 30, 1904; July 5, 1904		United States	Pacific Ocean		R003	1904				California	North America				
+C167	T070		Observed on June 30, 1904; July 5, 1904		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1904				http://www.geonames.org/5332921	http://www.geonames.org/6255149				
 C169	T070							R039										
-C170	T070					Coral Sea		R067						Australia				
-C171	T071							R033	1939	1	Buckleberry Common							
-C172	T072				United States	Pacific Ocean		R003	1917	8		3	California	North America				
-C173	T073				India			R088						Asia				
-C174	T074		Observed on June 27, 1917; July 20, 1917; July 27, 1917; August 13, 1917		United States	Pacific Ocean		R003	1917				California	North America				
-C178	T075				United States	Pacific Ocean		R003	1917	7		2	California	North America				
-C179	T078				Belgium			R004	1938	7		29		Europe				
-C180	T079				China			R089						Asia				
-C181	T080				Austria		winter	R001			Vienna			Europe				
-C182	T081				Belgium			R090						Europe				
+C170	T070					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C171	T071		ditch in Bucklebury Common		http://www.geonames.org/6269131			R033	1939	1	http://www.geonames.org/7294182		http://www.geonames.org/3333217	http://www.geonames.org/6255148			51.467	-1.2000
+C172	T072				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8		3	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C173	T073				http://www.geonames.org/1269750			R088						http://www.geonames.org/6255147				
+C174	T074		Observed on June 27, 1917; July 20, 1917; July 27, 1917; August 13, 1917		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917				http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C178	T075				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	7		2	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C179	T078				http://www.geonames.org/2802361			R004	1938	7		29		http://www.geonames.org/6255148				
+C180	T079				http://www.geonames.org/1814991			R089						http://www.geonames.org/6255147				
+C181	T080				http://www.geonames.org/2782113		winter	R001			http://www.geonames.org/2761369			http://www.geonames.org/6255148				
+C182	T081				http://www.geonames.org/2802361			R090						http://www.geonames.org/6255148				
 C183	T082							R071										
-C184	T083					Plymouth Sound		R002	1915	7				Europe				
-C185	T084				United States	Pacific Ocean	July 27-August 13 1914	R003	1914				California	North America				
-C186	T084					Coral Sea		R067						Australia				
-C187	T084						January 3-5 1961	R049	1961	1				Antarctica				
+C184	T083					http://www.geonames.org/2640193		R002	1915	7				http://www.geonames.org/6255148				
+C185	T084				http://www.geonames.org/6252001	http://www.geonames.org/2363254	July 27-August 13 1914	R003	1914				http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C186	T084					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C187	T084						January 3-5 1961	R049	1961	1				http://www.geonames.org/6255152				
 C188	T084							R048										
-C189	T085				Belgium			R004	1938	6		8		Europe				
-C190	T086					Plymouth Sound	July 1915 and July 1916	R002		7				Europe				
+C189	T085				http://www.geonames.org/2802361			R004	1938	6		8		http://www.geonames.org/6255148				
+C190	T086					http://www.geonames.org/2640193	July 1915 and July 1916	R002		7				http://www.geonames.org/6255148				
 C191	T087							R085										
 C192	T087							R011										
 C193	T087							R004										
-C194	T087				United Kingdom			R033	1939	2				Europe				
-C195	T087				Denmark			R017						Europe				
-C196	T087				Latvia			R018						Europe				
-C197	T087				Germany			R019						Europe				
+C194	T087				http://www.geonames.org/2635167			R033	1939	2				http://www.geonames.org/6255148				
+C195	T087				http://www.geonames.org/2623032			R017						http://www.geonames.org/6255148				
+C196	T087				http://www.geonames.org/458258			R018						http://www.geonames.org/6255148				
+C197	T087				http://www.geonames.org/2921044			R019						http://www.geonames.org/6255148				
 C198	T087							R003										
-C199	T087				Finland			R013	1892	6				Europe				
-C200	T087				Finland			R013	1892	9				Europe				
-C201	T087				Finland			R013	1893	7				Europe				
-C202	T087				Finland			R013	1894	7				Europe				
-C203	T087				Finland			R013	1893	8				Europe				
+C199	T087				http://www.geonames.org/660013			R013	1892	6				http://www.geonames.org/6255148				
+C200	T087				http://www.geonames.org/660013			R013	1892	9				http://www.geonames.org/6255148				
+C201	T087				http://www.geonames.org/660013			R013	1893	7				http://www.geonames.org/6255148				
+C202	T087				http://www.geonames.org/660013			R013	1894	7				http://www.geonames.org/6255148				
+C203	T087				http://www.geonames.org/660013			R013	1893	8				http://www.geonames.org/6255148				
 C204	T087							R012										
-C205	T087				United States			R092					Wisconsin	North America				
+C205	T087				http://www.geonames.org/6252001			R092					http://www.geonames.org/5279468	http://www.geonames.org/6255149				
 C206	T087							R093										
 C207	T087							R083										
 C208	T087							R031										
 C209	T087							R094										
 C210	T087							R011										
-C211	T088					Indian Ocean		R095										
-C212	T088					Indian Ocean		R067										
-C213	T089				Australia			R046						Australia				
-C214	T091				Japan	Mutsu Bay		R053	1930	8		16		Asia				
-C215	T091							R067								Solomon Islands		
+C211	T088					http://www.geonames.org/1545739		R095										
+C212	T088					http://www.geonames.org/1545739		R067										
+C213	T089				http://www.geonames.org/2077456			R046						http://www.geonames.org/2077456				
+C214	T091				http://www.geonames.org/1861060	http://www.geonames.org/2129088		R053	1930	8		16		http://www.geonames.org/6255147				
+C215	T091							R067								http://www.geonames.org/2103350		
 C216	T092							R044										
-C217	T093				Belgium			R004	1938	6		29		Europe				
-C218	T094					Lake Neusiedl	Feb-March	R001						Europe				
+C217	T093				http://www.geonames.org/2802361			R004	1938	6		29		http://www.geonames.org/6255148				
+C218	T094					http://www.geonames.org/3052649	Feb-March	R001						http://www.geonames.org/6255148				
 C219	T095							R087										
-C220	T095				United States	Pacific Ocean		R003	1906	7		1		North America				
+C220	T095				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1906	7		1		http://www.geonames.org/6255149				
 C221	T096							R096										
 C222	T096							R096										
 C223	T096		observed on north coast of Europe and Nova Scotia, Canada					R015										
-C225	T152		Observed on July 11, 1917; August 13, 1917; July 9, 1917		United States	Pacific Ocean		R003	1917				California	North America				
-C228	T152					English Channel		R098						Europe				
-C229	T152					Mutsu Bay		R053		7				Asia				
-C230	T152					Strait of Georgia	July and August	R051						North America				
-C231	T152						April-October	R059						Europe	Helgoland			
+C225	T152		Observed on July 11, 1917; August 13, 1917; July 9, 1917		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917				http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C228	T152					http://www.geonames.org/2649991		R098						http://www.geonames.org/6255148				
+C229	T152					http://www.geonames.org/2129088		R053		7				http://www.geonames.org/6255147				
+C230	T152					http://www.geonames.org/6157919	July and August	R051						http://www.geonames.org/6255149				
+C231	T152						April-October	R059						http://www.geonames.org/6255148	http://www.geonames.org/2906947			
 C232	T152							R074										
 C233	T153							R099										
-C234	T096					Adriatic Sea	March-June	R044						Europe				
-C235	T098					Coral Sea		R067						Australia				
-C236	T098				New Zealand			R071										
+C234	T096					http://www.geonames.org/3183462	March-June	R044						http://www.geonames.org/6255148				
+C235	T098					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C236	T098				http://www.geonames.org/2186224			R071										
 C237	T098							R100										
-C238	T099					Lake Neusiedl	August-October	R001	1954					Europe				
+C238	T099					http://www.geonames.org/3052649	August-October	R001	1954					http://www.geonames.org/6255148				
 C239	T100		Observed on Rye Ocean Beach and in Wilsons Promontory National park				Austral winter	R046										
-C241	T101							R048						Antarctica				
-C242	T102		Observed on August 13, 1917; August 15, 1917; July 1914		United States			R003					California	North America				
-C245	T103					Mediterranean Sea		R003	1908	1		23						
-C246	T104					Strait of Georgia		R051						North America				
+C241	T101							R048						http://www.geonames.org/6255152				
+C242	T102		Observed on August 13, 1917; August 15, 1917; July 1914		http://www.geonames.org/6252001			R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C245	T103					http://www.geonames.org/363196		R003	1908	1		23						
+C246	T104					http://www.geonames.org/6157919		R051						http://www.geonames.org/6255149				
 C247	T104		Observed in Pacific Ocean, June-August and Gulf of Naples, May-July					R003										
 C249	T104							R101										
 C250	T104							R059										
-C251	T104					Plymouth Sound		R098						Europe				
-C252	T104							R067								Solomon Islands		
-C253	T104					Mutsu Bay	July 1-30	R053		7				Asia				
-C254	T104				France	Antifer	summer	R076			Le Havre			Europe				
-C255	T104					Adriatic Sea		R044	1912	6				Europe				
-C256	T104					Adriatic Sea		R044	1912	8				Europe				
+C251	T104					http://www.geonames.org/2640193		R098						http://www.geonames.org/6255148				
+C252	T104							R067								http://www.geonames.org/2103350		
+C253	T104					http://www.geonames.org/2129088	July 1-30	R053		7				http://www.geonames.org/6255147				
+C254	T104		harvested in Port du Havre-Antifer		http://www.geonames.org/3017382		summer	R076					http://www.geonames.org/11071621	http://www.geonames.org/6255148				
+C255	T104					http://www.geonames.org/3183462		R044	1912	6				http://www.geonames.org/6255148				
+C256	T104					http://www.geonames.org/3183462		R044	1912	8				http://www.geonames.org/6255148				
 C257	T105							R102										
 C260	T154						Dec-March	R103	1953									
 C261	T155							R104	1966	7		30						
-C262	T106							R105	1967	9	Itsukaichi	11						
-C263	T107				Austria		Feb-March	R001			Vienna			Europe				
-C264	T109				Sweden			R020						Europe				
+C262	T106		Port of Itsukaichi		http://www.geonames.org/1861060	http://www.geonames.org/1862411		R105	1967	9		11		http://www.geonames.org/6255147				
+C263	T107				http://www.geonames.org/2782113		Feb-March	R001			http://www.geonames.org/2761369			http://www.geonames.org/6255148				
+C264	T109				http://www.geonames.org/2661886			R020						http://www.geonames.org/6255148				
 C266	T156							R106										
-C271	T111							R107			Port Erin							
-C272	T111					Gulf of Trieste		R044						Europe				
-C273	T112				United States	Pacific Ocean		R003	1917	8		21	California	North America				
-C274	T113				Belgium			R004	1938	6				Europe				
-C275	T114				Belgium			R090	1967	11		30		Europe				
-C276	T115				India			R108						Asia				
-C277	T157				Egypt			R109		3		4		Africa				
+C271	T111							R107			http://www.geonames.org/3042196							
+C272	T111					http://www.geonames.org/3165187		R044						http://www.geonames.org/6255148				
+C273	T112				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8		21	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C274	T113				http://www.geonames.org/2802361			R004	1938	6				http://www.geonames.org/6255148				
+C275	T114				http://www.geonames.org/2802361			R090	1967	11		30		http://www.geonames.org/6255148				
+C276	T115				http://www.geonames.org/1269750			R108						http://www.geonames.org/6255147				
+C277	T157				http://www.geonames.org/357994			R109		3		4		http://www.geonames.org/6255146				
 C278	T158							R110										
-C279	T158				Japan			R074						Asia				
-C280	T118				Canada			R111	1956	9				North America	Igloolik			
+C279	T158				http://www.geonames.org/1861060			R074						http://www.geonames.org/6255147				
+C280	T118				http://www.geonames.org/6251999			R111	1956	9				http://www.geonames.org/6255149	http://www.geonames.org/5979346			
 C281	T119							R112										
-C282	T120					Hiroshima Bay	May-September	R113						Asia				
-C283	T120				Russia		July-October	R114	1988									
-C284	T121							R115						Africa				
-C285	T122					Lake Neusiedl	spring	R001	1951					Europe				
+C282	T120					http://www.geonames.org/1862411	May-September	R113						http://www.geonames.org/6255147				
+C283	T120				http://www.geonames.org/2017370		July-October	R114	1988									
+C284	T121							R115						http://www.geonames.org/6255146				
+C285	T122					http://www.geonames.org/3052649	spring	R001	1951					http://www.geonames.org/6255148				
 C286	T123		Observed in Atlantic Ocean 1963 and Red Sea 1961					R116										
 C288	T125							R085										
 C289	T126							R117										
-C290	T127				Austria		summer	R038						Europe				
-C291	T127				Japan			R118						Asia				
-C292	T127				Austria		summer	R001						Europe				
-C293	T128				India			R108						Asia				
-C294	T129					Red Sea	Oct-Dec	R119	1963									
-C295	T130					Lake Hemmelsdorfer		R120						Europe				
+C290	T127				http://www.geonames.org/2782113		summer	R038						http://www.geonames.org/6255148				
+C291	T127				http://www.geonames.org/1861060			R118						http://www.geonames.org/6255147				
+C292	T127				http://www.geonames.org/2782113		summer	R001						http://www.geonames.org/6255148				
+C293	T128				http://www.geonames.org/1269750			R108						http://www.geonames.org/6255147				
+C294	T129					http://www.geonames.org/350155	Oct-Dec	R119	1963									
+C295	T130					http://www.geonames.org/2906566		R120						http://www.geonames.org/6255148				
 C296	T130						winter to early spring	R001										
-C297	T159				Belgium		summer	R004						Europe				
+C297	T159				http://www.geonames.org/2802361		summer	R004						http://www.geonames.org/6255148				
 C298	T131		Observed on September 1946 and August 1945					R121										
-C300	T132				United States	Great Pond	December and May	R056					Massachusetts	North America				
-C301	T133					Lake Neusiedl	spring	R001	1952					Europe				
-C302	T134				New Zealand			R071										
-C303	T135					G‰rde Bay	summer	R122										
-C304	T135				Japan			R118						Asia				
-C305	T135				Poland	Flosek Lake		R123						Europe				
-C306	T136		Observed on July 14, 1906; July 26, 1917; July 27, 1917		United States	Pacific Ocean		R003		7			California	North America				
-C309	T137				United States	Pacific Ocean		R003	1917	8		8	California	North America				
-C310	T138		Observed on June 12, 1917 and September 24, 1904		United States	Pacific Ocean		R003					California	North America				
-C312	T139		Observed in Catalan, Spain, spring-fall, >22∞C, 33-38.5 salinity and in western Australia					R124										
-C316	T140				United States	Gales Creek	March-April and July-Sept	R043					North Carolina	North America				
-C317	T160					English Channel		R098						Europe				
+C300	T132				http://www.geonames.org/6252001	http://www.geonames.org/4938250	December and May	R056					http://www.geonames.org/6254926	http://www.geonames.org/6255149				
+C301	T133					http://www.geonames.org/3052649	spring	R001	1952					http://www.geonames.org/6255148				
+C302	T134				http://www.geonames.org/2186224			R071										
+C303	T135					Gärde Bay	summer	R122										
+C304	T135				http://www.geonames.org/1861060			R118						http://www.geonames.org/6255147				
+C305	T135				http://www.geonames.org/798544	Flosek Lake		R123						http://www.geonames.org/6255148				
+C306	T136		Observed on July 14, 1906; July 26, 1917; July 27, 1917		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003		7			http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C309	T137				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8		8	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C310	T138		Observed on June 12, 1917 and September 24, 1904		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C312	T139		Observed in Catalan, Spain, spring-fall, >22°C, 33-38.5 salinity and in western Australia					R124										
+C316	T140				http://www.geonames.org/6252001	http://www.geonames.org/4467544	March-April and July-Sept	R043					http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C317	T160					http://www.geonames.org/2649991		R098						http://www.geonames.org/6255148				
 C318	T162							R103										
 C319	T162							R001										
-C320	T076		Isolated as cysts from the sediment of an outdoor marine aquarium					R125								British West Indies		
-C321	T076				Australia			R126	2003					Australia				
-C322	T076				Australia			R126	2003	9	Broome			Australia				
-C323	T076		collected from tank containing coral rubble, seaweeds, and sediments from Fannie Bay, Darwin		Australia			R126	2003					Australia				
-C324	T167					Atlantic Ocean		R087	1895									
-C325	T167				United States	Pacific Ocean	summer	R003						North America				
-C326	T167				Canada	Strait of Georgia		R051						North America				
-C327	T167		Rather common in the spherical and lunate stages in the plankton of Mutsu Bay in July-August, 1930, at surface temperatures of 16∞-26∞			Mutsu Bay	July-August	R053	1930					Asia				
-C328	T171				France			R127	1936	6		8		Europe				
-C329	T172	rapid and oscillating motions, chasing and devouring prey	Obtained from an infusion of hay in seawater		United Kingdom	English Channel		R085	1879	2	St Helier		Jersey	Europe				
-C330	T172		very common		Australia	Coral Sea		R067						Australia				
-C331	T173		collected in Feb and March from water flowing slowly under ice		United States		Feb-March	R040			Belcamp		Maryland	North America				
-C332	T174			3-5 cells per 10 mL	Netherlands			R128		8			Friesland	Europe				
-C333	T175				Australia	Newcastle Harbour		R129	1997				New South Wales	Australia				
-C334	T176				United Kingdom	Plymouth Sound	May to July	R002						Europe				
-C335	T176					Pacific Ocean		R071										
-C336	T176				Australia	Coral Sea		R067						Australia				
-C337	T176					Adriatic Sea		R044						Europe				
-C338	T178				Austria	Lake Attersee		R038						Europe				
-C339	T178		found often in cold, alpine lakes		Austria	Lake Neusiedl	winter	R103						Europe				
-C340	T179							R048						Antarctica				
-C341	T180		This was taken July 5, 1917 with a No. 12 silk net in a haul 6 miles off LaJolla, California from 80 m to the surface and in a surface temperature of 21.4∞C. On July 11 it was taken with a No. 25 silk net 4 miles off La Jolla in a haul from 80 m to the surface, and on July 27 and on Aug 21 at the same place and under approximately the same conditions.		United States	Pacific Ocean	July 5, July 11, July 26, and August 21	R003	1917		La Jolla		California	North America				
-C342	T181		No. 25 silk net, 5 miles off La Jolla, CA in a haul from 83 meters to the surface		United States	Pacific Ocean		R003	1917	8	La Jolla	29	California	North America				
-C343	T181				Australia	Coral Sea		R067						Australia				
-C344	T181				Canada	Strait of Georgia	July and August	R051						North America				
-C345	T182				Japan		April, May, and July 2006 and June, July, and September 2007	R130			Isonoura Beach		Wakayama	Asia				
+C320	T076		Isolated as cysts from the sediment of an outdoor marine aquarium					R125								http://www.geonames.org/3574922		
+C321	T076				http://www.geonames.org/2077456			R126	2003					http://www.geonames.org/2077456				
+C322	T076				http://www.geonames.org/2077456			R126	2003	9	http://www.geonames.org/2075720			http://www.geonames.org/2077456				
+C323	T076		collected from tank containing coral rubble, seaweeds, and sediments from Fannie Bay, Darwin		http://www.geonames.org/2077456			R126	2003					http://www.geonames.org/2077456				
+C324	T167					http://www.geonames.org/3373405		R087	1895									
+C325	T167			\thttp://www.geonames.org/1642673\t	http://www.geonames.org/6252001	http://www.geonames.org/2363254	summer	R003						http://www.geonames.org/6255149				
+C326	T167				http://www.geonames.org/6251999	http://www.geonames.org/6157919		R051						http://www.geonames.org/6255149				
+C327	T167		Rather common in the spherical and lunate stages in the plankton of Mutsu Bay in July-August, 1930, at surface temperatures of 16°-26°			http://www.geonames.org/2129088	July-August	R053	1930					http://www.geonames.org/6255147				
+C328	T171				http://www.geonames.org/3017382			R127	1936	6		8		http://www.geonames.org/6255148				
+C329	T172	rapid and oscillating motions, chasing and devouring prey	Obtained from an infusion of hay in seawater		http://www.geonames.org/2635167	http://www.geonames.org/2649991		R085	1879	2	http://www.geonames.org/3042091		http://www.geonames.org/3042142	http://www.geonames.org/6255148	http://www.geonames.org/3042143			
+C330	T172		very common		http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C331	T173		collected in Feb and March from water flowing slowly under ice		http://www.geonames.org/6252001		Feb-March	R040			http://www.geonames.org/4048442		http://www.geonames.org/4361885	http://www.geonames.org/6255149				
+C332	T174			3-5 cells per 10 mL	http://www.geonames.org/2750405			R128		8			http://www.geonames.org/2755812	http://www.geonames.org/6255148				
+C333	T175				http://www.geonames.org/2077456	http://www.geonames.org/2155469		R129	1997				http://www.geonames.org/2155400	http://www.geonames.org/2077456				
+C334	T176				http://www.geonames.org/2635167	http://www.geonames.org/2640193	May to July	R002						http://www.geonames.org/6255148				
+C335	T176					http://www.geonames.org/2363254		R071										
+C336	T176				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C337	T176					http://www.geonames.org/3183462		R044						http://www.geonames.org/6255148				
+C338	T178				http://www.geonames.org/2782113	http://www.geonames.org/2782288		R038						http://www.geonames.org/6255148				
+C339	T178		found often in cold, alpine lakes		http://www.geonames.org/2782113	http://www.geonames.org/3052649	winter	R103						http://www.geonames.org/6255148				
+C340	T179							R048						http://www.geonames.org/6255152				
+C341	T180		This was taken July 5, 1917 with a No. 12 silk net in a haul 6 miles off LaJolla, California from 80 m to the surface and in a surface temperature of 21.4°C. On July 11 it was taken with a No. 25 silk net 4 miles off La Jolla in a haul from 80 m to the surface, and on July 27 and on Aug 21 at the same place and under approximately the same conditions.		http://www.geonames.org/6252001	http://www.geonames.org/2363254	July 5, July 11, July 26, and August 21	R003	1917		http://www.geonames.org/5363943		http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C342	T181		No. 25 silk net, 5 miles off La Jolla, CA in a haul from 83 meters to the surface		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8	http://www.geonames.org/5363943	29	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C343	T181				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C344	T181				http://www.geonames.org/6251999	http://www.geonames.org/6157919	July and August	R051						http://www.geonames.org/6255149				
+C345	T182				http://www.geonames.org/1861060		April, May, and July 2006 and June, July, and September 2007	R130			http://www.geonames.org/1855359		http://www.geonames.org/1926004	http://www.geonames.org/6255147				
 C346	T183		Adriatic Sea and Gulf of Naples				spring	R044										
-C347	T184					Adriatic Sea		R044	1912	5				Europe				
-C348	T184				Australia	Coral Sea		R067						Australia				
-C349	T185		rare in the Adriatic Sea, common in Gulf of Naples				spring to summer	R044						Europe				
-C350	T186		from cysts		Denmark	ÿresund		R131						Europe				
-C351	T186		from cysts, ÿresund and Kattegat		Denmark			R132						Europe				
-C352	T179							R049	1962	1				Antarctica				
-C353	T187					Pacific Ocean		R010										
-C354	T188			1	Japan	Mutsu Bay		R053	1930	8		16		Asia				
-C355	T188					Coral Sea		R067						Australia				
-C356	T177		Port Phillip Bay and Bass Strait		Australia		austral spring	R046						Australia				
-C357	T189			9	Australia	Hobson's Bay	austral spring	R046						Australia				
-C358	T189				Denmark			R046						Europe				
-C359	T190		Sungari River Valley near Harbin		China		spring	R064						Asia				
-C360	T191		northern half of the Adriatic			Adriatic Sea	spring	R044						Europe				
-C361	T191				Japan	Seto Inland Sea		R104						Asia				
-C362	T191				Denmark			R133						Europe				
-C363	T191		very rare			Gulf of Saint Lawrence	June and October	R134						North America				
-C364	T192		collected in No. 25 net		United States	Pacific Ocean	July 9, 1914 and July-August 1917	R003			La Jolla		California	North America				
-C365	T193		One individual collected in No. 12 silk net in haul 6.1 miles off La Jolla, California from 120 meters to surface. One individual collected in No. 25 silk net in haul 4 miles off La Jolla, California from 80 meters to the surface. One individual collected in No. 25 silk net in haul 6 miles off La Jolla, California from 80 meters to the surface.	3	United States	Pacific Ocean	June 27, July 11, and July 20	R003	1917		La Jolla		California	North America				
-C366	T194		quite abundant in spring and summer		Spain	Gulf of Riga		R135						Europe				
-C367	T195				Italy	Lake Tovel		R136		11				Europe				
-C368	T196		concrete pool		Austria			R001						Europe				
-C369	T197			1	Switzerland	Neudorfer Swamp		R012						Europe				
-C370	T197				Australia			R022						Australia				
-C371	T198				Ireland	Lough Currane		R137	1904	5	Kerry	24		Europe				
-C372	T197				United Kingdom			R138						Europe				
-C373	T198				Poland			R139	1899	8	Opeln			Europe				
-C374	T198				United Kingdom			R033	1936	4	Reading	1		Europe				
-C375	T198				India	Durga Kund	Nov 1969 and March 1970	R140			Varanasi		Uttar Pradesh	Asia				
-C376	T199			12	Australia	Hobson's Bay	late austral autumn and early winter	R046						Australia				
-C377	T199				Canada	Gulf of Saint Lawrence	present Feb to June, but especially from August to December	R134						North America				
-C378	T200				Argentina			R141						South America				
-C379	T201					Adriatic Sea	spring	R044						Europe				
-C380	T202							R102						Europe				
-C381	T203					Lake Neusiedl	spring	R001						Europe				
-C382	T204				Belgium			R090	1967	9				Europe				
-C383	T205		species occurred frequently, though never abundant		United Kingdom	Port Erin Bay	1920-1922	R142			Port Erin			Europe				
-C384	T205					Gulf of Trieste		R044						Europe				
-C385	T206				Australia	Hobson's Bay	austral autumn	R046						Australia				
-C386	T207		frequent winter form, seen even under ice		Austria		Feb-March	R001			Vienna			Europe				
-C387	T208			20	Australia		austral autumn and winter	R046						Australia				
-C388	T209				Italy	Lake Tovel		R136		11			Trentino	Europe				
-C389	T210					Adriatic Sea	winter to spring	R044						Europe				
-C390	T211		present during all seasons, common in summer		Australia			R046						Australia				
-C391	T212		off Concarneau		France	Atlantic Ocean		R100						Europe				
-C392	T212				United States	Barnegat Bay		R143					New Jersey	North America				
-C393	T212				Australia	Coral Sea		R067						Australia				
-C394	T213		taken with a no. 25 silk net 4 miles off La Jolla, CA in a haul from 60 meters below surface. Surface temp 21.2 C.	1	United States	Pacific Ocean		R003	1917	8	La Jolla	6	California	North America				
-C395	T214				Sweden			R122						Europe				
-C396	T214				United States	North Deming Pond		R144					Minnesota	North America				
-C397	T215					English Channel		R098	1923	5				Europe				
-C398	T215					Adriatic Sea	autumn to spring	R044						Europe				
-C399	T215				Belgium			R004	1938	6	Lilloo			Europe				
-C400	T215				Australia	Coral Sea		R067						Australia				
-C401	T215				Denmark			R133						Europe				
-C402	T215		most abundant in August			Gulf of Saint Lawrence	July to December	R134						North America				
-C403	T216					North Sea	autumn	R145						Europe				
-C404	T217		collected with a No. 20 silk net in a haul 265 meters to the surface taken 13 miles off La Jolla	1	United States	Pacific Ocean		R003	1904	6	La Jolla	23	California	North America				
-C405	T218		collected with a No. 25 silk net in a haul 60 meters to the surface taken 4 miles off La Jolla	1	United States	Pacific Ocean		R003	1917	8	La Jolla	6	California	North America				
-C406	T219				Belgium			R090	1967	11		30		Europe				
+C347	T184					http://www.geonames.org/3183462		R044	1912	5				http://www.geonames.org/6255148				
+C348	T184				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C349	T185		rare in the Adriatic Sea, common in Gulf of Naples				spring to summer	R044						http://www.geonames.org/6255148				
+C350	T186		from cysts		http://www.geonames.org/2623032	ÿresund		R131						http://www.geonames.org/6255148				
+C351	T186		from cysts, Øresund and Kattegat		http://www.geonames.org/2623032			R132						http://www.geonames.org/6255148				
+C352	T179							R049	1962	1				http://www.geonames.org/6255152				
+C353	T187					http://www.geonames.org/2363254		R010										
+C354	T188			1	http://www.geonames.org/1861060	http://www.geonames.org/2129088		R053	1930	8		16		http://www.geonames.org/6255147				
+C355	T188					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C356	T177		Port Phillip Bay and Bass Strait		http://www.geonames.org/2077456		austral spring	R046						http://www.geonames.org/2077456				
+C357	T189			9	http://www.geonames.org/2077456	http://www.geonames.org/2163343	austral spring	R046						http://www.geonames.org/2077456				
+C358	T189				http://www.geonames.org/2623032			R046						http://www.geonames.org/6255148				
+C359	T190		Sungari River Valley near Harbin		http://www.geonames.org/1814991		spring	R064						http://www.geonames.org/6255147				
+C360	T191		northern half of the Adriatic			http://www.geonames.org/3183462	spring	R044						http://www.geonames.org/6255148				
+C361	T191				http://www.geonames.org/1861060	http://www.geonames.org/1852650		R104						http://www.geonames.org/6255147				
+C362	T191				http://www.geonames.org/2623032			R133						http://www.geonames.org/6255148				
+C363	T191		very rare			http://www.geonames.org/3831546	June and October	R134						http://www.geonames.org/6255149				
+C364	T192		collected in No. 25 net		http://www.geonames.org/6252001	http://www.geonames.org/2363254	July 9, 1914 and July-August 1917	R003			http://www.geonames.org/5363943		http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C365	T193		One individual collected in No. 12 silk net in haul 6.1 miles off La Jolla, California from 120 meters to surface. One individual collected in No. 25 silk net in haul 4 miles off La Jolla, California from 80 meters to the surface. One individual collected in No. 25 silk net in haul 6 miles off La Jolla, California from 80 meters to the surface.	3	http://www.geonames.org/6252001	http://www.geonames.org/2363254	June 27, July 11, and July 20	R003	1917		http://www.geonames.org/5363943		http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C366	T194		quite abundant in spring and summer		http://www.geonames.org/2510769	http://www.geonames.org/453746		R135						http://www.geonames.org/6255148				
+C367	T195				http://www.geonames.org/3175395	http://www.geonames.org/3165346		R136		11				http://www.geonames.org/6255148				
+C368	T196		concrete pool		http://www.geonames.org/2782113			R001						http://www.geonames.org/6255148				
+C369	T197			1	http://www.geonames.org/2658434	Neudorfer Swamp		R012						http://www.geonames.org/6255148				
+C370	T197				http://www.geonames.org/2077456			R022						http://www.geonames.org/2077456				
+C371	T198				http://www.geonames.org/2963597	http://www.geonames.org/2964907		R137	1904	5	http://www.geonames.org/2963517	24		http://www.geonames.org/6255148				
+C372	T197				http://www.geonames.org/2635167			R138						http://www.geonames.org/6255148				
+C373	T198		"Gewässer beim Weissen Ross in Oppeln" translates to "Waters at the Weissen Ross in Opole". I think this means that a water sample was collected at the White Horse Inn in Opole Poland. The Inn is no longer present, but the modern address of its former location is Ulica Niemodlińska 7a which is visible on google maps. (http://fotopolska.eu/Policyjna_Izba_Dziecka_Opole)		http://www.geonames.org/798544			R139	1899	8	http://www.geonames.org/3090048			http://www.geonames.org/6255148				
+C374	T198				http://www.geonames.org/2635167			R033	1936	4	http://www.geonames.org/2639577	1		http://www.geonames.org/6255148				
+C375	T197		permanent pond at Durga Kund (temple)		http://www.geonames.org/1269750		Nov 1969 and March 1970	R140			http://www.geonames.org/1253405		http://www.geonames.org/1253626	http://www.geonames.org/6255147				
+C376	T199			12	http://www.geonames.org/2077456	http://www.geonames.org/2163343	late austral autumn and early winter	R046						http://www.geonames.org/2077456				
+C377	T199				http://www.geonames.org/6251999	http://www.geonames.org/3831546	present Feb to June, but especially from August to December	R134						http://www.geonames.org/6255149				
+C378	T200				http://www.geonames.org/3865483			R141						http://www.geonames.org/6255150				
+C379	T201					http://www.geonames.org/3183462	spring	R044						http://www.geonames.org/6255148				
+C380	T202							R102						http://www.geonames.org/6255148				
+C381	T203					http://www.geonames.org/3052649	spring	R001						http://www.geonames.org/6255148				
+C382	T204				http://www.geonames.org/2802361			R090	1967	9				http://www.geonames.org/6255148				
+C383	T205		species occurred frequently, though never abundant		http://www.geonames.org/2635167	Port Erin Bay	1920-1922	R142			http://www.geonames.org/3042196			http://www.geonames.org/6255148				
+C384	T205					http://www.geonames.org/3165187		R044						http://www.geonames.org/6255148				
+C385	T206				http://www.geonames.org/2077456	http://www.geonames.org/2163343	austral autumn	R046						http://www.geonames.org/2077456				
+C386	T207		frequent winter form, seen even under ice		http://www.geonames.org/2782113		Feb-March	R001			http://www.geonames.org/2761369			http://www.geonames.org/6255148				
+C387	T208			20	http://www.geonames.org/2077456		austral autumn and winter	R046						http://www.geonames.org/2077456				
+C388	T209				http://www.geonames.org/3175395	http://www.geonames.org/3165346		R136		11			http://www.geonames.org/3165244	http://www.geonames.org/6255148				
+C389	T210					http://www.geonames.org/3183462	winter to spring	R044						http://www.geonames.org/6255148				
+C390	T211		present during all seasons, common in summer		http://www.geonames.org/2077456			R046						http://www.geonames.org/2077456				
+C391	T212		off Concarneau		http://www.geonames.org/3017382	http://www.geonames.org/3373405		R100						http://www.geonames.org/6255148				
+C392	T212				http://www.geonames.org/6252001	http://www.geonames.org/4500631		R143					http://www.geonames.org/5101760	http://www.geonames.org/6255149				
+C393	T212				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C394	T213		taken with a no. 25 silk net 4 miles off La Jolla, CA in a haul from 60 meters below surface. Surface temp 21.2 C.	1	http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8	http://www.geonames.org/5363943	6	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C395	T214				http://www.geonames.org/2661886			R122						http://www.geonames.org/6255148				
+C396	T214				http://www.geonames.org/6252001	North Deming Pond		R144					http://www.geonames.org/5037779	http://www.geonames.org/6255149				
+C397	T215					http://www.geonames.org/2649991		R098	1923	5				http://www.geonames.org/6255148				
+C398	T215					http://www.geonames.org/3183462	autumn to spring	R044						http://www.geonames.org/6255148				
+C399	T215				http://www.geonames.org/2802361			R004	1938	6	http://www.geonames.org/2792359			http://www.geonames.org/6255148				
+C400	T215				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C401	T215				http://www.geonames.org/2623032			R133						http://www.geonames.org/6255148				
+C402	T215		most abundant in August			http://www.geonames.org/3831546	July to December	R134						http://www.geonames.org/6255149				
+C403	T216					http://www.geonames.org/2960848	autumn	R145						http://www.geonames.org/6255148				
+C404	T217		collected with a No. 20 silk net in a haul 265 meters to the surface taken 13 miles off La Jolla	1	http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1904	6	http://www.geonames.org/5363943	23	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C405	T218		collected with a No. 25 silk net in a haul 60 meters to the surface taken 4 miles off La Jolla	1	http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8	http://www.geonames.org/5363943	6	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C406	T219				http://www.geonames.org/2802361			R090	1967	11		30		http://www.geonames.org/6255148				
 C407	T220		Bay of Naples or Atlantic Ocean					R087										
-C408	T220				Denmark	Skagerak		R015						Europe				
-C409	T220				United Kingdom	Plymouth Sound		R002						Europe				
-C410	T221				United Kingdom	Plymouth Sound		R002						Europe				
-C411	T222				United Kingdom	Plymouth Sound		R002						Europe				
-C412	T223				United Kingdom	Plymouth Sound		R002						Europe				
-C413	T220				United Kingdom	Plymouth Sound		R098						Europe				
-C414	T220				France	English Channel	May to July	R076			Etretat		Normandy	Europe				
-C415	T225		large natural basin south of a city from Nile flooding		Egypt	Natron Sea		R109		2		27		Africa				
-C416	T226		highest concentration in August - 66 cells/mL		United States	Gales Creek	sprint to autumn	R043					North Carolina	North America				
-C417	T226					Gulf of Saint Lawrence		R134		8				North America				
+C408	T220				http://www.geonames.org/2623032	http://www.geonames.org/2960845		R015						http://www.geonames.org/6255148				
+C409	T220				http://www.geonames.org/2635167	http://www.geonames.org/2640193		R002						http://www.geonames.org/6255148				
+C410	T221				http://www.geonames.org/2635167	http://www.geonames.org/2640193		R002						http://www.geonames.org/6255148				
+C411	T222				http://www.geonames.org/2635167	http://www.geonames.org/2640193		R002						http://www.geonames.org/6255148				
+C412	T223				http://www.geonames.org/2635167	http://www.geonames.org/2640193		R002						http://www.geonames.org/6255148				
+C413	T220				http://www.geonames.org/2635167	http://www.geonames.org/2640193		R098						http://www.geonames.org/6255148				
+C414	T220				http://www.geonames.org/3017382	http://www.geonames.org/2649991	May to July	R076			http://www.geonames.org/3019355		http://www.geonames.org/11071621	http://www.geonames.org/6255148				
+C415	T225		large natural basin south of a city from Nile flooding		http://www.geonames.org/357994	Natron Sea		R109		2		27		http://www.geonames.org/6255146				
+C416	T226		highest concentration in August - 66 cells/mL		http://www.geonames.org/6252001	http://www.geonames.org/4467544	sprint to autumn	R043					http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C417	T226					http://www.geonames.org/3831546		R134		8				http://www.geonames.org/6255149				
 C418	T227						July and August	R003	1917									
-C419	T228					Plymouth Sound		R098	1923	6				Europe				
-C420	T228				Denmark			R133						Europe				
-C421	T229				United States	Cold Spring Harbor		R146	1936	7			New York	North America				
-C422	T230					Lake Neusiedl		R001	1926	6		30		Europe				
-C423	T231		taken in a haul 4 miles off La Jolla from 60 meters to the surface in a surface temperature of 21.2 degrees C	2	United States	Pacific Ocean		R003	1917	8	La Jolla	6	California	North America				
-C424	T231				Australia	Coral Sea		R067						Australia				
-C425	T232					Adriatic Sea	spring	R044						Europe				
-C426	T233			3	United States	Pacific Ocean	July-August	R003	1917		La Jolla		California	North America				
-C427	T233				Australia	Coral Sea		R067						Australia				
-C428	T234		near Syowa Station -69.0043196,39.5845649			Southern Ocean		R049						Antarctic				
-C429	T236				United States	Atlantic Ocean	July-August	R147			Woods Hole		Massachusetts	North America				
-C430	T235				United States	Pacific Ocean	July-August, 1906 and 1917	R003			La Jolla		California	North America				
-C431	T235				Australia	Coral Sea		R067						Australia				
-C432	T237		surface temperature 26.8 degrees C	3	Japan	Mutsu Bay		R053	1930	8	Futagojima	18		Asia				
-C433	T238				United States		Oct, Dec, Jan	R056			Woods Hole		Massachusetts	North America				
-C434	T238				United States	Gales Creek		R043		3			North Carolina	North America				
-C435	T239				Germany			R030						Europe				
-C436	T241					Lake Neusiedl	spring and summer	R001						Europe				
-C437	T242		most common in autumn			Gales Creek	spring, summer, autumn	R043						North America				
-C438	T242					Gulf of Saint Lawrence	March, August, September	R134						North America				
+C419	T228					http://www.geonames.org/2640193		R098	1923	6				http://www.geonames.org/6255148				
+C420	T228				http://www.geonames.org/2623032			R133						http://www.geonames.org/6255148				
+C421	T229				http://www.geonames.org/6252001	http://www.geonames.org/5113218		R146	1936	7			http://www.geonames.org/5128638	http://www.geonames.org/6255149				
+C422	T230					http://www.geonames.org/3052649		R001	1926	6		30		http://www.geonames.org/6255148				
+C423	T231		taken in a haul 4 miles off La Jolla from 60 meters to the surface in a surface temperature of 21.2 degrees C	2	http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8	http://www.geonames.org/5363943	6	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C424	T231				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C425	T232					http://www.geonames.org/3183462	spring	R044						http://www.geonames.org/6255148				
+C426	T233			3	http://www.geonames.org/6252001	http://www.geonames.org/2363254	July-August	R003	1917		http://www.geonames.org/5363943		http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C427	T233				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C428	T234		near Syowa Station -69.0043196,39.5845649			http://www.geonames.org/4036776		R049						http://www.geonames.org/6255152				
+C429	T236				http://www.geonames.org/6252001	http://www.geonames.org/3373405	July-August	R147			http://www.geonames.org/4956152		http://www.geonames.org/6254926	http://www.geonames.org/6255149				
+C430	T235				http://www.geonames.org/6252001	http://www.geonames.org/2363254	July-August, 1906 and 1917	R003			http://www.geonames.org/5363943		http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C431	T235				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C432	T237		surface temperature 26.8 degrees C, off Island of Futagojima	3	http://www.geonames.org/1861060	http://www.geonames.org/2129088		R053	1930	8		18		http://www.geonames.org/6255147				
+C433	T238				http://www.geonames.org/6252001		Oct, Dec, Jan	R056			http://www.geonames.org/4956152		http://www.geonames.org/6254926	http://www.geonames.org/6255149				
+C434	T238				http://www.geonames.org/6252001	http://www.geonames.org/4467544		R043		3			http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C435	T239				http://www.geonames.org/2921044			R030						http://www.geonames.org/6255148				
+C436	T241					http://www.geonames.org/3052649	spring and summer	R001						http://www.geonames.org/6255148				
+C437	T242		most common in autumn			http://www.geonames.org/4467544	spring, summer, autumn	R043						http://www.geonames.org/6255149				
+C438	T242					http://www.geonames.org/3831546	March, August, September	R134						http://www.geonames.org/6255149				
 C439	T243							R143										
-C440	T244		taken with a No. 25 silk net 4 miles off La Jolla in a haul from 60 meters to the surface in a surface temperature of 21.9 degrees C	1	United States	Pacific Ocean		R003	1917	8	La Jolla	6	California	North America				
-C441	T244				Australia	Coral Sea		R067						Australia				
-C442	T245				Germany			R041			Eggenfelden			Europe				
-C443	T246				Switzerland			R062						Europe				
-C444	T246				Japan			R118					Nagano	Asia				
-C445	T247		collected with a No. 12 net, 1 mile offshore in a haul from 120 meters depth to surface in surface temperature of 20.6 degrees C	1	United States	Pacific Ocean		R003	1917	6	La Jolla	26	California	North America				
-C446	T249				Iran	Gulf of Oman		R148			Pasabander			Asia				
-C447	T250		neighborhood of Dzintari		Latvia			R135			J?rmala			Europe				
-C448	T250		Belcamp and Priest Bridge		United States		Feb and April	R040	1947				Maryland	North America				
-C449	T251		Lake District		United Kingdom		winter and spring	R033						Europe				
-C450	T250				Czech Republic	Lake M·cha		R037			Doksy			Europe				
-C451	T250				United States			R149		2	Newport		North Carolina	North America				
-C452	T253		Phoenix Park		Ireland			R150	1854	6	Dublin			Europe				
-C453	T254					Lake Geneva		R151						Europe				
-C454	T252				Sweden	Lake Hallaren		R122						Europe				
-C455	T256		Uncatina Island and Great Pond		United States		July August October	R056					Massachusetts	North America				
-C456	T257				United States	Gales Creek	April and November	R043					North Carolina	North America				
-C457	T257		most common in spring and fall		Canada	Gulf of Saint Lawrence	Feb to Dec	R134						North America				
-C458	T258				United Kingdom	Port Erin Bay		R107			Erin			Europe	Isle of Man			
-C459	T258					Adriatic Sea	Spring to November	R044						Europe				
-C460	T258		rare		Canada			R051					British Columbia	North America	Cortes Island	Discovery Islands		
-C461	T258				France			R054			Roscoff			Europe				
-C462	T258		west coast of Cotentin Peninsula		France	English Channel		R076					Normandy	Europe				
-C463	T259		Hutt Valley		New Zealand			R152			Masterton		Wellington					
-C464	T260				Indonesia			R030			Bogor			Asia	Java			
-C465	T262				United Kingdom	Port Erin Bay		R107			Erin			Europe	Isle of Man			
-C466	T263				United States	Gales Creek	spring to autumn	R043					North Carolina	North America				
-C467	T263					Gulf of Saint Lawrence	Feb to Oct	R134						North America				
-C468	T264					Atlantic Ocean		R087										
-C469	T264					Baltic Sea		R099						Europe				
-C470	T264					Kattegat		R153						Europe				
+C440	T244		taken with a No. 25 silk net 4 miles off La Jolla in a haul from 60 meters to the surface in a surface temperature of 21.9 degrees C	1	http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	8	http://www.geonames.org/5363943	6	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C441	T244				http://www.geonames.org/2077456	http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
+C442	T245				http://www.geonames.org/2921044			R041			http://www.geonames.org/2933115			http://www.geonames.org/6255148				
+C443	T246				http://www.geonames.org/2658434			R062						http://www.geonames.org/6255148				
+C444	T246				http://www.geonames.org/1861060			R118					http://www.geonames.org/1856210	http://www.geonames.org/6255147				
+C445	T247		collected with a No. 12 net, 1 mile offshore in a haul from 120 meters depth to surface in surface temperature of 20.6 degrees C	1	http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	6	http://www.geonames.org/5363943	26	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C446	T249				http://www.geonames.org/130758	http://www.geonames.org/145945		R148			http://www.geonames.org/1160024			http://www.geonames.org/6255147				
+C447	T250		neighborhood of Dzintari		http://www.geonames.org/458258			R135			http://www.geonames.org/11352655			http://www.geonames.org/6255148				
+C448	T250		Belcamp and Priest Bridge		http://www.geonames.org/6252001		Feb and April	R040	1947				http://www.geonames.org/4361885	http://www.geonames.org/6255149				
+C449	T251		Lake District		http://www.geonames.org/2635167		winter and spring	R033						http://www.geonames.org/6255148				
+C450	T250				http://www.geonames.org/3077311	Lake Mácha		R037			http://www.geonames.org/3076972			http://www.geonames.org/6255148				
+C451	T250				http://www.geonames.org/6252001			R149		2	Newport		http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C452	T253		Phoenix Park		http://www.geonames.org/2963597			R150	1854	6	http://www.geonames.org/2964574			http://www.geonames.org/6255148				
+C453	T254					http://www.geonames.org/2660647		R151						http://www.geonames.org/6255148				
+C454	T252				http://www.geonames.org/2661886	Lake Hallaren		R122						http://www.geonames.org/6255148				
+C455	T256		Uncatina Island and Great Pond		http://www.geonames.org/6252001		July August October	R056					http://www.geonames.org/6254926	http://www.geonames.org/6255149				
+C456	T257				http://www.geonames.org/6252001	http://www.geonames.org/4467544	April and November	R043					http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C457	T257		most common in spring and fall		http://www.geonames.org/6251999	http://www.geonames.org/3831546	Feb to Dec	R134						http://www.geonames.org/6255149				
+C458	T258				http://www.geonames.org/2635167	Port Erin Bay		R107			http://www.geonames.org/3042196			http://www.geonames.org/6255148	http://www.geonames.org/3042225			
+C459	T258					http://www.geonames.org/3183462	Spring to November	R044						http://www.geonames.org/6255148				
+C460	T258		rare		http://www.geonames.org/6251999			R051					http://www.geonames.org/5909050	http://www.geonames.org/6255149	http://www.geonames.org/5928197			
+C461	T258				http://www.geonames.org/3017382			R054			http://www.geonames.org/2982809			http://www.geonames.org/6255148				
+C462	T258		west coast of Cotentin Peninsula		http://www.geonames.org/3017382	http://www.geonames.org/2649991		R076					http://www.geonames.org/11071621	http://www.geonames.org/6255148				
+C463	T259		Hutt Valley		http://www.geonames.org/2186224			R152			http://www.geonames.org/2206890		http://www.geonames.org/2179537					
+C464	T260				http://www.geonames.org/1643084			R030			http://www.geonames.org/1648473			http://www.geonames.org/6255147	http://www.geonames.org/1642673			
+C465	T262				http://www.geonames.org/2635167	Port Erin Bay		R107			http://www.geonames.org/3042196			http://www.geonames.org/6255148	http://www.geonames.org/3042225			
+C466	T263				http://www.geonames.org/6252001	http://www.geonames.org/4467544	spring to autumn	R043					http://www.geonames.org/4482348	http://www.geonames.org/6255149				
+C467	T263					http://www.geonames.org/3831546	Feb to Oct	R134						http://www.geonames.org/6255149				
+C468	T264					http://www.geonames.org/3373405		R087										
+C469	T264					http://www.geonames.org/2633321		R099						http://www.geonames.org/6255148				
+C470	T264					http://www.geonames.org/2960850		R153						http://www.geonames.org/6255148				
 C471	T264							R003										
-C472	T265		taken with a No. 25 silk net in a haul 2.5 miles off La Jolla from 80 meters to the surface in a surface temp of 21.8 degrees C	1	United States	Pacific Ocean		R003	1917	7	La Jolla	26	California	North America				
-C473	T266				Austria			R001						Europe				
-C474	T267				Belgium			R090	1967	11		30		Europe				
-C475	T268		taken in vertical haul from 30 meters in a surface temp of 23.6 degrees C	1	Japan	Mutsu Bay		R053	1930	8		11		Asia				
-C476	T269		Adriatic Sea and Gulf of Naples		Italy		spring	R044						Europe				
-C477	T270				Austria	Lake Neusiedl		R001	1950	5	Rust			Europe				
-C478	T270				Japan			R034						Asia				
-C479	T271				Norway	Arctic Ocean		R154	1892	7		31		Europe	Spitzbergen	Svalbard		
+C472	T265		taken with a No. 25 silk net in a haul 2.5 miles off La Jolla from 80 meters to the surface in a surface temp of 21.8 degrees C	1	http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	7	http://www.geonames.org/5363943	26	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
+C473	T266				http://www.geonames.org/2782113			R001						http://www.geonames.org/6255148				
+C474	T267				http://www.geonames.org/2802361			R090	1967	11		30		http://www.geonames.org/6255148				
+C475	T268		taken in vertical haul from 30 meters in a surface temp of 23.6 degrees C	1	http://www.geonames.org/1861060	http://www.geonames.org/2129088		R053	1930	8		11		http://www.geonames.org/6255147				
+C476	T269		Adriatic Sea and Gulf of Naples		http://www.geonames.org/3175395		spring	R044						http://www.geonames.org/6255148				
+C477	T270				http://www.geonames.org/2782113	http://www.geonames.org/3052649		R001	1950	5	http://www.geonames.org/2766935			http://www.geonames.org/6255148				
+C478	T270				http://www.geonames.org/1861060			R034						http://www.geonames.org/6255147				
+C479	T271				http://www.geonames.org/3144096	http://www.geonames.org/2960860		R154	1892	7		31		http://www.geonames.org/6255148	http://www.geonames.org/7521757	http://www.geonames.org/7521757		
 C480	T271							R003										
-C481	T272					Barents Sea		R038										
-C482	T274				Germany	Uklei Lake		R155						Europe				
-C483	T275				Korea	Shiwha Bay		R156	2010	5				Asia				
-C484	T284				Austria			R157						Europe				
+C481	T272					http://www.geonames.org/630647		R038										
+C482	T274				http://www.geonames.org/2921044	Uklei Lake		R155						http://www.geonames.org/6255148				
+C483	T275				http://www.geonames.org/1835841	http://www.geonames.org/1912206		R156	2010	5				http://www.geonames.org/6255147				
+C484	T284				http://www.geonames.org/2782113			R157						http://www.geonames.org/6255148				
 C485	T273							R158										
-C486	T289				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C487	T289				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C488	T048				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C489	T048				China	Yellow Sea		R159	2011	5		8		Asia			36.014125	120.261067
-C490	T048				China	Yellow Sea		R159	2011	9		20		Asia			39.253678	122.597683
-C491	T048				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C492	T048				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C493	T048				China	Yellow Sea		R159	2011	5		8		Asia			36.014125	120.261067
-C494	T175				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C495	T175				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C496	T175				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
-C497	T175				China	Yellow Sea		R159	2011	5		9		Asia			34.812714	119.527122
+C486	T289				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C487	T289				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C488	T048				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C489	T048				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		8		http://www.geonames.org/6255147			36.014125	120.261067
+C490	T048				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	9		20		http://www.geonames.org/6255147			39.253678	122.597683
+C491	T048				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C492	T048				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C493	T048				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		8		http://www.geonames.org/6255147			36.014125	120.261067
+C494	T175				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C495	T175				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C496	T175				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C497	T175				http://www.geonames.org/1814991	http://www.geonames.org/1818183		R159	2011	5		9		http://www.geonames.org/6255147			34.812714	119.527122
+C498	T164		Found in a tub of Lemna on University of Reading grounds		http://www.geonames.org/6269131		March and April 1936	R033	1936		http://www.geonames.org/2639577			http://www.geonames.org/6255148				
+C499	T165		occurred in very large numbers in the water of a small roadside put in Child's Piece, a wood about two miles west of Mortimer Common (Ordinance Survey Grid Reference: SP636643)		http://www.geonames.org/6269131		winter	R080			http://www.geonames.org/7294187		http://www.geonames.org/3333217	http://www.geonames.org/6255148				
