@@ -7744,15 +7744,15 @@ M7697	C492		false	http://eol.org/schema/terms/GenbankAccessionNumber	KF234059			
 M7698	C494		true	http://eol.org/schema/terms/CellLength	25	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R159
 M7702	C494		true	http://eol.org/schema/terms/CellLength	38.3	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R159
 M7703	C494		true	http://eol.org/schema/terms/CellLength	30.2	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001109		Compiler: Anne E Thessen	R159
-				http://eol.org/schema/terms/SampleSize	100					
-				http://eol.org/schema/terms/SampleSize	100					
-				http://eol.org/schema/terms/SampleSize	100					
+		M7698		http://eol.org/schema/terms/SampleSize	100					
+		M7702		http://eol.org/schema/terms/SampleSize	100					
+		M7703		http://eol.org/schema/terms/SampleSize	100					
 M7704	C494		true	http://eol.org/schema/terms/CellWidth	17.7	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R159
 M7705	C494		true	http://eol.org/schema/terms/CellWidth	30.7	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R159
 M7706	C494		true	http://eol.org/schema/terms/CellWidth	23.1	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001109		Compiler: Anne E Thessen	R159
-				http://eol.org/schema/terms/SampleSize	100					
-				http://eol.org/schema/terms/SampleSize	100					
-				http://eol.org/schema/terms/SampleSize	100					
+		M7704		http://eol.org/schema/terms/SampleSize	100					
+		M7705		http://eol.org/schema/terms/SampleSize	100					
+		M7706		http://eol.org/schema/terms/SampleSize	100					
 M7707	C494		true	http://eol.org/schema/terms/CellShape3D	http://eol.org/schema/terms/2cones				Compiler: Anne E Thessen	R159
 M7708	C494		true	http://purl.obolibrary.org/obo/OBA_1000018	http://purl.obolibrary.org/obo/PATO_0001499				Compiler: Anne E Thessen	R159
 M7709	C494		true	http://eol.org/schema/terms/NucleusLocation	http://purl.obolibrary.org/obo/BSPO_0000056				Compiler: Anne E Thessen	R159
@@ -8150,3 +8150,30 @@ M8099	C501		true	http://eol.org/schema/terms/Present	http://www.geonames.org/262
 M8100	C502		true	http://eol.org/schema/terms/Present	http://www.geonames.org/6251999				Compiler: Anne E Thessen	R163
 M8101	C503		true	http://eol.org/schema/terms/Present	http://www.geonames.org/3624060				Compiler: Anne E Thessen	R164
 M8102	C501		true	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_00002228				Compiler: Anne E Thessen	R162
+M8103	C502		true	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_00000020				Compiler: Anne E Thessen	R163
+M8104	C502		true	http://purl.obolibrary.org/obo/OBA_1000133	http://purl.obolibrary.org/obo/PATO_0001950				Compiler: Anne E Thessen	R163
+M8105	C502		true	http://purl.obolibrary.org/obo/OBA_1000134	http://purl.obolibrary.org/obo/PATO_0001950				Compiler: Anne E Thessen	R163
+M8106	C502		true	http://eol.org/schema/terms/EpiconeShape	http://eol.org/schema/terms/hemispherical				Compiler: Anne E Thessen	R163
+M8107	C502		true	http://eol.org/schema/terms/HypoconeShape	http://eol.org/schema/terms/hemispherical				Compiler: Anne E Thessen	R163
+M8108	C502		true	http://eol.org/schema/terms/CellLength	36.1	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R163
+M8109	C502		true	http://eol.org/schema/terms/CellLength	25.5	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R163
+M8110	C502		true	http://eol.org/schema/terms/CellWidth	27.6	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R163
+M8111	C502		true	http://eol.org/schema/terms/CellWidth	21.2	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R163
+M8112	C502		true	http://purl.obolibrary.org/obo/GO_0009507	http://purl.obolibrary.org/obo/PATO_0000467				Compiler: Anne E Thessen	R163
+M8113	C502		true	http://purl.obolibrary.org/obo/OBA_1000095	http://purl.obolibrary.org/obo/PATO_0002107				Compiler: Anne E Thessen	R163
+M8114	C502		true	http://purl.obolibrary.org/obo/OBA_1000095	http://eol.org/schema/terms/parietal				Compiler: Anne E Thessen	R163
+M8115	C502		true	http://eol.org/schema/terms/CingulumType	http://eol.org/schema/terms/descendingCingulum				Compiler: Anne E Thessen	R163
+M8116	C502		true	http://eol.org/schema/terms/SulcusType	http://eol.org/schema/terms/protrudingSulcus				Compiler: Anne E Thessen	R163
+M8117	C502		true	http://purl.obolibrary.org/obo/GO_1990413	http://purl.obolibrary.org/obo/PATO_0000467				Compiler: Anne E Thessen	R163
+M8118	C502		true	http://purl.obolibrary.org/obo/OBA_1000128	http://purl.obolibrary.org/obo/PATO_0000953				Compiler: Anne E Thessen	R163
+M8120	C502		false	http://rs.tdwg.org/dwc/terms/typeStatus	http://rs.tdwg.org/ontology/voc/TaxonName#Holotype				Compiler: Anne E Thessen	R163
+M8121	C502		true	http://eol.org/schema/terms/VoucheredSequence	http://eol.org/schema/terms/genseq1				Compiler: Anne E Thessen	R163
+		M8121		http://purl.org/dc/terms/source	http://www.ncbi.nlm.nih.gov/nuccore/KY688186					
+		M8121		http://purl.org/dc/terms/source	http://www.ncbi.nlm.nih.gov/nuccore/KY688184					
+		M8121		http://purl.org/dc/terms/source	http://www.ncbi.nlm.nih.gov/nuccore/KY688188					
+M8122	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688186				Compiler: Anne E Thessen	R163
+M8123	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688184				Compiler: Anne E Thessen	R163
+M8124	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688185				Compiler: Anne E Thessen	R163
+M8125	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688187				Compiler: Anne E Thessen	R163
+M8126	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688188				Compiler: Anne E Thessen	R163
+M8127	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688189				Compiler: Anne E Thessen	R163
