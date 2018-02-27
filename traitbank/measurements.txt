@@ -80,8 +80,8 @@ M0080	C011		true	http://purl.obolibrary.org/obo/OBA_1000018	http://purl.obolibra
 M0081	C011		true	http://purl.obolibrary.org/obo/OBA_1000075	http://purl.obolibrary.org/obo/PATO_0001945				Compiler: Anne E Thessen	R003
 M0082	C011		true	http://eol.org/schema/terms/CellLength	54	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R003
 M0083	C011		true	http://eol.org/schema/terms/CellLength	35	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R003
-M0084	C011		true	http://eol.org/schema/terms/CellWidth	35	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114	rarely 21-45 ?m	Compiler: Anne E Thessen	R003
-M0085	C011		true	http://eol.org/schema/terms/CellWidth	30	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113	rarely 21-45 ?m	Compiler: Anne E Thessen	R003
+M0084	C011		true	http://eol.org/schema/terms/CellWidth	35	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114	rarely 21-45 μm	Compiler: Anne E Thessen	R003
+M0085	C011		true	http://eol.org/schema/terms/CellWidth	30	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113	rarely 21-45 μm	Compiler: Anne E Thessen	R003
 M0086	C011		true	http://eol.org/schema/terms/CellDepth	35	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001114		Compiler: Anne E Thessen	R003
 M0087	C011		true	http://eol.org/schema/terms/CellDepth	30	http://purl.obolibrary.org/obo/UO_0000017	http://semanticscience.org/resource/SIO_001113		Compiler: Anne E Thessen	R003
 M0088	C011		true	http://purl.obolibrary.org/obo/GO_0097687	http://purl.obolibrary.org/obo/PATO_0000462				Compiler: Anne E Thessen	R003
@@ -8149,7 +8149,7 @@ M8098	C500		true	http://eol.org/schema/terms/Present	http://www.geonames.org/625
 M8099	C501		true	http://eol.org/schema/terms/Present	http://www.geonames.org/2623032				Compiler: Anne E Thessen	R162
 M8100	C502		true	http://eol.org/schema/terms/Present	http://www.geonames.org/6251999				Compiler: Anne E Thessen	R163
 M8101	C503		true	http://eol.org/schema/terms/Present	http://www.geonames.org/3624060				Compiler: Anne E Thessen	R164
-M8102	C501		true	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_00002228				Compiler: Anne E Thessen	R162
+M8102	C501		true	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_00000033				Compiler: Anne E Thessen	R162
 M8103	C502		true	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_00000020				Compiler: Anne E Thessen	R163
 M8104	C502		true	http://purl.obolibrary.org/obo/OBA_1000133	http://purl.obolibrary.org/obo/PATO_0001950				Compiler: Anne E Thessen	R163
 M8105	C502		true	http://purl.obolibrary.org/obo/OBA_1000134	http://purl.obolibrary.org/obo/PATO_0001950				Compiler: Anne E Thessen	R163
@@ -8177,3 +8177,23 @@ M8124	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688185			
 M8125	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688187				Compiler: Anne E Thessen	R163
 M8126	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688188				Compiler: Anne E Thessen	R163
 M8127	C502		false	http://eol.org/schema/terms/GenbankAccessionNumber	KY688189				Compiler: Anne E Thessen	R163
+M8128	C501		true	http://eol.org/schema/terms/CingulumType	http://eol.org/schema/terms/descendingCingulum				Compiler: Anne E Thessen	R162
+M8129	C504		true	http://eol.org/schema/terms/Present	http://www.geonames.org/1643084				Compiler: Anne E Thessen	R030
+M8130	C504		true	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_00000033				Compiler: Anne E Thessen	R030
+M8131	C504		true	http://eol.org/schema/terms/EpiconeShape	http://eol.org/schema/terms/roundedConical				Compiler: Anne E Thessen	R030
+M8132	C504		true	http://eol.org/schema/terms/HypoconeShape	http://eol.org/schema/terms/hemispherical			sulcus is slanted so that the right side of the hypocone is larger than the left	Compiler: Anne E Thessen	R030
+M8133	C504		true	http://purl.obolibrary.org/obo/OBA_1000133	http://purl.obolibrary.org/obo/PATO_0001950				Compiler: Anne E Thessen	R030
+M8134	C504		true	http://purl.obolibrary.org/obo/OBA_1000134	http://purl.obolibrary.org/obo/PATO_0001950				Compiler: Anne E Thessen	R030
+M8135	C504		true	http://eol.org/schema/terms/CingulumType	http://eol.org/schema/terms/noDisplaceCingulum				Compiler: Anne E Thessen	R030
+M8136	C504		true	http://eol.org/schema/terms/CellLength	20	http://purl.obolibrary.org/obo/UO_0000017			Compiler: Anne E Thessen	R030
+M8137	C504		true	http://eol.org/schema/terms/CellWidth	16	http://purl.obolibrary.org/obo/UO_0000017			Compiler: Anne E Thessen	R030
+M8138	C504		true	http://eol.org/schema/terms/CellDepth	12	http://purl.obolibrary.org/obo/UO_0000017			Compiler: Anne E Thessen	R030
+M8139	C504		true	http://purl.obolibrary.org/obo/OBA_0000052	http://purl.obolibrary.org/obo/PATO_0002053				Compiler: Anne E Thessen	R030
+M8140	C504		true	http://eol.org/schema/terms/CellShape3D	http://purl.obolibrary.org/obo/PATO_0001874				Compiler: Anne E Thessen	R030
+M8141	C504		true	http://purl.obolibrary.org/obo/OBA_1000018	http://purl.obolibrary.org/obo/PATO_0001499				Compiler: Anne E Thessen	R030
+M8142	C504		true	http://eol.org/schema/terms/NucleusLocation	http://purl.obolibrary.org/obo/PATO_0002268				Compiler: Anne E Thessen	R030
+M8143	C504		true	http://purl.obolibrary.org/obo/GO_0009507	http://purl.obolibrary.org/obo/PATO_0000462				Compiler: Anne E Thessen	R030
+M8144	C504		true	http://eol.org/schema/terms/SulcusType	http://eol.org/schema/terms/straightSulcus				Compiler: Anne E Thessen	R030
+M8145	C504		true	http://eol.org/schema/terms/CingulumLocation	http://eol.org/schema/terms/preMedian				Compiler: Anne E Thessen	R030
+M8146	C504		true	http://purl.obolibrary.org/obo/OBA_0000052	http://eol.org/schema/terms/hypoconeWider				Compiler: Anne E Thessen	R030
+M8147	C505		true	http://eol.org/schema/terms/Present	http://www.geonames.org/294640				Compiler: Anne E Thessen	R165

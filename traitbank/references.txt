@@ -159,3 +159,5 @@ R161	Sheath RG and Steinman AD (1982) A checklist of freshwater algae of the Nor
 R162	Nygaard G (1949) Hydrobiological studies on some danish ponds and lakes. Part II: The quotient hypothesis and some new or little known phytoplankton organisms. Det Kongelige Danske Videnskabernes Selskab, Biologiske Skrifter Kobenhavn 7(1): 1-293.
 R163	Wang N, Luo Z, Mertens KN, McCarthy FMG, Gu L, Gu H (2017) Cyst-motile stage relationship and molecular phylogeny of a new freshwater dinoflagellate Gymnodinium plasticum from Plastic Lake, Canada. Phycological Research 65(4): 312-321.
 R164	Umaña Villalobos G (1988) Fitoplancton de las lagunas Barba, Fraijanes y San Joaquín, Costa Rica. Rev. Biol. Trop. 36(2B): 471-477.
+R165	Lieberman OS, Shilo M, van Rijn J (1994) The physiological ecology of a freshwater dinoflagellate bloom population: Vertical migration, nitrogen limitation, and nutrient uptake kinetics. J. Phycol. 30(6): 964-971.
+

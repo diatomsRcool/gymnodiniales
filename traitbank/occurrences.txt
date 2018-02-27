@@ -453,3 +453,5 @@ C500	T281				http://www.geonames.org/6251999			R161			http://www.geonames.org/60
 C501	T281				http://www.geonames.org/2623032			R162	1944	9		14		http://www.geonames.org/6255148				
 C502	T296				http://www.geonames.org/6251999	http://www.geonames.org/6106190		R163						http://www.geonames.org/6093943	http://www.geonames.org/6255149				
 C503	T297				http://www.geonames.org/3624060			R164											
+C504	T297				http://www.geonames.org/1643084			R030					http://www.geonames.org/1642672	http://www.geonames.org/6255147	http://www.geonames.org/1642673			
+C505	T297				http://www.geonames.org/294640			R165						http://www.geonames.org/6255147				
