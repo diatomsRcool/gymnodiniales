@@ -156,7 +156,7 @@ T155	Gymnodinium sp.	T106		synonym
 T156	Gyrodinium impudicum	T110		synonym	
 T157	Peridinium inerme	T116		synonym	
 T158	Gyrodinium instriatum	T117		synonym	
-T159	Gymnodinium albulum	T130		synonym	
+T159	Gymnodinium albulum	T161		species	
 T160	Gymnodinium hyalinum	T141			
 T161	Gymnodinium	T285	genus		
 T162	Cyanobacteria	T163	phylum		
@@ -286,10 +286,13 @@ T286	Dubosquellidae		family
 T287	Levanderina fissa	T288	species		
 T288	Levanderina	T285	genus		
 T289	Gymnodinium inusitatum	T161	species		
-T290	Gymnodinium palustre	T291		synonym		
+T290	Gymnodinium palustre	T291			synonym	
 T291	Biecheleria pseudopalustris	T292	species		
 T292	Biecheleria	T285	genus		
 T293	Spiniferodinium	T285	genus		
 T294	Spiniferodinium palustre	T293	species		
-T295	Gymnodinium palustre	T294		synonym		
-
+T295	Gymnodinium palustre	T294		synonym	
+T296	Gymnodinium plasticum	T161	species		
+T297	Gymnodinium bogoriense	T161	species		
+T298	Gymnodinium mirabile	T161	species		
+T299	Gymnodinium obesum	T161	species		

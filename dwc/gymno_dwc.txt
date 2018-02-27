@@ -225,7 +225,7 @@ T155	T106	Gymnodinium sp.	T161	species	synonym	Hada	1967	Hada Y (1967) Protozoan
 T156	T110	Gyrodinium impudicum	T161	species	homotypic synonym	Fraga & Bravo	1995				http://algaebase.org/search/species/detail/?species_id=J47ab6d9d2f872a2d
 T157	T116	Peridinium inerme	T161	species	homotypic synonym	Schmarda	1854				http://algaebase.org/search/species/detail/?species_id=Hc8bf7080ceef4bf4
 T158	T287	Gyrodinium instriatum	T288	species	synonym	Freudenthal & Lee	1963				http://algaebase.org/search/species/detail/?species_id=o893099338739df5f
-T159	T130	Gymnodinium albulum	T161	species	heterotypic synonym	Lindemann	1928				http://algaebase.org/search/species/detail/?species_id=x318be95558ed4a89
+T159	T159	Gymnodinium albulum	T161	species	accepted	Lindemann	1928				http://algaebase.org/search/species/detail/?species_id=x318be95558ed4a89
 T160	T141	Gymnodinium hyalinum	T161	species	heterotypic synonym	Lebour	1925				http://algaebase.org/search/species/detail/?species_id=K5c652575a211e2a5
 T161	T161	Gymnodinium	T285	genus	accepted	Stein	1878				http://algaebase.org/search/genus/detail/?genus_id=cd3dfdeb82b301db9
 T164	T049	Tetrodinium chiastosporum	T161	species	synonym						
@@ -334,9 +334,9 @@ T252	T252	Gymnodinium uberrimum	T161	species	accepted	(Allman) Kofoid & Swezy	19
 T253	T252	Peridinium uberrima	T161	species	homotypic synonym	Allman	1855				http://algaebase.org/search/species/detail/?species_id=y8ea58b4676b95e9a
 T254	T252	Gymnodinium mirabile var. rufescens	T161	variety	heterotypic synonym	Penard	1891				http://algaebase.org/search/species/detail/?species_id=N568a58985aafacad
 T363	T252	Glenodinium uberrimum	T161	species	homotypic synonym	Schilling	1913				http://algaebase.org/search/species/detail/?species_id=R277ce5f408ce85cd
-T364	T252	Gymnodinium bogoriense	T161	species	heterotypic synonym	Klebs	1912				http://algaebase.org/search/species/detail/?species_id=jec528230d89b2921
+T364	T364	Gymnodinium bogoriense	T161	species	accepted	Klebs	1912				http://algaebase.org/search/species/detail/?species_id=jec528230d89b2921
 T365	T252	Gymnodinium irregulare	T161	species	heterotypic synonym	Christen	1959				http://algaebase.org/search/species/detail/?species_id=C112e93cd358e5636
-T366	T252	Gymnodinium obesum	T161	species	heterotypic synonym	Schiller	1933				http://algaebase.org/search/species/detail/?species_id=fa42490fbe46c30b8
+T366	T366	Gymnodinium obesum	T161	species	accepted	Schiller	1933				http://algaebase.org/search/species/detail/?species_id=fa42490fbe46c30b8
 T367	T252	Gymnodinium poculiferum	T161	species	heterotypic synonym	Skuja	1956				http://algaebase.org/search/species/detail/?species_id=H9a55eaa3cfd24d7e
 T368	T252	Gymnodinium rotundatum	T161	species	heterotypic synonym	Klebs	1912				http://algaebase.org/search/species/detail/?species_id=Q333870f62a006ed4
 T369	T252	Gymnodinium rufescens	T161	species	heterotypic synonym	Lemmermann	1910				http://algaebase.org/search/species/detail/?species_id=N55070cd9f0c4effa
@@ -914,3 +914,4 @@ T902	T902	Gymnodinium coeruleum	T161	species	uncertain	Antipova	1955
 T903	T903	Cucumeridinium cucumis	T875	species	accepted	(Schütt) Gómez, Lopez-Garcia, Takayama & Moreira	2015				
 T904	T903	Balechina coerulea	T875	species	synonym	Taylor	1976				
 T905	T905	Cucumeridinium lira	T875	species	accepted	(Kofoid & Swezy) Gómez, Lopez-Garcia, Takayama & Moreira	2015				
+T906	T906	Gymnodinium mirabile	T161	species	accepted	Penard	1891				

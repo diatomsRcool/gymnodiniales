@@ -88,7 +88,7 @@ C097	T031							R048						http://www.geonames.org/6255152
 C098	T031						January 1-8 1962	R049	1962	1				http://www.geonames.org/6255152				
 C099	T033					http://www.geonames.org/3052649		R001	1950	5				http://www.geonames.org/6255148				
 C100	T034				http://www.geonames.org/1861060			R065						http://www.geonames.org/6255147				
-C101	T034				Brazil			R066						http://www.geonames.org/6255150				
+C101	T034				http://www.geonames.org/3469034			R066						http://www.geonames.org/6255150				
 C102	T035					http://www.geonames.org/3183462		R044						http://www.geonames.org/6255148				
 C103	T035					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
 C104	T036				http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003	1917	7		19	http://www.geonames.org/5332921	http://www.geonames.org/6255149				
@@ -113,7 +113,7 @@ C122	T048							R077
 C131	T048							R078										
 C132	T048							R079										
 C133	T049							R080										
-C134	T050				Tanzania			R081	1956	3		5		http://www.geonames.org/6255146		http://www.geonames.org/148726		
+C134	T050				http://www.geonames.org/149590			R081	1956	3		5		http://www.geonames.org/6255146		http://www.geonames.org/148726		
 C135	T051		Observed on July 21, 1906; July 5, 1917 at 21.4°C; July 23, 1917 at 20.2°C		http://www.geonames.org/6252001	http://www.geonames.org/2363254		R003					http://www.geonames.org/5332921	http://www.geonames.org/6255149				
 C138	T051					http://www.geonames.org/2194166		R067						http://www.geonames.org/2077456				
 C139	T051							R049						http://www.geonames.org/6255152				
@@ -451,3 +451,4 @@ C498	T164		Found in a tub of Lemna on University of Reading grounds		http://www.
 C499	T165		occurred in very large numbers in the water of a small roadside put in Child's Piece, a wood about two miles west of Mortimer Common (Ordinance Survey Grid Reference: SP636643)		http://www.geonames.org/6269131		winter	R080			http://www.geonames.org/7294187		http://www.geonames.org/3333217	http://www.geonames.org/6255148				
 C500	T281				http://www.geonames.org/6251999			R161			http://www.geonames.org/6091069	http://www.geonames.org/6255149				
 C501	T281				http://www.geonames.org/2623032			R162	1944	9		14		http://www.geonames.org/6255148				
+C502	T296				http://www.geonames.org/6251999	http://www.geonames.org/6106190		R163						http://www.geonames.org/6093943	http://www.geonames.org/6255149				
