@@ -590,27 +590,55 @@
       "taxon":{"name":"Gymnodinium rhomboides", "rank":"species", "authority":"Schütt", "year":"1895"},
       "language":"de",
       "text":"Querfurche etwa in der Mitte. Vorder und Hinterkörper fast gleich lang, konisch, spitz zulaufend, aber am Ende stumpf, längsgestreift. Querfurche schwach links drehend, Längsfurche schmal, eine Strecke auf den Vorderkörper übergehend. Länge: ca. 0,047 mm (berechnet). Verbreitung: Einmal in den dänischen Gewässern gefunden. Unsicher, woher beschrieben."}},
->Gymnodinium rhomboids Schütt, Taf. 5, Fig. 20
-Die adriatischen Individuen stimmen in der Gestalt völlig mit der Schütt'schen Zeichnung überein, doch erreichen sie nur die Hälfte der Größe, die Schütt und Lebour angeben. Diesen Größenunterschieden braucht man keine besondere Bedeutung beizumessen, da bei sehr vielen in den nordischen Meeren und im Mittelmeer lebenden Pflanzen die letzteren kleiner sind. Hingegen liegt ein größerer Unterschied darin, daß die adriatischen Individuen zahlreiche gelbgrüne Chromatophoren führen, während Gymnodinium rhomboides sonst als chromatophorenfrei bezeichnet wird. Trotz dieser Unterschiede, die schließlich erklärbar sind, sehe ich von einer Neubenennung ab.
-V.: perenn, besonders Frühjahr bis Herbst.
-W.: Adria, 0,75; Mittelmeer, Atlantik.
-Soz. Verh.: vereinzelt bis reichlich; untergeordnet bis mit bestimmend; einzeln bis scharenweise.
->Gymnodinium rhomboids
-Cellule biconique avec le contour de corps nettement rhomboide, correspondant bien à la représentation de Lebour (1917). Epicone un peu plus petit que l'hypocone, terminé par un sommet arrondi. Antapex en pointe plus ou moins atténuée. Ceinture ouverte décalée d'un peu plus sa largeur. Sulcus sur l'hypocone, se prolongeant sur l'epicone sans atteindre l'apex. Amphiesma présentant une forte ornementation côtelée longitudinale. Incolore.
-Dimension: 27 à 43 μm
-Récoltée dans les eaux de Haute Normandie du Havre à Etretat entre mai et juillet.
->Glenodinium roseolum
-Das rosenrothe Augenkranzthierchen wurde nur in wenigen Exemplaren gefunden. Der Körper ist beinahe eiförmig, von blassrosenrother Farbe. Der Panzer glatt, mit einer Querfurche. Längsfurche und Geiselfaden fehlt. Das runde grosse Auge ist roth und liegt in der Richtung der Querfurche. Die Verdauungshöhlen waren theilweise mit Microglenen gefüllt, welche die Hauptnahrung ausmachen. Contractile Blasen konnten nicht wahrgenommen werden.
-Länge 1/60 '''
-Taf. I, Fig. 9, bei 210 facher und 38 facher Vergrösserung.
->Gymnodinium roseostigma
-Petites cellules elliptiques.Epicone et hypocone semblables. Ceinture large et superficielle. Sulcus difficile à observer. Noyau central ou dans l'hypocone. Chloroplastes absents. Présence d'un stigma de coleur rougeâtre en bordure du sulcus dans l'hypocone.
-Longueur: 10-19 μm (16), Largeur: 9-15 μm (12)
->Gymnodinium rubrocinctum 
-Celler 30-50 μm lange, ovale. Tværfurens ender lidt forskudt. Længdefuren fortsætter til (eller næsten til) apex. Kernen omgivet af en dobbelt-struktur.
->Gymnodinium schuettii n. sp. T. II, Abb. 21 a-e, 1100X
-Zellform rundlich-ellipsoidisch, dorsoventral etwas abgeplattet, 13-18 μ lang, 10-12 μ breit. Epivalva 3-3.7 μ hoch, flach mützenförmig, so breit wie die Hypovalva, ventraler Rand der Querfurche kurz spitz eingekerbt; Hypovalva 5.4-6 μ hoch, halbkreisförmig, antapikal von der Längsfurche flach ausgerandet; Querfurche breit und tief, kreisförmig; Längsfurche gut entwickelt, den Antapex flach ausrandend. Chromatophoren zahlreich, ellipsoidisch, goldgelb; Stigma halbmondförmig, schön rot, etwas über der Mitte in der Längsfurche gelegen. Plasma ungefärbt, mit kleinen Öltröpfchen; Cysten ± kugelig, gelbbraun von den Chromatophoren gefärbt, und mit größeren und kleineren Öltröpfchen.
-Vorkommen: Alte Donau, hier manchmal zahlreich (30. VI. 1926) und Neusiedlersee. Zuweilen lagen besonders im Oberkörper 1-3 Karotinoidkörper, von meist unregelmäßiger oder ovaler Form und gelbbrauner Färbung.
+{"taxonDescription":{"author":"J. Schiller",
+      "year":"1928",
+      "title":"Die planktischen Vegetationen des Adriatischen Meeres. C. Dinoflagellata. Systematischer Teil. 2. Teil Gymnodiniales",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium rhomboides", "rank":"species", "authority":"Schütt", "year":"1895"},
+      "language":"de",
+      "text":"Die adriatischen Individuen stimmen in der Gestalt völlig mit der Schütt'schen Zeichnung überein, doch erreichen sie nur die Hälfte der Größe, die Schütt und Lebour angeben. Diesen Größenunterschieden braucht man keine besondere Bedeutung beizumessen, da bei sehr vielen in den nordischen Meeren und im Mittelmeer lebenden Pflanzen die letzteren kleiner sind. Hingegen liegt ein größerer Unterschied darin, daß die adriatischen Individuen zahlreiche gelbgrüne Chromatophoren führen, während Gymnodinium rhomboides sonst als chromatophorenfrei bezeichnet wird. Trotz dieser Unterschiede, die schließlich erklärbar sind, sehe ich von einer Neubenennung ab. V.: perenn, besonders Frühjahr bis Herbst. W.: Adria, 0,75; Mittelmeer, Atlantik. Soz. Verh.: vereinzelt bis reichlich; untergeordnet bis mit bestimmend; einzeln bis scharenweise."}},
+{"taxonDescription":{"author":"G. Paulmier",
+      "year":"1992",
+      "title":"Catalogue illustré des microphytes planctoniques et benthiques des côtes normandes",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium rhomboides", "rank":"species", "authority":"Schütt", "year":"1895"},
+      "language":"fr",
+      "text":"Cellule biconique avec le contour de corps nettement rhomboide, correspondant bien à la représentation de Lebour (1917). Epicone un peu plus petit que l'hypocone, terminé par un sommet arrondi. Antapex en pointe plus ou moins atténuée. Ceinture ouverte décalée d'un peu plus sa largeur. Sulcus sur l'hypocone, se prolongeant sur l'epicone sans atteindre l'apex. Amphiesma présentant une forte ornementation côtelée longitudinale. Incolore. Dimension: 27 à 43 μm. Récoltée dans les eaux de Haute Normandie du Havre à Etretat entre mai et juillet."}},
+{"taxonDescription":{"author":"L. Schmarda",
+      "year":"1854",
+      "title":"Zur Naturgeschichte Ägyptens",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Glenodinium roseolum", "rank":"species", "authority":"Schmarda", "year":"1854"},
+      "language":"de",
+      "text":"Das rosenrothe Augenkranzthierchen wurde nur in wenigen Exemplaren gefunden. Der Körper ist beinahe eiförmig, von blassrosenrother Farbe. Der Panzer glatt, mit einer Querfurche. Längsfurche und Geiselfaden fehlt. Das runde grosse Auge ist roth und liegt in der Richtung der Querfurche. Die Verdauungshöhlen waren theilweise mit Microglenen gefüllt, welche die Hauptnahrung ausmachen. Contractile Blasen konnten nicht wahrgenommen werden. Länge 1/60 ''' Taf. I, Fig. 9, bei 210 facher und 38 facher Vergrösserung."}},
+{"taxonDescription":{"author":["L. Bérard-Therriault","M. Poulin","L. Bossé"],
+      "year":"1999",
+      "title":"Guide d'identification du phytoplancton marin de l'estuaire et du Golfe du Saint-Laurent incluant également certains protozoaires",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium roseostigma", "rank":"species", "authority":"Campbell", "year":"1973"},
+      "language":"fr",
+      "text":"Petites cellules elliptiques.Epicone et hypocone semblables. Ceinture large et superficielle. Sulcus difficile à observer. Noyau central ou dans l'hypocone. Chloroplastes absents. Présence d'un stigma de coleur rougeâtre en bordure du sulcus dans l'hypocone. Longueur: 10-19 μm (16), Largeur: 9-15 μm (12)"}},
+{"taxonDescription":{"author":["G. Hansen","J. Larsen"],
+      "year":"1992",
+      "title":"Dinoflagellater I danske farvande",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium rubrocinctum", "rank":"species", "authority":"Lebour", "year":"1925"},
+      "language":"dk",
+      "text":"Celler 30-50 μm lange, ovale. Tværfurens ender lidt forskudt. Længdefuren fortsætter til (eller næsten til) apex. Kernen omgivet af en dobbelt-struktur."}},
+{"taxonDescription":{"author":"J. Schiller",
+      "year":"1957",
+      "title":"Untersuchungen an den planktischen Protophyten des Neusiedlersees 1950-1954",
+      "fullCitation":"",
+      "doi":"",
+      "taxon":{"name":"Gymnodinium schuettii", "rank":"species", "authority":"Schiller", "year":"1957"},
+      "language":"de",
+      "text":"Zellform rundlich-ellipsoidisch, dorsoventral etwas abgeplattet, 13-18 μ lang, 10-12 μ breit. Epivalva 3-3.7 μ hoch, flach mützenförmig, so breit wie die Hypovalva, ventraler Rand der Querfurche kurz spitz eingekerbt; Hypovalva 5.4-6 μ hoch, halbkreisförmig, antapikal von der Längsfurche flach ausgerandet; Querfurche breit und tief, kreisförmig; Längsfurche gut entwickelt, den Antapex flach ausrandend. Chromatophoren zahlreich, ellipsoidisch, goldgelb; Stigma halbmondförmig, schön rot, etwas über der Mitte in der Längsfurche gelegen. Plasma ungefärbt, mit kleinen Öltröpfchen; Cysten ± kugelig, gelbbraun von den Chromatophoren gefärbt, und mit größeren und kleineren Öltröpfchen. Vorkommen: Alte Donau, hier manchmal zahlreich (30. VI. 1926) und Neusiedlersee. Zuweilen lagen besonders im Oberkörper 1-3 Karotinoidkörper, von meist unregelmäßiger oder ovaler Form und gelbbrauner Färbung."}},
+
 >Gymnodinium semidivisum spec. nov., Taf. 5, Fig. 16. (Textfig. 17.)
 Vorder- und Hinterkörper fast gleich groß, dorsoventral zusammengedrückt; Vorderkörper in Ventralansicht entweder gleich breit wie hoch, rundlich bis breit oval, Hinterkörper eiförmig bis herzförmig, gleich hoch wie breit; Gürtelfurche äquatorial, eng, die Enden wenig verschoben, Längsfurche auf den Oberkörper nicht übergehend, am Hinterkörper bis knapp zur Hälfte reichend. Plasma ungefärbt, zahlreiche gelblichgrüne Chromatophoren.
 Länge 11-12 μ, Breite 6-7 μ.
